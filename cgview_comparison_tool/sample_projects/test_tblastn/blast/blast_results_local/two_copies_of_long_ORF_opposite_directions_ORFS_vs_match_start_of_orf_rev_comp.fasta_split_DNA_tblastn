@@ -1,0 +1,367 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Monday June 17 23:02:37 2019.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#FILTER=F
+#HITLIST_SIZE=100000
+#DATABASE_GENETIC_CODE=1
+#ERROR_RETRY=5
+#EXPECT=0.1
+#PROGRAM=tblastn
+#WORD_SIZE=3
+#MIN_SCORE=0
+#OUTPUTFILE=./sample_projects/test_tblastn/blast/blast_results_local/two_copies_of_long_ORF_opposite_directions_ORFS_vs_match_start_of_orf_rev_comp.fasta_split_DNA_tblastn
+#INPUTFILE=./sample_projects/test_tblastn/reference_genome/orfs/two_copies_of_long_ORF_opposite_directions.fasta_orfs
+#MIN_HSP_PROP=0.0
+#FETCH_DESC=F
+#HSP_LABEL=F
+#ENTREZ_URL=https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#BLAST_PATH=blastall
+#DATABASE=./sample_projects/test_tblastn/blast/blast_db/match_start_of_orf_rev_comp.fasta_split
+#QUERY_GENETIC_CODE=11
+#ALIGN_TYPE=translated
+#MAX_BYTES_RESPONSE=5000000
+#ENTREZ_DB=nucleotide
+#XML=F
+#INPUTTYPE=protein
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+orf_1_start=52;end=216;strand=1;rf=1	no acceptable hits returned
+orf_2_start=271;end=423;strand=1;rf=1	no acceptable hits returned
+orf_3_start=538;end=3540;strand=1;rf=1	split_start=1;end=300;length=300;source_length=300	-	100.00	100	0	0	2	101	300	1	5e-69	 210
+orf_4_start=3748;end=3843;strand=1;rf=1	no acceptable hits returned
+orf_5_start=3883;end=4098;strand=1;rf=1	no acceptable hits returned
+orf_6_start=4111;end=4218;strand=1;rf=1	no acceptable hits returned
+orf_7_start=4258;end=4479;strand=1;rf=1	no acceptable hits returned
+orf_8_start=4567;end=4854;strand=1;rf=1	no acceptable hits returned
+orf_9_start=4939;end=5136;strand=1;rf=1	no acceptable hits returned
+orf_10_start=5158;end=5373;strand=1;rf=1	no acceptable hits returned
+orf_11_start=5431;end=5529;strand=1;rf=1	no acceptable hits returned
+orf_12_start=5551;end=5703;strand=1;rf=1	no acceptable hits returned
+orf_13_start=5770;end=5985;strand=1;rf=1	no acceptable hits returned
+orf_14_start=6019;end=6093;strand=1;rf=1	no acceptable hits returned
+orf_15_start=6094;end=6171;strand=1;rf=1	no acceptable hits returned
+orf_16_start=6214;end=6336;strand=1;rf=1	no acceptable hits returned
+orf_17_start=6730;end=6813;strand=1;rf=1	no acceptable hits returned
+orf_18_start=6976;end=7062;strand=1;rf=1	no acceptable hits returned
+orf_19_start=7303;end=7383;strand=1;rf=1	no acceptable hits returned
+orf_20_start=7435;end=7554;strand=1;rf=1	no acceptable hits returned
+orf_21_start=7564;end=7707;strand=1;rf=1	no acceptable hits returned
+orf_22_start=7855;end=7965;strand=1;rf=1	no acceptable hits returned
+orf_23_start=8044;end=8181;strand=1;rf=1	no acceptable hits returned
+orf_24_start=8251;end=8427;strand=1;rf=1	no acceptable hits returned
+orf_25_start=8527;end=8688;strand=1;rf=1	no acceptable hits returned
+orf_26_start=9028;end=9144;strand=1;rf=1	split_start=1;end=300;length=300;source_length=300	-	100.00	11	0	0	1	11	268	300	3e-06	26.6
+orf_27_start=9181;end=9255;strand=1;rf=1	no acceptable hits returned
+orf_28_start=9439;end=9621;strand=1;rf=1	no acceptable hits returned
+orf_29_start=9700;end=9840;strand=1;rf=1	no acceptable hits returned
+orf_30_start=10138;end=10494;strand=1;rf=1	no acceptable hits returned
+orf_31_start=10495;end=10584;strand=1;rf=1	no acceptable hits returned
+orf_32_start=10687;end=10767;strand=1;rf=1	no acceptable hits returned
+orf_33_start=10819;end=10980;strand=1;rf=1	no acceptable hits returned
+orf_34_start=11008;end=11085;strand=1;rf=1	no acceptable hits returned
+orf_35_start=11164;end=11238;strand=1;rf=1	no acceptable hits returned
+orf_36_start=11569;end=11742;strand=1;rf=1	no acceptable hits returned
+orf_37_start=11743;end=11976;strand=1;rf=1	no acceptable hits returned
+orf_38_start=12028;end=12132;strand=1;rf=1	no acceptable hits returned
+orf_39_start=12226;end=12333;strand=1;rf=1	no acceptable hits returned
+orf_40_start=12349;end=12537;strand=1;rf=1	no acceptable hits returned
+orf_41_start=12544;end=12678;strand=1;rf=1	no acceptable hits returned
+orf_42_start=12955;end=13035;strand=1;rf=1	no acceptable hits returned
+orf_43_start=13198;end=13362;strand=1;rf=1	no acceptable hits returned
+orf_44_start=13426;end=13536;strand=1;rf=1	no acceptable hits returned
+orf_45_start=13558;end=13674;strand=1;rf=1	no acceptable hits returned
+orf_46_start=13825;end=13962;strand=1;rf=1	no acceptable hits returned
+orf_47_start=14029;end=14121;strand=1;rf=1	no acceptable hits returned
+orf_48_start=14389;end=14586;strand=1;rf=1	no acceptable hits returned
+orf_49_start=14764;end=14850;strand=1;rf=1	no acceptable hits returned
+orf_50_start=14866;end=15039;strand=1;rf=1	no acceptable hits returned
+orf_51_start=15256;end=15333;strand=1;rf=1	no acceptable hits returned
+orf_52_start=15463;end=15561;strand=1;rf=1	no acceptable hits returned
+orf_53_start=15688;end=15873;strand=1;rf=1	no acceptable hits returned
+orf_54_start=15886;end=15966;strand=1;rf=1	no acceptable hits returned
+orf_55_start=221;end=373;strand=1;rf=2	no acceptable hits returned
+orf_56_start=377;end=541;strand=1;rf=2	no acceptable hits returned
+orf_57_start=545;end=646;strand=1;rf=2	split_start=1;end=300;length=300;source_length=300	-	100.00	33	0	0	1	33	296	198	9e-22	65.9
+orf_58_start=647;end=754;strand=1;rf=2	split_start=1;end=300;length=300;source_length=300	-	100.00	35	0	0	1	35	194	90	1e-23	70.9
+orf_59_start=1406;end=1489;strand=1;rf=2	no acceptable hits returned
+orf_60_start=1502;end=1582;strand=1;rf=2	no acceptable hits returned
+orf_61_start=1658;end=1750;strand=1;rf=2	no acceptable hits returned
+orf_62_start=1919;end=1999;strand=1;rf=2	no acceptable hits returned
+orf_63_start=2003;end=2089;strand=1;rf=2	no acceptable hits returned
+orf_64_start=2093;end=2179;strand=1;rf=2	no acceptable hits returned
+orf_65_start=2195;end=2365;strand=1;rf=2	no acceptable hits returned
+orf_66_start=2564;end=2662;strand=1;rf=2	no acceptable hits returned
+orf_67_start=2687;end=2779;strand=1;rf=2	no acceptable hits returned
+orf_68_start=2831;end=2986;strand=1;rf=2	no acceptable hits returned
+orf_69_start=3290;end=3433;strand=1;rf=2	split_start=1;end=300;length=300;source_length=300	-	60.00	10	4	0	25	34	157	186	0.008	17.3
+orf_70_start=3791;end=3895;strand=1;rf=2	no acceptable hits returned
+orf_71_start=3899;end=4003;strand=1;rf=2	no acceptable hits returned
+orf_72_start=4019;end=4153;strand=1;rf=2	no acceptable hits returned
+orf_73_start=4355;end=4483;strand=1;rf=2	no acceptable hits returned
+orf_74_start=4667;end=4786;strand=1;rf=2	no acceptable hits returned
+orf_75_start=4838;end=5032;strand=1;rf=2	no acceptable hits returned
+orf_76_start=5033;end=5149;strand=1;rf=2	no acceptable hits returned
+orf_77_start=5630;end=5779;strand=1;rf=2	no acceptable hits returned
+orf_78_start=5819;end=5959;strand=1;rf=2	no acceptable hits returned
+orf_79_start=6356;end=6442;strand=1;rf=2	no acceptable hits returned
+orf_80_start=6521;end=6916;strand=1;rf=2	no acceptable hits returned
+orf_81_start=7049;end=7249;strand=1;rf=2	no acceptable hits returned
+orf_82_start=7277;end=7357;strand=1;rf=2	no acceptable hits returned
+orf_83_start=7385;end=7465;strand=1;rf=2	no acceptable hits returned
+orf_84_start=7511;end=7594;strand=1;rf=2	no acceptable hits returned
+orf_85_start=7616;end=7873;strand=1;rf=2	no acceptable hits returned
+orf_86_start=7949;end=8047;strand=1;rf=2	no acceptable hits returned
+orf_87_start=8063;end=8158;strand=1;rf=2	no acceptable hits returned
+orf_88_start=8345;end=8419;strand=1;rf=2	no acceptable hits returned
+orf_89_start=8432;end=8515;strand=1;rf=2	no acceptable hits returned
+orf_90_start=8528;end=8638;strand=1;rf=2	no acceptable hits returned
+orf_91_start=8639;end=8737;strand=1;rf=2	no acceptable hits returned
+orf_92_start=8786;end=8887;strand=1;rf=2	split_start=1;end=300;length=300;source_length=300	-	100.00	33	0	0	1	33	26	124	8e-24	71.2
+orf_93_start=8948;end=9070;strand=1;rf=2	split_start=1;end=300;length=300;source_length=300	-	100.00	37	0	0	1	37	188	298	1e-25	76.3
+orf_94_start=9302;end=9424;strand=1;rf=2	no acceptable hits returned
+orf_95_start=9470;end=9565;strand=1;rf=2	no acceptable hits returned
+orf_96_start=9626;end=9775;strand=1;rf=2	no acceptable hits returned
+orf_97_start=10262;end=10465;strand=1;rf=2	no acceptable hits returned
+orf_98_start=10601;end=10762;strand=1;rf=2	no acceptable hits returned
+orf_99_start=10769;end=10966;strand=1;rf=2	no acceptable hits returned
+orf_100_start=11321;end=11398;strand=1;rf=2	no acceptable hits returned
+orf_101_start=11576;end=11848;strand=1;rf=2	no acceptable hits returned
+orf_102_start=11870;end=12028;strand=1;rf=2	no acceptable hits returned
+orf_103_start=12173;end=12304;strand=1;rf=2	no acceptable hits returned
+orf_104_start=12515;end=12595;strand=1;rf=2	no acceptable hits returned
+orf_105_start=12818;end=12904;strand=1;rf=2	no acceptable hits returned
+orf_106_start=13628;end=13864;strand=1;rf=2	no acceptable hits returned
+orf_107_start=13919;end=14032;strand=1;rf=2	no acceptable hits returned
+orf_108_start=14132;end=14380;strand=1;rf=2	no acceptable hits returned
+orf_109_start=14555;end=14767;strand=1;rf=2	no acceptable hits returned
+orf_110_start=14786;end=14998;strand=1;rf=2	no acceptable hits returned
+orf_111_start=15110;end=15253;strand=1;rf=2	no acceptable hits returned
+orf_112_start=15284;end=15457;strand=1;rf=2	no acceptable hits returned
+orf_113_start=15473;end=15553;strand=1;rf=2	no acceptable hits returned
+orf_114_start=15572;end=15676;strand=1;rf=2	no acceptable hits returned
+orf_115_start=15731;end=15838;strand=1;rf=2	no acceptable hits returned
+orf_116_start=15905;end=15991;strand=1;rf=2	no acceptable hits returned
+orf_117_start=450;end=548;strand=1;rf=3	no acceptable hits returned
+orf_118_start=771;end=893;strand=1;rf=3	split_start=1;end=300;length=300;source_length=300	-	100.00	23	0	0	1	23	70	2	4e-15	49.3
+orf_119_start=981;end=1142;strand=1;rf=3	no acceptable hits returned
+orf_120_start=1359;end=1622;strand=1;rf=3	no acceptable hits returned
+orf_121_start=1722;end=1817;strand=1;rf=3	no acceptable hits returned
+orf_122_start=1926;end=2006;strand=1;rf=3	no acceptable hits returned
+orf_123_start=2283;end=2369;strand=1;rf=3	no acceptable hits returned
+orf_124_start=2466;end=2546;strand=1;rf=3	no acceptable hits returned
+orf_125_start=2553;end=2666;strand=1;rf=3	no acceptable hits returned
+orf_126_start=3054;end=3203;strand=1;rf=3	no acceptable hits returned
+orf_127_start=3279;end=3428;strand=1;rf=3	no acceptable hits returned
+orf_128_start=3537;end=3659;strand=1;rf=3	no acceptable hits returned
+orf_129_start=3840;end=3923;strand=1;rf=3	no acceptable hits returned
+orf_130_start=4485;end=4562;strand=1;rf=3	no acceptable hits returned
+orf_131_start=4590;end=4727;strand=1;rf=3	no acceptable hits returned
+orf_132_start=4851;end=4961;strand=1;rf=3	no acceptable hits returned
+orf_133_start=5121;end=5501;strand=1;rf=3	no acceptable hits returned
+orf_134_start=5538;end=5633;strand=1;rf=3	no acceptable hits returned
+orf_135_start=5634;end=5888;strand=1;rf=3	no acceptable hits returned
+orf_136_start=6072;end=6185;strand=1;rf=3	no acceptable hits returned
+orf_137_start=6207;end=6347;strand=1;rf=3	no acceptable hits returned
+orf_138_start=6450;end=6524;strand=1;rf=3	no acceptable hits returned
+orf_139_start=6753;end=6848;strand=1;rf=3	no acceptable hits returned
+orf_140_start=7128;end=7235;strand=1;rf=3	no acceptable hits returned
+orf_141_start=7311;end=7394;strand=1;rf=3	no acceptable hits returned
+orf_142_start=7473;end=7679;strand=1;rf=3	no acceptable hits returned
+orf_143_start=7983;end=8066;strand=1;rf=3	no acceptable hits returned
+orf_144_start=8388;end=8495;strand=1;rf=3	no acceptable hits returned
+orf_145_start=8556;end=8789;strand=1;rf=3	split_start=1;end=300;length=300;source_length=300	-	100.00	8	0	0	70	77	3	26	0.002	20.4
+orf_146_start=9093;end=9167;strand=1;rf=3	no acceptable hits returned
+orf_147_start=9180;end=9305;strand=1;rf=3	no acceptable hits returned
+orf_148_start=9366;end=9473;strand=1;rf=3	no acceptable hits returned
+orf_149_start=9498;end=9662;strand=1;rf=3	no acceptable hits returned
+orf_150_start=9663;end=9821;strand=1;rf=3	no acceptable hits returned
+orf_151_start=9936;end=10025;strand=1;rf=3	no acceptable hits returned
+orf_152_start=10284;end=10385;strand=1;rf=3	no acceptable hits returned
+orf_153_start=10416;end=10574;strand=1;rf=3	no acceptable hits returned
+orf_154_start=10581;end=10697;strand=1;rf=3	no acceptable hits returned
+orf_155_start=10962;end=11159;strand=1;rf=3	no acceptable hits returned
+orf_156_start=11286;end=11450;strand=1;rf=3	no acceptable hits returned
+orf_157_start=11550;end=11681;strand=1;rf=3	no acceptable hits returned
+orf_158_start=11709;end=11891;strand=1;rf=3	no acceptable hits returned
+orf_159_start=12123;end=12203;strand=1;rf=3	no acceptable hits returned
+orf_160_start=12288;end=12365;strand=1;rf=3	no acceptable hits returned
+orf_161_start=12465;end=12554;strand=1;rf=3	split_start=1;end=300;length=300;source_length=300	-	71.43	7	2	0	2	8	93	113	0.043	14.6
+orf_162_start=12558;end=12866;strand=1;rf=3	no acceptable hits returned
+orf_163_start=12885;end=12959;strand=1;rf=3	no acceptable hits returned
+orf_164_start=13104;end=13247;strand=1;rf=3	no acceptable hits returned
+orf_165_start=13254;end=13370;strand=1;rf=3	no acceptable hits returned
+orf_166_start=13887;end=13997;strand=1;rf=3	no acceptable hits returned
+orf_167_start=14103;end=14198;strand=1;rf=3	no acceptable hits returned
+orf_168_start=14226;end=14336;strand=1;rf=3	no acceptable hits returned
+orf_169_start=14631;end=14717;strand=1;rf=3	no acceptable hits returned
+orf_170_start=14895;end=15074;strand=1;rf=3	no acceptable hits returned
+orf_171_start=15129;end=15215;strand=1;rf=3	no acceptable hits returned
+orf_172_start=15429;end=15506;strand=1;rf=3	no acceptable hits returned
+orf_173_start=15600;end=15695;strand=1;rf=3	no acceptable hits returned
+orf_174_start=15590;end=15679;strand=-1;rf=1	no acceptable hits returned
+orf_175_start=15356;end=15448;strand=-1;rf=1	no acceptable hits returned
+orf_176_start=14987;end=15082;strand=-1;rf=1	no acceptable hits returned
+orf_177_start=14399;end=14575;strand=-1;rf=1	no acceptable hits returned
+orf_178_start=14195;end=14329;strand=-1;rf=1	no acceptable hits returned
+orf_179_start=14027;end=14104;strand=-1;rf=1	no acceptable hits returned
+orf_180_start=13835;end=14017;strand=-1;rf=1	no acceptable hits returned
+orf_181_start=13736;end=13822;strand=-1;rf=1	no acceptable hits returned
+orf_182_start=13475;end=13666;strand=-1;rf=1	no acceptable hits returned
+orf_183_start=13244;end=13375;strand=-1;rf=1	no acceptable hits returned
+orf_184_start=13100;end=13198;strand=-1;rf=1	no acceptable hits returned
+orf_185_start=12686;end=12982;strand=-1;rf=1	no acceptable hits returned
+orf_186_start=12473;end=12550;strand=-1;rf=1	no acceptable hits returned
+orf_187_start=12305;end=12382;strand=-1;rf=1	no acceptable hits returned
+orf_188_start=11951;end=12025;strand=-1;rf=1	no acceptable hits returned
+orf_189_start=11636;end=11755;strand=-1;rf=1	no acceptable hits returned
+orf_190_start=11525;end=11632;strand=-1;rf=1	no acceptable hits returned
+orf_191_start=11156;end=11350;strand=-1;rf=1	no acceptable hits returned
+orf_192_start=10841;end=11092;strand=-1;rf=1	no acceptable hits returned
+orf_193_start=10694;end=10822;strand=-1;rf=1	no acceptable hits returned
+orf_194_start=10604;end=10681;strand=-1;rf=1	no acceptable hits returned
+orf_195_start=10439;end=10597;strand=-1;rf=1	no acceptable hits returned
+orf_196_start=9461;end=9550;strand=-1;rf=1	no acceptable hits returned
+orf_197_start=9278;end=9439;strand=-1;rf=1	no acceptable hits returned
+orf_198_start=9164;end=9262;strand=-1;rf=1	no acceptable hits returned
+orf_199_start=8708;end=8830;strand=-1;rf=1	split_start=1;end=300;length=300;source_length=300	-	100.00	23	0	0	1	23	70	2	4e-15	49.3
+orf_200_start=8459;end=8620;strand=-1;rf=1	no acceptable hits returned
+orf_201_start=7979;end=8242;strand=-1;rf=1	no acceptable hits returned
+orf_202_start=7784;end=7879;strand=-1;rf=1	no acceptable hits returned
+orf_203_start=7595;end=7675;strand=-1;rf=1	no acceptable hits returned
+orf_204_start=7232;end=7318;strand=-1;rf=1	no acceptable hits returned
+orf_205_start=7055;end=7135;strand=-1;rf=1	no acceptable hits returned
+orf_206_start=6935;end=7048;strand=-1;rf=1	no acceptable hits returned
+orf_207_start=6398;end=6547;strand=-1;rf=1	no acceptable hits returned
+orf_208_start=6173;end=6322;strand=-1;rf=1	no acceptable hits returned
+orf_209_start=5867;end=5947;strand=-1;rf=1	no acceptable hits returned
+orf_210_start=5555;end=5758;strand=-1;rf=1	no acceptable hits returned
+orf_211_start=5195;end=5539;strand=-1;rf=1	no acceptable hits returned
+orf_212_start=5018;end=5188;strand=-1;rf=1	no acceptable hits returned
+orf_213_start=4835;end=5005;strand=-1;rf=1	no acceptable hits returned
+orf_214_start=4139;end=4228;strand=-1;rf=1	no acceptable hits returned
+orf_215_start=3416;end=3529;strand=-1;rf=1	no acceptable hits returned
+orf_216_start=3254;end=3394;strand=-1;rf=1	no acceptable hits returned
+orf_217_start=3077;end=3151;strand=-1;rf=1	no acceptable hits returned
+orf_218_start=2753;end=2848;strand=-1;rf=1	no acceptable hits returned
+orf_219_start=2366;end=2473;strand=-1;rf=1	no acceptable hits returned
+orf_220_start=2207;end=2290;strand=-1;rf=1	no acceptable hits returned
+orf_221_start=1922;end=2128;strand=-1;rf=1	no acceptable hits returned
+orf_222_start=1535;end=1618;strand=-1;rf=1	no acceptable hits returned
+orf_223_start=1106;end=1213;strand=-1;rf=1	no acceptable hits returned
+orf_224_start=812;end=1045;strand=-1;rf=1	split_start=1;end=300;length=300;source_length=300	-	100.00	8	0	0	70	77	3	26	0.002	20.4
+orf_225_start=15673;end=15855;strand=-1;rf=2	no acceptable hits returned
+orf_226_start=15445;end=15549;strand=-1;rf=2	no acceptable hits returned
+orf_227_start=15250;end=15381;strand=-1;rf=2	no acceptable hits returned
+orf_228_start=14842;end=15213;strand=-1;rf=2	no acceptable hits returned
+orf_229_start=14536;end=14799;strand=-1;rf=2	no acceptable hits returned
+orf_230_start=14254;end=14364;strand=-1;rf=2	no acceptable hits returned
+orf_231_start=13921;end=14112;strand=-1;rf=2	no acceptable hits returned
+orf_232_start=13618;end=13869;strand=-1;rf=2	no acceptable hits returned
+orf_233_start=13459;end=13545;strand=-1;rf=2	no acceptable hits returned
+orf_234_start=13255;end=13455;strand=-1;rf=2	no acceptable hits returned
+orf_235_start=13165;end=13242;strand=-1;rf=2	no acceptable hits returned
+orf_236_start=12442;end=12588;strand=-1;rf=2	no acceptable hits returned
+orf_237_start=12133;end=12378;strand=-1;rf=2	no acceptable hits returned
+orf_238_start=12025;end=12105;strand=-1;rf=2	no acceptable hits returned
+orf_239_start=11629;end=11958;strand=-1;rf=2	no acceptable hits returned
+orf_240_start=11434;end=11595;strand=-1;rf=2	no acceptable hits returned
+orf_241_start=11170;end=11244;strand=-1;rf=2	no acceptable hits returned
+orf_242_start=11053;end=11136;strand=-1;rf=2	no acceptable hits returned
+orf_243_start=10759;end=10881;strand=-1;rf=2	no acceptable hits returned
+orf_244_start=10618;end=10740;strand=-1;rf=2	no acceptable hits returned
+orf_245_start=10243;end=10356;strand=-1;rf=2	no acceptable hits returned
+orf_246_start=9961;end=10050;strand=-1;rf=2	no acceptable hits returned
+orf_247_start=9655;end=9732;strand=-1;rf=2	no acceptable hits returned
+orf_248_start=9490;end=9642;strand=-1;rf=2	no acceptable hits returned
+orf_249_start=9340;end=9489;strand=-1;rf=2	split_start=1;end=300;length=300;source_length=300	-	55.56	9	4	0	8	16	43	17	0.069	15.0
+orf_250_start=6061;end=9060;strand=-1;rf=2	split_start=1;end=300;length=300;source_length=300	-	100.00	100	0	0	1	100	300	1	5e-69	 210
+orf_251_start=5962;end=6039;strand=-1;rf=2	no acceptable hits returned
+orf_252_start=5704;end=5925;strand=-1;rf=2	no acceptable hits returned
+orf_253_start=4951;end=5124;strand=-1;rf=2	no acceptable hits returned
+orf_254_start=4819;end=4926;strand=-1;rf=2	no acceptable hits returned
+orf_255_start=4618;end=4794;strand=-1;rf=2	no acceptable hits returned
+orf_256_start=4351;end=4473;strand=-1;rf=2	no acceptable hits returned
+orf_257_start=4174;end=4263;strand=-1;rf=2	no acceptable hits returned
+orf_258_start=3781;end=3930;strand=-1;rf=2	no acceptable hits returned
+orf_259_start=3508;end=3702;strand=-1;rf=2	no acceptable hits returned
+orf_260_start=3430;end=3507;strand=-1;rf=2	no acceptable hits returned
+orf_261_start=3265;end=3387;strand=-1;rf=2	no acceptable hits returned
+orf_262_start=2788;end=2871;strand=-1;rf=2	no acceptable hits returned
+orf_263_start=2539;end=2625;strand=-1;rf=2	no acceptable hits returned
+orf_264_start=2218;end=2298;strand=-1;rf=2	no acceptable hits returned
+orf_265_start=2047;end=2166;strand=-1;rf=2	no acceptable hits returned
+orf_266_start=1894;end=2037;strand=-1;rf=2	no acceptable hits returned
+orf_267_start=1636;end=1746;strand=-1;rf=2	no acceptable hits returned
+orf_268_start=1420;end=1557;strand=-1;rf=2	no acceptable hits returned
+orf_269_start=1174;end=1350;strand=-1;rf=2	no acceptable hits returned
+orf_270_start=913;end=1074;strand=-1;rf=2	no acceptable hits returned
+orf_271_start=370;end=573;strand=-1;rf=2	split_start=1;end=300;length=300;source_length=300	-	100.00	11	0	0	1	11	268	300	6e-06	26.9
+orf_272_start=202;end=357;strand=-1;rf=2	no acceptable hits returned
+orf_273_start=1;end=93;strand=-1;rf=2	no acceptable hits returned
+orf_274_start=15696;end=15899;strand=-1;rf=3	no acceptable hits returned
+orf_275_start=15348;end=15470;strand=-1;rf=3	no acceptable hits returned
+orf_276_start=15150;end=15329;strand=-1;rf=3	no acceptable hits returned
+orf_277_start=14451;end=14558;strand=-1;rf=3	no acceptable hits returned
+orf_278_start=14085;end=14213;strand=-1;rf=3	no acceptable hits returned
+orf_279_start=13533;end=13622;strand=-1;rf=3	no acceptable hits returned
+orf_280_start=13452;end=13526;strand=-1;rf=3	no acceptable hits returned
+orf_281_start=13050;end=13181;strand=-1;rf=3	no acceptable hits returned
+orf_282_start=12861;end=12965;strand=-1;rf=3	no acceptable hits returned
+orf_283_start=12657;end=12785;strand=-1;rf=3	no acceptable hits returned
+orf_284_start=12534;end=12623;strand=-1;rf=3	no acceptable hits returned
+orf_285_start=12375;end=12494;strand=-1;rf=3	no acceptable hits returned
+orf_286_start=12234;end=12311;strand=-1;rf=3	no acceptable hits returned
+orf_287_start=12030;end=12113;strand=-1;rf=3	no acceptable hits returned
+orf_288_start=11703;end=11810;strand=-1;rf=3	no acceptable hits returned
+orf_289_start=11439;end=11570;strand=-1;rf=3	split_start=1;end=300;length=300;source_length=300	-	50.00	14	7	0	13	26	46	87	0.001	19.6
+orf_290_start=11325;end=11420;strand=-1;rf=3	no acceptable hits returned
+orf_291_start=11178;end=11297;strand=-1;rf=3	no acceptable hits returned
+orf_292_start=11043;end=11138;strand=-1;rf=3	no acceptable hits returned
+orf_293_start=10674;end=10763;strand=-1;rf=3	no acceptable hits returned
+orf_294_start=10329;end=10607;strand=-1;rf=3	no acceptable hits returned
+orf_295_start=10146;end=10229;strand=-1;rf=3	no acceptable hits returned
+orf_296_start=9675;end=9887;strand=-1;rf=3	no acceptable hits returned
+orf_297_start=9483;end=9605;strand=-1;rf=3	no acceptable hits returned
+orf_298_start=9399;end=9476;strand=-1;rf=3	no acceptable hits returned
+orf_299_start=8955;end=9221;strand=-1;rf=3	split_start=1;end=300;length=300;source_length=300	-	100.00	34	0	0	55	88	299	198	1e-22	70.5
+orf_300_start=8847;end=8954;strand=-1;rf=3	split_start=1;end=300;length=300;source_length=300	-	100.00	35	0	0	1	35	194	90	1e-23	70.9
+orf_301_start=8112;end=8195;strand=-1;rf=3	no acceptable hits returned
+orf_302_start=8019;end=8099;strand=-1;rf=3	no acceptable hits returned
+orf_303_start=7851;end=7943;strand=-1;rf=3	no acceptable hits returned
+orf_304_start=7602;end=7682;strand=-1;rf=3	no acceptable hits returned
+orf_305_start=7512;end=7598;strand=-1;rf=3	no acceptable hits returned
+orf_306_start=7422;end=7508;strand=-1;rf=3	no acceptable hits returned
+orf_307_start=7236;end=7406;strand=-1;rf=3	no acceptable hits returned
+orf_308_start=6939;end=7037;strand=-1;rf=3	no acceptable hits returned
+orf_309_start=6822;end=6914;strand=-1;rf=3	no acceptable hits returned
+orf_310_start=6615;end=6770;strand=-1;rf=3	no acceptable hits returned
+orf_311_start=6168;end=6311;strand=-1;rf=3	split_start=1;end=300;length=300;source_length=300	-	60.00	10	4	0	25	34	157	186	0.008	17.3
+orf_312_start=5889;end=5978;strand=-1;rf=3	no acceptable hits returned
+orf_313_start=5520;end=5756;strand=-1;rf=3	no acceptable hits returned
+orf_314_start=5256;end=5351;strand=-1;rf=3	no acceptable hits returned
+orf_315_start=5043;end=5198;strand=-1;rf=3	no acceptable hits returned
+orf_316_start=4665;end=4787;strand=-1;rf=3	no acceptable hits returned
+orf_317_start=4554;end=4649;strand=-1;rf=3	no acceptable hits returned
+orf_318_start=4419;end=4553;strand=-1;rf=3	no acceptable hits returned
+orf_319_start=4188;end=4412;strand=-1;rf=3	no acceptable hits returned
+orf_320_start=3738;end=3830;strand=-1;rf=3	no acceptable hits returned
+orf_321_start=3546;end=3638;strand=-1;rf=3	no acceptable hits returned
+orf_322_start=3159;end=3245;strand=-1;rf=3	no acceptable hits returned
+orf_323_start=2685;end=3080;strand=-1;rf=3	no acceptable hits returned
+orf_324_start=2352;end=2552;strand=-1;rf=3	no acceptable hits returned
+orf_325_start=2244;end=2324;strand=-1;rf=3	no acceptable hits returned
+orf_326_start=2136;end=2216;strand=-1;rf=3	no acceptable hits returned
+orf_327_start=2007;end=2090;strand=-1;rf=3	no acceptable hits returned
+orf_328_start=1728;end=1985;strand=-1;rf=3	no acceptable hits returned
+orf_329_start=1554;end=1652;strand=-1;rf=3	no acceptable hits returned
+orf_330_start=1443;end=1538;strand=-1;rf=3	no acceptable hits returned
+orf_331_start=1182;end=1256;strand=-1;rf=3	no acceptable hits returned
+orf_332_start=1086;end=1169;strand=-1;rf=3	no acceptable hits returned
+orf_333_start=963;end=1073;strand=-1;rf=3	no acceptable hits returned
+orf_334_start=864;end=962;strand=-1;rf=3	no acceptable hits returned
+orf_335_start=714;end=815;strand=-1;rf=3	split_start=1;end=300;length=300;source_length=300	-	100.00	33	0	0	1	33	26	124	8e-24	71.2
+orf_336_start=387;end=653;strand=-1;rf=3	split_start=1;end=300;length=300;source_length=300	-	100.00	37	0	0	1	37	188	298	4e-25	77.0
+orf_337_start=279;end=356;strand=-1;rf=3	no acceptable hits returned
+orf_338_start=66;end=185;strand=-1;rf=3	no acceptable hits returned

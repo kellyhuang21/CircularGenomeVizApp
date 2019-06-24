@@ -1,0 +1,196 @@
+[Monday May 16 09:28:25 2011] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Monday May 16 09:28:25 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Monday May 16 09:28:26 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Monday May 16 09:28:26 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Monday May 16 09:28:26 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Monday May 16 09:28:26 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Monday May 16 09:28:27 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Monday May 16 09:28:27 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Monday May 16 09:28:28 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Monday May 16 09:28:28 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Monday May 16 09:28:28 2011] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Monday May 16 09:28:28 2011] [Notice] Creating CGView XML files.
+[Monday May 16 09:28:28 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Monday May 16 09:28:28 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Monday May 16 09:28:28 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Monday May 16 09:28:28 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Monday May 16 09:28:28 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Monday May 16 09:28:29 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastn/maps/cgview_xml.
+[Monday May 16 09:28:29 2011] [Notice] Creating CGView maps.
+[Monday May 16 09:28:37 2011] [Notice] CGView maps have been created in ./sample_projects/test_blastn/maps.
+[Sunday June 19 19:48:51 2011] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Sunday June 19 19:48:51 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Sunday June 19 19:48:51 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Sunday June 19 19:48:51 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Sunday June 19 19:48:52 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Sunday June 19 19:48:52 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Sunday June 19 19:48:52 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Sunday June 19 19:48:52 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Sunday June 19 19:48:54 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Sunday June 19 19:48:54 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Sunday June 19 19:48:54 2011] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Sunday June 19 19:48:54 2011] [Notice] Creating CGView XML files.
+[Sunday June 19 19:48:54 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Sunday June 19 19:48:54 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Sunday June 19 19:48:54 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Sunday June 19 19:48:54 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Sunday June 19 19:48:54 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Sunday June 19 19:48:55 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastn/maps/cgview_xml.
+[Sunday June 19 19:48:55 2011] [Notice] Creating CGView maps.
+[Sunday June 19 19:48:59 2011] [Error] The following command failed: /usr/bin/java -Djava.awt.headless=true -jar -Xmx1500m /home/bioin/stothard_group/projects/cgview_comparison_tool/bin/cgview.jar -i './sample_projects/test_blastn/maps/cgview_xml/medium.xml' -f png -o './sample_projects/test_blastn/maps/medium.png' -h './sample_projects/test_blastn/maps/medium.html' -p 'medium.png'.
+
+[Sunday June 19 19:48:59 2011] [Error] The following command failed: /usr/bin/java -Djava.awt.headless=true -jar -Xmx1500m /home/bioin/stothard_group/projects/cgview_comparison_tool/bin/cgview.jar -i './sample_projects/test_blastn/maps/cgview_xml/medium.xml' -f png -o './sample_projects/test_blastn/maps/medium.png' -h './sample_projects/test_blastn/maps/medium.html' -p 'medium.png'. at cgview_comparison_tool.pl line 1749
+	main::_drawMap('HASH(0x967e798)') called at cgview_comparison_tool.pl line 1133
+	main::_graphicalMapCreation('HASH(0x97ae1b8)', 'Util::Configurator=HASH(0x98a2a20)', 'Util::LogManager=HASH(0x967e538)') called at cgview_comparison_tool.pl line 92
+
+
+[Friday November 25 22:44:18 2011] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Friday November 25 22:44:18 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Friday November 25 22:44:19 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Friday November 25 22:44:19 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Friday November 25 22:44:19 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Friday November 25 22:44:19 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Friday November 25 22:44:20 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Friday November 25 22:44:20 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Friday November 25 22:44:21 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Friday November 25 22:44:21 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Friday November 25 22:44:21 2011] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Friday November 25 22:44:21 2011] [Notice] Creating CGView XML files.
+[Friday November 25 22:44:21 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Friday November 25 22:44:21 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Friday November 25 22:44:21 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Friday November 25 22:44:21 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Friday November 25 22:44:21 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Friday November 25 22:44:22 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastn/maps/cgview_xml.
+[Friday November 25 22:44:22 2011] [Notice] Creating CGView maps.
+[Friday November 25 22:44:31 2011] [Notice] CGView maps have been created in ./sample_projects/test_blastn/maps.
+[Friday November 25 22:50:24 2011] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Friday November 25 22:50:24 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Friday November 25 22:50:24 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Friday November 25 22:50:24 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Friday November 25 22:50:25 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Friday November 25 22:50:25 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Friday November 25 22:50:25 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Friday November 25 22:50:25 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Friday November 25 22:50:26 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Friday November 25 22:50:26 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Friday November 25 22:50:26 2011] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Friday November 25 22:50:26 2011] [Notice] Creating CGView XML files.
+[Friday November 25 22:50:26 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Friday November 25 22:50:26 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Friday November 25 22:50:26 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Friday November 25 22:50:26 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Friday November 25 22:50:26 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Friday November 25 22:50:27 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastn/maps/cgview_xml.
+[Friday November 25 22:50:27 2011] [Notice] Creating CGView maps.
+[Friday November 25 22:50:34 2011] [Notice] CGView maps have been created in ./sample_projects/test_blastn/maps.
+[Saturday November 26 13:50:29 2011] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Saturday November 26 13:50:29 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Saturday November 26 13:50:29 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Saturday November 26 13:50:29 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Saturday November 26 13:50:30 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Saturday November 26 13:50:30 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Saturday November 26 13:50:30 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Saturday November 26 13:50:30 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Saturday November 26 13:50:32 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Saturday November 26 13:50:32 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Saturday November 26 13:50:32 2011] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Saturday November 26 13:50:32 2011] [Notice] Creating CGView XML files.
+[Saturday November 26 13:50:32 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Saturday November 26 13:50:32 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Saturday November 26 13:50:32 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Saturday November 26 13:50:32 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Saturday November 26 13:50:32 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Saturday November 26 13:50:33 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastn/maps/cgview_xml.
+[Saturday November 26 13:50:33 2011] [Notice] Creating CGView maps.
+[Saturday November 26 13:50:41 2011] [Notice] CGView maps have been created in ./sample_projects/test_blastn/maps.
+[Wednesday December 14 11:48:04 2011] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Wednesday December 14 11:48:04 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Wednesday December 14 11:48:04 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Wednesday December 14 11:48:04 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Wednesday December 14 11:48:05 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Wednesday December 14 11:48:05 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Wednesday December 14 11:48:05 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Wednesday December 14 11:48:05 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Wednesday December 14 11:48:06 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Wednesday December 14 11:48:06 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Wednesday December 14 11:48:06 2011] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Wednesday December 14 11:48:06 2011] [Notice] Creating CGView XML files.
+[Wednesday December 14 11:48:06 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Wednesday December 14 11:48:06 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Wednesday December 14 11:48:06 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Wednesday December 14 11:48:06 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Wednesday December 14 11:48:06 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Wednesday December 14 11:48:07 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastn/maps/cgview_xml.
+[Wednesday December 14 11:48:07 2011] [Notice] Creating CGView maps.
+[Wednesday December 14 11:48:08 2011] [Error] The following command failed: java -Djava.awt.headless=true -jar -Xmx1500m /home/bioin/stothard_group/projects/cgview_comparison_tool/bin/cgview.jar -i './sample_projects/test_blastn/maps/cgview_xml/medium.xml' -f png -o './sample_projects/test_blastn/maps/medium.png' -h './sample_projects/test_blastn/maps/medium.html' -p 'medium.png'.
+
+[Wednesday December 14 11:48:08 2011] [Error] The following command failed: java -Djava.awt.headless=true -jar -Xmx1500m /home/bioin/stothard_group/projects/cgview_comparison_tool/bin/cgview.jar -i './sample_projects/test_blastn/maps/cgview_xml/medium.xml' -f png -o './sample_projects/test_blastn/maps/medium.png' -h './sample_projects/test_blastn/maps/medium.html' -p 'medium.png'. at cgview_comparison_tool.pl line 1777
+	main::_drawMap('HASH(0x89f9258)', 'HASH(0x8a8cad0)') called at cgview_comparison_tool.pl line 1139
+	main::_graphicalMapCreation('HASH(0x8a8cad0)', 'Util::Configurator=HASH(0x8b8a820)', 'Util::LogManager=HASH(0x8b8ad10)') called at cgview_comparison_tool.pl line 98
+
+
+[Wednesday December 14 12:11:06 2011] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Wednesday December 14 12:11:06 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Wednesday December 14 12:11:06 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Wednesday December 14 12:11:06 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Wednesday December 14 12:11:07 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Wednesday December 14 12:11:07 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Wednesday December 14 12:11:07 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Wednesday December 14 12:11:07 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Wednesday December 14 12:11:08 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Wednesday December 14 12:11:08 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Wednesday December 14 12:11:08 2011] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Wednesday December 14 12:11:08 2011] [Notice] Creating CGView XML files.
+[Wednesday December 14 12:11:08 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Wednesday December 14 12:11:08 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Wednesday December 14 12:11:08 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Wednesday December 14 12:11:08 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Wednesday December 14 12:11:08 2011] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Wednesday December 14 12:11:08 2011] [Error] The following command failed: perl ./sample_projects/test_blastn/cgview_xml_builder.pl -size medium -sequence './sample_projects/test_blastn/reference_genome/two_copies_of_long_ORF_opposite_directions.fasta' -output './sample_projects/test_blastn/maps/cgview_xml/medium.xml' -orf_size 25 -starts 'ttg|ctg|att|atc|ata|atg|gtg' -stops 'taa|tag|tga' -linear F -orfs T -gc_content T -gc_skew T -legend T -details T -feature_labels F -gene_labels F -hit_labels F -orf_labels F -condensed F -draw_divider_rings T -parse_reading_frame F -show_queries F -use_opacity F -gene_decoration arrow -scale_blast T -log './sample_projects/test_blastn/maps/cgview_xml/medium.log' -blast_list ./sample_projects/test_blastn/blast/blast_results_local/_blast_file_list.txt.
+
+[Wednesday December 14 12:11:08 2011] [Error] The following command failed: perl ./sample_projects/test_blastn/cgview_xml_builder.pl -size medium -sequence './sample_projects/test_blastn/reference_genome/two_copies_of_long_ORF_opposite_directions.fasta' -output './sample_projects/test_blastn/maps/cgview_xml/medium.xml' -orf_size 25 -starts 'ttg|ctg|att|atc|ata|atg|gtg' -stops 'taa|tag|tga' -linear F -orfs T -gc_content T -gc_skew T -legend T -details T -feature_labels F -gene_labels F -hit_labels F -orf_labels F -condensed F -draw_divider_rings T -parse_reading_frame F -show_queries F -use_opacity F -gene_decoration arrow -scale_blast T -log './sample_projects/test_blastn/maps/cgview_xml/medium.log' -blast_list ./sample_projects/test_blastn/blast/blast_results_local/_blast_file_list.txt. at cgview_comparison_tool.pl line 1734
+	main::_buildCgviewXml('HASH(0x82e6310)', 'HASH(0x837a3d0)') called at cgview_comparison_tool.pl line 1095
+	main::_xmlCreation('HASH(0x837a3d0)', 'Util::Configurator=HASH(0x8478168)', 'Util::LogManager=HASH(0x8478658)') called at cgview_comparison_tool.pl line 97
+
+
+[Monday June 17 13:58:55 2019] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Monday June 17 13:58:55 2019] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Monday June 17 13:58:55 2019] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Monday June 17 13:58:55 2019] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Monday June 17 13:58:55 2019] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Monday June 17 13:58:55 2019] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Monday June 17 13:58:56 2019] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Monday June 17 13:58:56 2019] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Monday June 17 13:58:56 2019] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Monday June 17 13:58:56 2019] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Monday June 17 13:58:56 2019] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Monday June 17 13:58:56 2019] [Notice] Creating CGView XML files.
+[Monday June 17 13:58:56 2019] [Notice] The following BLAST results will be drawn, from outside to center:
+[Monday June 17 13:58:56 2019] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Monday June 17 13:58:56 2019] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Monday June 17 13:58:56 2019] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Monday June 17 13:58:56 2019] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Monday June 17 13:58:56 2019] [Notice] CGView XML files have been created in ./sample_projects/test_blastn/maps/cgview_xml.
+[Monday June 17 13:58:56 2019] [Notice] Creating CGView maps.
+[Monday June 17 13:59:00 2019] [Notice] CGView maps have been created in ./sample_projects/test_blastn/maps.
+[Monday June 17 23:02:00 2019] [Notice] Using the settings file ./sample_projects/test_blastn/project_settings.conf.
+[Monday June 17 23:02:00 2019] [Notice] Splitting the reference genome sequence in ./sample_projects/test_blastn/reference_genome for BLAST searches.
+[Monday June 17 23:02:01 2019] [Notice] Reference genome sequence has been split and written to ./sample_projects/test_blastn/reference_genome/split.
+[Monday June 17 23:02:01 2019] [Notice] Splitting the comparison genome sequences in ./sample_projects/test_blastn/comparison_genomes for BLAST searches.
+[Monday June 17 23:02:01 2019] [Notice] Comparison genome sequences have been split and written to ./sample_projects/test_blastn/comparison_genomes/split.
+[Monday June 17 23:02:01 2019] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastn/comparison_genomes/split.
+[Monday June 17 23:02:01 2019] [Notice] The BLAST databases have been created in ./sample_projects/test_blastn/blast/blast_db.
+[Monday June 17 23:02:01 2019] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastn/reference_genome/split and databases in ./sample_projects/test_blastn/blast/blast_db.
+[Monday June 17 23:02:01 2019] [Notice] The BLAST results have been written to ./sample_projects/test_blastn/blast/blast_results_local.
+[Monday June 17 23:02:01 2019] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastn/reference_genome.
+[Monday June 17 23:02:01 2019] [Notice] COG categories have been written to ./sample_projects/test_blastn/features.
+[Monday June 17 23:02:01 2019] [Notice] Creating CGView XML files.
+[Monday June 17 23:02:01 2019] [Notice] The following BLAST results will be drawn, from outside to center:
+[Monday June 17 23:02:01 2019] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf.fasta_split_DNA_blastn
+[Monday June 17 23:02:01 2019] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_end_of_orf_rev_comp.fasta_split_DNA_blastn
+[Monday June 17 23:02:01 2019] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf.fasta_split_DNA_blastn
+[Monday June 17 23:02:01 2019] [Notice] two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+[Monday June 17 23:02:02 2019] [Notice] CGView XML files have been created in ./sample_projects/test_blastn/maps/cgview_xml.
+[Monday June 17 23:02:02 2019] [Notice] Creating CGView maps.
+[Monday June 17 23:02:06 2019] [Notice] CGView maps have been created in ./sample_projects/test_blastn/maps.

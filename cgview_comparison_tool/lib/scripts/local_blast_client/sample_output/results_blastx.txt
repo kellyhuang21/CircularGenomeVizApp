@@ -1,0 +1,47 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Thursday May 20 19:51:36 2010.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#ENTREZ_DB=protein
+#DATABASE=test_input/formatted_databases/test_protein_database.fasta
+#QUERY_GENETIC_CODE=1
+#ALIGN_TYPE=translated
+#WORD_SIZE=3
+#XML=F
+#ENTREZ_URL=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#ERROR_RETRY=5
+#FILTER=T
+#DATABASE_GENETIC_CODE=1
+#MAX_BYTES_RESPONSE=5000000
+#PROGRAM=blastx
+#INPUTTYPE=DNA
+#EXPECT=10
+#FETCH_DESC=T
+#HITLIST_SIZE=5
+#BLAST_PATH=/usr/local/blast/bin/blastall
+#HSP_LABEL=F
+#OUTPUTFILE=test_output/results_blastx.txt
+#INPUTFILE=test_input/test_input_dna.fasta
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+fem-2_fragment_1	gene="fem-2"	No identifier available	97.45	196	5	0	1	588	201	396	2e-115	 398
+fem-2_fragment_1	gene="fem-2"	No identifier available	40.00	15	9	1	534	490	428	440	5.0	15.0
+fem-2_fragment_1	gene="fem-2"	No identifier available	41.67	12	7	0	428	393	329	340	6.5	14.6
+fem-2_fragment_1	some_other_protein	No identifier available	92.86	196	14	0	1	588	201	396	4e-108	 374
+fem-2_fragment_1	some_other_protein	No identifier available	40.00	15	9	1	534	490	428	440	5.0	15.0
+fem-2_fragment_1	some_other_protein	No identifier available	41.67	12	7	0	428	393	329	340	8.5	14.2
+fem-2_fragment_2	gene="fem-2"	No identifier available	100.00	116	0	0	1	348	281	396	4e-68	 240
+fem-2_fragment_2	gene="fem-2"	No identifier available	40.00	15	9	1	294	250	428	440	2.7	15.0
+fem-2_fragment_2	gene="fem-2"	No identifier available	41.67	12	7	0	188	153	329	340	3.5	14.6
+fem-2_fragment_2	gene="fem-2"	No identifier available	44.44	9	5	0	93	119	251	259	4.6	14.2
+fem-2_fragment_2	some_other_protein	No identifier available	94.83	116	6	0	1	348	281	396	3e-64	 227
+fem-2_fragment_2	some_other_protein	No identifier available	40.00	15	9	1	294	250	428	440	2.7	15.0
+fem-2_fragment_2	some_other_protein	No identifier available	41.67	12	7	0	188	153	329	340	4.6	14.2
+fem-2_fragment_3	gene="fem-2"	No identifier available	100.00	116	0	0	349	2	281	396	4e-68	 240
+fem-2_fragment_3	gene="fem-2"	No identifier available	40.00	15	9	1	56	100	428	440	2.7	15.0
+fem-2_fragment_3	gene="fem-2"	No identifier available	41.67	12	7	0	162	197	329	340	3.5	14.6
+fem-2_fragment_3	gene="fem-2"	No identifier available	44.44	9	5	0	257	231	251	259	4.6	14.2
+fem-2_fragment_3	some_other_protein	No identifier available	94.83	116	6	0	349	2	281	396	3e-64	 227
+fem-2_fragment_3	some_other_protein	No identifier available	40.00	15	9	1	56	100	428	440	2.7	15.0
+fem-2_fragment_3	some_other_protein	No identifier available	41.67	12	7	0	162	197	329	340	4.6	14.2

@@ -1,0 +1,110 @@
+#Results of cgview_sml_builder.pl run started on Monday June 17 23:02:47 2019.
+Creating XML for feature sets on the outside of the backbone circle.
+Feature sets written first are drawn closest to the backbone circle.
+Creating XML for ORFs that are in reading frame +1.
+Creating XML for ORFs that are in reading frame +2.
+Creating XML for ORFs that are in reading frame +3.
+Creating XML for feature sets on the inside of the backbone circle.
+Feature sets written first are drawn closest to the backbone circle.
+Creating XML for ORFs that are in reading frame -1.
+Creating XML for ORFs that are in reading frame -2.
+Creating XML for ORFs that are in reading frame -3.
+Creating XML for GC content information.
+Plotting GC content using a window size of 50 and a step of 1.
+The maximum GC content value is 1.0000.
+The minimum GC content value is 0.0000.
+The average GC content value is 0.6000.
+GC content will be scaled based on the maximum and minimum values.
+GC content will be plotted as the deviation from the average value.
+Creating XML for GC skew information.
+Plotting GC skew using a window size of 50 and a step of 1.
+The maximum GC skew value is 1.0000.
+The minimum GC skew value is -1.0000.
+The average GC skew value is -0.3333.
+GC skew will be scaled based on the maximum and minimum values.
+GC skew will be plotted as the deviation from the average value.
+CGView XML file complete.
+The recommended CGView command is:
+----------------------------------
+java -jar -Xmx1500m ../cgview.jar -i ./sample_projects/test_plots/maps/cgview_xml/medium.xml -o map.png -f png
+Success!
+The following key-values were used:
+-----------------------------------
+arrowheadLength=6
+average=T
+atColorNeg=rgb(51,51,51)
+atColorPos=rgb(51,51,51)
+at_content=F
+atSkewColorNeg=rgb(0,0,153)
+atSkewColorPos=rgb(153,153,0)
+at_skew=F
+backboneColor=rgb(102,102,102)
+backboneRadius=1000
+backboneThickness=8
+backgroundColor=white
+blast_divider_ruler=F
+blastRulerColor=rgb(255,165,0)
+borderColor=black
+combined_orfs=F
+details=T
+draw_divider_rings=T
+featureOpacity=0.5
+featureOpacityOther=0.5
+featureSlotSpacing=6
+featureThickness=30
+featureThicknessPlot=186.00
+feature_labels=F
+gcColorNeg=rgb(0,0,0)
+gcColorPos=rgb(0,0,0)
+gc_content=T
+gcSkewColorNeg=rgb(153,0,153)
+gcSkewColorPos=rgb(0,153,0)
+gc_skew=T
+gene_decoration=arrow
+gene_labels=F
+global_label=true
+height=3000
+hit_labels=F
+labelFontSize=15
+labelPlacementQuality=good
+labelLineLength=200
+labelLineThickness=4
+legend=T
+legendFontSize=20
+orf_labels=F
+maxLabelLength=20
+maxLegendLength=30
+maxTitleLength=50
+minimumFeatureLength=0.2
+moveInnerLabelsToOuter=false
+orfColor=rgb(204,0,0)
+orfs=T
+orf_size=25
+otherColor=rgb(51,51,51)
+parse_reading_frame=F
+proteinColor=rgb(0,0,153)
+reading_frames=F
+rRNAColor=rgb(153,0,153)
+rulerFontColor=rgb(0,0,0)
+rulerFontSize=30
+rulerPadding=40
+scale=T
+scale_blast=T
+show_sequence_features=T
+show_queries=F
+startColor=rgb(153,0,153)
+starts=ttg|ctg|att|atc|ata|atg|gtg
+step=1
+stopColor=rgb(204,0,0)
+stops=taa|tag|tga
+titleFontSize=80
+tickColor=rgb(0,51,0)
+tickLength=15
+tickThickness=6
+tick_density=0.166666666666667
+tRNAColor=rgb(153,0,0)
+useInnerLabels=true
+use_opacity=F
+width=3000
+window=50
+-----------------------------------

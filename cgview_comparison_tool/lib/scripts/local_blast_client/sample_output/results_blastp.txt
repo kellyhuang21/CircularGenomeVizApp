@@ -1,0 +1,31 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Thursday May 20 19:51:35 2010.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#ENTREZ_DB=protein
+#DATABASE=test_input/formatted_databases/test_protein_database.fasta
+#QUERY_GENETIC_CODE=1
+#ALIGN_TYPE=protein
+#WORD_SIZE=3
+#XML=F
+#ENTREZ_URL=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#ERROR_RETRY=5
+#FILTER=T
+#DATABASE_GENETIC_CODE=1
+#MAX_BYTES_RESPONSE=5000000
+#PROGRAM=blastp
+#INPUTTYPE=protein
+#EXPECT=1E-50
+#FETCH_DESC=T
+#HITLIST_SIZE=5
+#BLAST_PATH=/usr/local/blast/bin/blastall
+#HSP_LABEL=F
+#OUTPUTFILE=test_output/results_blastp.txt
+#INPUTFILE=test_input/test_input_protein.fasta
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+fem-2_fragment_1	gene="fem-2"	No identifier available	97.93	241	3	2	1	240	1	240	4e-141	 483
+fem-2_fragment_1	some_other_protein	No identifier available	90.46	241	21	2	1	240	1	240	5e-126	 433
+fem-2_fragment_2	gene="fem-2"	No identifier available	99.05	105	1	0	1	105	361	465	2e-60	 214
+fem-2_fragment_2	some_other_protein	No identifier available	97.14	105	3	0	1	105	361	465	2e-59	 211

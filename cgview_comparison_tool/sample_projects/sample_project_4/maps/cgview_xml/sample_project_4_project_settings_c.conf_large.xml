@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<cgview backboneRadius="3500" backboneColor="rgb(102,102,102)" backboneThickness="8" featureSlotSpacing="6" labelLineLength="200" labelPlacementQuality="better" labelLineThickness="4" rulerPadding="100" tickThickness="10" arrowheadLength="12" rulerFont="SansSerif, plain, 60" rulerFontColor="rgb(0,0,0)" labelFont="SansSerif, plain, 40" isLinear="false" minimumFeatureLength="0.2" sequenceLength="2961" height="9000" width="9000" globalLabel="true" moveInnerLabelsToOuter="false" featureThickness="60" tickLength="25" useInnerLabels="true" shortTickColor="rgb(0,51,0)" longTickColor="rgb(0,51,0)" zeroTickColor="rgb(0,51,0)" showBorder="true" borderColor="black" backgroundColor="white" tickDensity="0.0555555555555556">
+
+
+
+
+<!-- title -->
+<legend position="lower-center" backgroundOpacity="0.8">
+<legendItem textAlignment="center" font="SansSerif, plain, 100" text="pBluescript II KS(-) vector DNA phagemid excised from lambda ZAPII" />
+</legend>
+
+
+
+
+
+<!-- details legend -->
+<legend position="upper-left" font="SansSerif, plain, 100" backgroundOpacity="0.8">
+<legendItem text="Accession: X52329" />
+<legendItem text="Length: 2,961 bp" />
+</legend>
+
+
+
+
+
+<!-- legend -->
+<legend position="upper-right" textAlignment="left" backgroundOpacity="0.8" font="SansSerif, plain, 50">
+<legendItem text="CDS" drawSwatch="true" swatchOpacity="1.0" swatchColor="rgb(0,0,153)" />
+<legendItem text="tRNA" drawSwatch="true" swatchOpacity="1.0" swatchColor="rgb(153,0,0)" />
+<legendItem text="rRNA" drawSwatch="true" swatchOpacity="1.0" swatchColor="rgb(153,0,153)" />
+<legendItem text="Other" drawSwatch="true" swatchOpacity="0.5" swatchColor="rgb(51,51,51)" />
+<legendItem text="analysis 1+" drawSwatch="true" swatchOpacity="1.0" swatchColor="rgb(255,0,255)" />
+<legendItem text="analysis 1-" drawSwatch="true" swatchOpacity="1.0" swatchColor="rgb(0,153,153)" />
+<legendItem text="analysis 2+" drawSwatch="true" swatchOpacity="1.0" swatchColor="rgb(0,128,0)" />
+<legendItem text="analysis 2-" drawSwatch="true" swatchOpacity="1.0" swatchColor="rgb(241,199,200)" />
+</legend>
+
+
+
+
+
+<!-- GenBank or EMBL genes on strand forward in rf 1,2,3 -->
+<featureSlot showShading="true" strand="direct">
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="direct">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="2961">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- genes or analysis on forward strand in rf 1,2,3 -->
+<featureSlot showShading="true" strand="direct">
+<feature color="rgb(51,51,51)" decoration="clockwise-arrow" opacity="0.5" >
+<featureRange start="1" stop="2961" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="direct">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="2961">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- genes or analysis on forward strand in rf 1,2,3 -->
+<featureSlot showShading="true" strand="direct">
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="21" stop="327" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="direct">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="2961">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- GenBank or EMBL genes on strand reverse in rf 1,2,3 -->
+<featureSlot showShading="true" strand="reverse">
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="reverse">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="2961">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- genes or analysis on reverse strand in rf 1,2,3 -->
+<featureSlot showShading="true" strand="reverse">
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="reverse">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="2961">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- genes or analysis on reverse strand in rf 1,2,3 -->
+<featureSlot showShading="true" strand="reverse">
+<feature color="rgb(0,0,153)" decoration="counterclockwise-arrow" opacity="1.0" >
+<featureRange start="471" stop="614" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="657" stop="657" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="665" stop="665" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="670" stop="670" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="670" stop="670" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="677" stop="677" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="683" stop="683" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="689" stop="689" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="697" stop="697" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="705" stop="705" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="707" stop="707" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="715" stop="715" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="719" stop="719" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="726" stop="726" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="734" stop="734" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="740" stop="740" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="753" stop="753" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="759" stop="759" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="861" stop="890" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="1199" stop="1818" />
+</feature>
+<feature color="rgb(0,0,153)" decoration="counterclockwise-arrow" opacity="1.0" >
+<featureRange start="1973" stop="2833" />
+</feature>
+<feature color="rgb(51,51,51)" decoration="arc" opacity="0.5" >
+<featureRange start="2875" stop="2903" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="reverse">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="2961">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- genes or analysis on reverse strand in rf 1,2,3 -->
+<featureSlot showShading="false" strand="reverse" featureThickness="409.20">
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="200" stop="300" radiusAdjustment="0.75" proportionOfThickness="0.5" color="rgb(0,128,0)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="200" stop="300" radiusAdjustment="0.75" proportionOfThickness="0.5" color="rgb(0,128,0)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="300" stop="400" radiusAdjustment="0.5" proportionOfThickness="0.02" color="rgb(0,128,0)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="300" stop="400" radiusAdjustment="0.5" proportionOfThickness="0.02" color="rgb(0,128,0)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="400" stop="500" radiusAdjustment="0.25" proportionOfThickness="0.5" color="rgb(241,199,200)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="400" stop="500" radiusAdjustment="0.25" proportionOfThickness="0.5" color="rgb(241,199,200)" />
+</feature>
+<feature radiusAdjustment="0.5" proportionOfThickness="0.00488758553274682" color="rgb(102,102,102)">
+<featureRange start="1" stop="4" />
+<featureRange start="7" stop="10" />
+<featureRange start="13" stop="16" />
+<featureRange start="19" stop="22" />
+<featureRange start="25" stop="28" />
+<featureRange start="31" stop="34" />
+<featureRange start="37" stop="40" />
+<featureRange start="43" stop="46" />
+<featureRange start="49" stop="52" />
+<featureRange start="55" stop="58" />
+<featureRange start="61" stop="64" />
+<featureRange start="67" stop="70" />
+<featureRange start="73" stop="76" />
+<featureRange start="79" stop="82" />
+<featureRange start="85" stop="88" />
+<featureRange start="91" stop="94" />
+<featureRange start="97" stop="100" />
+<featureRange start="103" stop="106" />
+<featureRange start="109" stop="112" />
+<featureRange start="115" stop="118" />
+<featureRange start="121" stop="124" />
+<featureRange start="127" stop="130" />
+<featureRange start="133" stop="136" />
+<featureRange start="139" stop="142" />
+<featureRange start="145" stop="148" />
+<featureRange start="151" stop="154" />
+<featureRange start="157" stop="160" />
+<featureRange start="163" stop="166" />
+<featureRange start="169" stop="172" />
+<featureRange start="175" stop="178" />
+<featureRange start="181" stop="184" />
+<featureRange start="187" stop="190" />
+<featureRange start="193" stop="196" />
+<featureRange start="199" stop="202" />
+<featureRange start="205" stop="208" />
+<featureRange start="211" stop="214" />
+<featureRange start="217" stop="220" />
+<featureRange start="223" stop="226" />
+<featureRange start="229" stop="232" />
+<featureRange start="235" stop="238" />
+<featureRange start="241" stop="244" />
+<featureRange start="247" stop="250" />
+<featureRange start="253" stop="256" />
+<featureRange start="259" stop="262" />
+<featureRange start="265" stop="268" />
+<featureRange start="271" stop="274" />
+<featureRange start="277" stop="280" />
+<featureRange start="283" stop="286" />
+<featureRange start="289" stop="292" />
+<featureRange start="295" stop="298" />
+<featureRange start="301" stop="304" />
+<featureRange start="307" stop="310" />
+<featureRange start="313" stop="316" />
+<featureRange start="319" stop="322" />
+<featureRange start="325" stop="328" />
+<featureRange start="331" stop="334" />
+<featureRange start="337" stop="340" />
+<featureRange start="343" stop="346" />
+<featureRange start="349" stop="352" />
+<featureRange start="355" stop="358" />
+<featureRange start="361" stop="364" />
+<featureRange start="367" stop="370" />
+<featureRange start="373" stop="376" />
+<featureRange start="379" stop="382" />
+<featureRange start="385" stop="388" />
+<featureRange start="391" stop="394" />
+<featureRange start="397" stop="400" />
+<featureRange start="403" stop="406" />
+<featureRange start="409" stop="412" />
+<featureRange start="415" stop="418" />
+<featureRange start="421" stop="424" />
+<featureRange start="427" stop="430" />
+<featureRange start="433" stop="436" />
+<featureRange start="439" stop="442" />
+<featureRange start="445" stop="448" />
+<featureRange start="451" stop="454" />
+<featureRange start="457" stop="460" />
+<featureRange start="463" stop="466" />
+<featureRange start="469" stop="472" />
+<featureRange start="475" stop="478" />
+<featureRange start="481" stop="484" />
+<featureRange start="487" stop="490" />
+<featureRange start="493" stop="496" />
+<featureRange start="499" stop="502" />
+<featureRange start="505" stop="508" />
+<featureRange start="511" stop="514" />
+<featureRange start="517" stop="520" />
+<featureRange start="523" stop="526" />
+<featureRange start="529" stop="532" />
+<featureRange start="535" stop="538" />
+<featureRange start="541" stop="544" />
+<featureRange start="547" stop="550" />
+<featureRange start="553" stop="556" />
+<featureRange start="559" stop="562" />
+<featureRange start="565" stop="568" />
+<featureRange start="571" stop="574" />
+<featureRange start="577" stop="580" />
+<featureRange start="583" stop="586" />
+<featureRange start="589" stop="592" />
+<featureRange start="595" stop="598" />
+<featureRange start="601" stop="604" />
+<featureRange start="607" stop="610" />
+<featureRange start="613" stop="616" />
+<featureRange start="619" stop="622" />
+<featureRange start="625" stop="628" />
+<featureRange start="631" stop="634" />
+<featureRange start="637" stop="640" />
+<featureRange start="643" stop="646" />
+<featureRange start="649" stop="652" />
+<featureRange start="655" stop="658" />
+<featureRange start="661" stop="664" />
+<featureRange start="667" stop="670" />
+<featureRange start="673" stop="676" />
+<featureRange start="679" stop="682" />
+<featureRange start="685" stop="688" />
+<featureRange start="691" stop="694" />
+<featureRange start="697" stop="700" />
+<featureRange start="703" stop="706" />
+<featureRange start="709" stop="712" />
+<featureRange start="715" stop="718" />
+<featureRange start="721" stop="724" />
+<featureRange start="727" stop="730" />
+<featureRange start="733" stop="736" />
+<featureRange start="739" stop="742" />
+<featureRange start="745" stop="748" />
+<featureRange start="751" stop="754" />
+<featureRange start="757" stop="760" />
+<featureRange start="763" stop="766" />
+<featureRange start="769" stop="772" />
+<featureRange start="775" stop="778" />
+<featureRange start="781" stop="784" />
+<featureRange start="787" stop="790" />
+<featureRange start="793" stop="796" />
+<featureRange start="799" stop="802" />
+<featureRange start="805" stop="808" />
+<featureRange start="811" stop="814" />
+<featureRange start="817" stop="820" />
+<featureRange start="823" stop="826" />
+<featureRange start="829" stop="832" />
+<featureRange start="835" stop="838" />
+<featureRange start="841" stop="844" />
+<featureRange start="847" stop="850" />
+<featureRange start="853" stop="856" />
+<featureRange start="859" stop="862" />
+<featureRange start="865" stop="868" />
+<featureRange start="871" stop="874" />
+<featureRange start="877" stop="880" />
+<featureRange start="883" stop="886" />
+<featureRange start="889" stop="892" />
+<featureRange start="895" stop="898" />
+<featureRange start="901" stop="904" />
+<featureRange start="907" stop="910" />
+<featureRange start="913" stop="916" />
+<featureRange start="919" stop="922" />
+<featureRange start="925" stop="928" />
+<featureRange start="931" stop="934" />
+<featureRange start="937" stop="940" />
+<featureRange start="943" stop="946" />
+<featureRange start="949" stop="952" />
+<featureRange start="955" stop="958" />
+<featureRange start="961" stop="964" />
+<featureRange start="967" stop="970" />
+<featureRange start="973" stop="976" />
+<featureRange start="979" stop="982" />
+<featureRange start="985" stop="988" />
+<featureRange start="991" stop="994" />
+<featureRange start="997" stop="1000" />
+<featureRange start="1003" stop="1006" />
+<featureRange start="1009" stop="1012" />
+<featureRange start="1015" stop="1018" />
+<featureRange start="1021" stop="1024" />
+<featureRange start="1027" stop="1030" />
+<featureRange start="1033" stop="1036" />
+<featureRange start="1039" stop="1042" />
+<featureRange start="1045" stop="1048" />
+<featureRange start="1051" stop="1054" />
+<featureRange start="1057" stop="1060" />
+<featureRange start="1063" stop="1066" />
+<featureRange start="1069" stop="1072" />
+<featureRange start="1075" stop="1078" />
+<featureRange start="1081" stop="1084" />
+<featureRange start="1087" stop="1090" />
+<featureRange start="1093" stop="1096" />
+<featureRange start="1099" stop="1102" />
+<featureRange start="1105" stop="1108" />
+<featureRange start="1111" stop="1114" />
+<featureRange start="1117" stop="1120" />
+<featureRange start="1123" stop="1126" />
+<featureRange start="1129" stop="1132" />
+<featureRange start="1135" stop="1138" />
+<featureRange start="1141" stop="1144" />
+<featureRange start="1147" stop="1150" />
+<featureRange start="1153" stop="1156" />
+<featureRange start="1159" stop="1162" />
+<featureRange start="1165" stop="1168" />
+<featureRange start="1171" stop="1174" />
+<featureRange start="1177" stop="1180" />
+<featureRange start="1183" stop="1186" />
+<featureRange start="1189" stop="1192" />
+<featureRange start="1195" stop="1198" />
+<featureRange start="1201" stop="1204" />
+<featureRange start="1207" stop="1210" />
+<featureRange start="1213" stop="1216" />
+<featureRange start="1219" stop="1222" />
+<featureRange start="1225" stop="1228" />
+<featureRange start="1231" stop="1234" />
+<featureRange start="1237" stop="1240" />
+<featureRange start="1243" stop="1246" />
+<featureRange start="1249" stop="1252" />
+<featureRange start="1255" stop="1258" />
+<featureRange start="1261" stop="1264" />
+<featureRange start="1267" stop="1270" />
+<featureRange start="1273" stop="1276" />
+<featureRange start="1279" stop="1282" />
+<featureRange start="1285" stop="1288" />
+<featureRange start="1291" stop="1294" />
+<featureRange start="1297" stop="1300" />
+<featureRange start="1303" stop="1306" />
+<featureRange start="1309" stop="1312" />
+<featureRange start="1315" stop="1318" />
+<featureRange start="1321" stop="1324" />
+<featureRange start="1327" stop="1330" />
+<featureRange start="1333" stop="1336" />
+<featureRange start="1339" stop="1342" />
+<featureRange start="1345" stop="1348" />
+<featureRange start="1351" stop="1354" />
+<featureRange start="1357" stop="1360" />
+<featureRange start="1363" stop="1366" />
+<featureRange start="1369" stop="1372" />
+<featureRange start="1375" stop="1378" />
+<featureRange start="1381" stop="1384" />
+<featureRange start="1387" stop="1390" />
+<featureRange start="1393" stop="1396" />
+<featureRange start="1399" stop="1402" />
+<featureRange start="1405" stop="1408" />
+<featureRange start="1411" stop="1414" />
+<featureRange start="1417" stop="1420" />
+<featureRange start="1423" stop="1426" />
+<featureRange start="1429" stop="1432" />
+<featureRange start="1435" stop="1438" />
+<featureRange start="1441" stop="1444" />
+<featureRange start="1447" stop="1450" />
+<featureRange start="1453" stop="1456" />
+<featureRange start="1459" stop="1462" />
+<featureRange start="1465" stop="1468" />
+<featureRange start="1471" stop="1474" />
+<featureRange start="1477" stop="1480" />
+<featureRange start="1483" stop="1486" />
+<featureRange start="1489" stop="1492" />
+<featureRange start="1495" stop="1498" />
+<featureRange start="1501" stop="1504" />
+<featureRange start="1507" stop="1510" />
+<featureRange start="1513" stop="1516" />
+<featureRange start="1519" stop="1522" />
+<featureRange start="1525" stop="1528" />
+<featureRange start="1531" stop="1534" />
+<featureRange start="1537" stop="1540" />
+<featureRange start="1543" stop="1546" />
+<featureRange start="1549" stop="1552" />
+<featureRange start="1555" stop="1558" />
+<featureRange start="1561" stop="1564" />
+<featureRange start="1567" stop="1570" />
+<featureRange start="1573" stop="1576" />
+<featureRange start="1579" stop="1582" />
+<featureRange start="1585" stop="1588" />
+<featureRange start="1591" stop="1594" />
+<featureRange start="1597" stop="1600" />
+<featureRange start="1603" stop="1606" />
+<featureRange start="1609" stop="1612" />
+<featureRange start="1615" stop="1618" />
+<featureRange start="1621" stop="1624" />
+<featureRange start="1627" stop="1630" />
+<featureRange start="1633" stop="1636" />
+<featureRange start="1639" stop="1642" />
+<featureRange start="1645" stop="1648" />
+<featureRange start="1651" stop="1654" />
+<featureRange start="1657" stop="1660" />
+<featureRange start="1663" stop="1666" />
+<featureRange start="1669" stop="1672" />
+<featureRange start="1675" stop="1678" />
+<featureRange start="1681" stop="1684" />
+<featureRange start="1687" stop="1690" />
+<featureRange start="1693" stop="1696" />
+<featureRange start="1699" stop="1702" />
+<featureRange start="1705" stop="1708" />
+<featureRange start="1711" stop="1714" />
+<featureRange start="1717" stop="1720" />
+<featureRange start="1723" stop="1726" />
+<featureRange start="1729" stop="1732" />
+<featureRange start="1735" stop="1738" />
+<featureRange start="1741" stop="1744" />
+<featureRange start="1747" stop="1750" />
+<featureRange start="1753" stop="1756" />
+<featureRange start="1759" stop="1762" />
+<featureRange start="1765" stop="1768" />
+<featureRange start="1771" stop="1774" />
+<featureRange start="1777" stop="1780" />
+<featureRange start="1783" stop="1786" />
+<featureRange start="1789" stop="1792" />
+<featureRange start="1795" stop="1798" />
+<featureRange start="1801" stop="1804" />
+<featureRange start="1807" stop="1810" />
+<featureRange start="1813" stop="1816" />
+<featureRange start="1819" stop="1822" />
+<featureRange start="1825" stop="1828" />
+<featureRange start="1831" stop="1834" />
+<featureRange start="1837" stop="1840" />
+<featureRange start="1843" stop="1846" />
+<featureRange start="1849" stop="1852" />
+<featureRange start="1855" stop="1858" />
+<featureRange start="1861" stop="1864" />
+<featureRange start="1867" stop="1870" />
+<featureRange start="1873" stop="1876" />
+<featureRange start="1879" stop="1882" />
+<featureRange start="1885" stop="1888" />
+<featureRange start="1891" stop="1894" />
+<featureRange start="1897" stop="1900" />
+<featureRange start="1903" stop="1906" />
+<featureRange start="1909" stop="1912" />
+<featureRange start="1915" stop="1918" />
+<featureRange start="1921" stop="1924" />
+<featureRange start="1927" stop="1930" />
+<featureRange start="1933" stop="1936" />
+<featureRange start="1939" stop="1942" />
+<featureRange start="1945" stop="1948" />
+<featureRange start="1951" stop="1954" />
+<featureRange start="1957" stop="1960" />
+<featureRange start="1963" stop="1966" />
+<featureRange start="1969" stop="1972" />
+<featureRange start="1975" stop="1978" />
+<featureRange start="1981" stop="1984" />
+<featureRange start="1987" stop="1990" />
+<featureRange start="1993" stop="1996" />
+<featureRange start="1999" stop="2002" />
+<featureRange start="2005" stop="2008" />
+<featureRange start="2011" stop="2014" />
+<featureRange start="2017" stop="2020" />
+<featureRange start="2023" stop="2026" />
+<featureRange start="2029" stop="2032" />
+<featureRange start="2035" stop="2038" />
+<featureRange start="2041" stop="2044" />
+<featureRange start="2047" stop="2050" />
+<featureRange start="2053" stop="2056" />
+<featureRange start="2059" stop="2062" />
+<featureRange start="2065" stop="2068" />
+<featureRange start="2071" stop="2074" />
+<featureRange start="2077" stop="2080" />
+<featureRange start="2083" stop="2086" />
+<featureRange start="2089" stop="2092" />
+<featureRange start="2095" stop="2098" />
+<featureRange start="2101" stop="2104" />
+<featureRange start="2107" stop="2110" />
+<featureRange start="2113" stop="2116" />
+<featureRange start="2119" stop="2122" />
+<featureRange start="2125" stop="2128" />
+<featureRange start="2131" stop="2134" />
+<featureRange start="2137" stop="2140" />
+<featureRange start="2143" stop="2146" />
+<featureRange start="2149" stop="2152" />
+<featureRange start="2155" stop="2158" />
+<featureRange start="2161" stop="2164" />
+<featureRange start="2167" stop="2170" />
+<featureRange start="2173" stop="2176" />
+<featureRange start="2179" stop="2182" />
+<featureRange start="2185" stop="2188" />
+<featureRange start="2191" stop="2194" />
+<featureRange start="2197" stop="2200" />
+<featureRange start="2203" stop="2206" />
+<featureRange start="2209" stop="2212" />
+<featureRange start="2215" stop="2218" />
+<featureRange start="2221" stop="2224" />
+<featureRange start="2227" stop="2230" />
+<featureRange start="2233" stop="2236" />
+<featureRange start="2239" stop="2242" />
+<featureRange start="2245" stop="2248" />
+<featureRange start="2251" stop="2254" />
+<featureRange start="2257" stop="2260" />
+<featureRange start="2263" stop="2266" />
+<featureRange start="2269" stop="2272" />
+<featureRange start="2275" stop="2278" />
+<featureRange start="2281" stop="2284" />
+<featureRange start="2287" stop="2290" />
+<featureRange start="2293" stop="2296" />
+<featureRange start="2299" stop="2302" />
+<featureRange start="2305" stop="2308" />
+<featureRange start="2311" stop="2314" />
+<featureRange start="2317" stop="2320" />
+<featureRange start="2323" stop="2326" />
+<featureRange start="2329" stop="2332" />
+<featureRange start="2335" stop="2338" />
+<featureRange start="2341" stop="2344" />
+<featureRange start="2347" stop="2350" />
+<featureRange start="2353" stop="2356" />
+<featureRange start="2359" stop="2362" />
+<featureRange start="2365" stop="2368" />
+<featureRange start="2371" stop="2374" />
+<featureRange start="2377" stop="2380" />
+<featureRange start="2383" stop="2386" />
+<featureRange start="2389" stop="2392" />
+<featureRange start="2395" stop="2398" />
+<featureRange start="2401" stop="2404" />
+<featureRange start="2407" stop="2410" />
+<featureRange start="2413" stop="2416" />
+<featureRange start="2419" stop="2422" />
+<featureRange start="2425" stop="2428" />
+<featureRange start="2431" stop="2434" />
+<featureRange start="2437" stop="2440" />
+<featureRange start="2443" stop="2446" />
+<featureRange start="2449" stop="2452" />
+<featureRange start="2455" stop="2458" />
+<featureRange start="2461" stop="2464" />
+<featureRange start="2467" stop="2470" />
+<featureRange start="2473" stop="2476" />
+<featureRange start="2479" stop="2482" />
+<featureRange start="2485" stop="2488" />
+<featureRange start="2491" stop="2494" />
+<featureRange start="2497" stop="2500" />
+<featureRange start="2503" stop="2506" />
+<featureRange start="2509" stop="2512" />
+<featureRange start="2515" stop="2518" />
+<featureRange start="2521" stop="2524" />
+<featureRange start="2527" stop="2530" />
+<featureRange start="2533" stop="2536" />
+<featureRange start="2539" stop="2542" />
+<featureRange start="2545" stop="2548" />
+<featureRange start="2551" stop="2554" />
+<featureRange start="2557" stop="2560" />
+<featureRange start="2563" stop="2566" />
+<featureRange start="2569" stop="2572" />
+<featureRange start="2575" stop="2578" />
+<featureRange start="2581" stop="2584" />
+<featureRange start="2587" stop="2590" />
+<featureRange start="2593" stop="2596" />
+<featureRange start="2599" stop="2602" />
+<featureRange start="2605" stop="2608" />
+<featureRange start="2611" stop="2614" />
+<featureRange start="2617" stop="2620" />
+<featureRange start="2623" stop="2626" />
+<featureRange start="2629" stop="2632" />
+<featureRange start="2635" stop="2638" />
+<featureRange start="2641" stop="2644" />
+<featureRange start="2647" stop="2650" />
+<featureRange start="2653" stop="2656" />
+<featureRange start="2659" stop="2662" />
+<featureRange start="2665" stop="2668" />
+<featureRange start="2671" stop="2674" />
+<featureRange start="2677" stop="2680" />
+<featureRange start="2683" stop="2686" />
+<featureRange start="2689" stop="2692" />
+<featureRange start="2695" stop="2698" />
+<featureRange start="2701" stop="2704" />
+<featureRange start="2707" stop="2710" />
+<featureRange start="2713" stop="2716" />
+<featureRange start="2719" stop="2722" />
+<featureRange start="2725" stop="2728" />
+<featureRange start="2731" stop="2734" />
+<featureRange start="2737" stop="2740" />
+<featureRange start="2743" stop="2746" />
+<featureRange start="2749" stop="2752" />
+<featureRange start="2755" stop="2758" />
+<featureRange start="2761" stop="2764" />
+<featureRange start="2767" stop="2770" />
+<featureRange start="2773" stop="2776" />
+<featureRange start="2779" stop="2782" />
+<featureRange start="2785" stop="2788" />
+<featureRange start="2791" stop="2794" />
+<featureRange start="2797" stop="2800" />
+<featureRange start="2803" stop="2806" />
+<featureRange start="2809" stop="2812" />
+<featureRange start="2815" stop="2818" />
+<featureRange start="2821" stop="2824" />
+<featureRange start="2827" stop="2830" />
+<featureRange start="2833" stop="2836" />
+<featureRange start="2839" stop="2842" />
+<featureRange start="2845" stop="2848" />
+<featureRange start="2851" stop="2854" />
+<featureRange start="2857" stop="2860" />
+<featureRange start="2863" stop="2866" />
+<featureRange start="2869" stop="2872" />
+<featureRange start="2875" stop="2878" />
+<featureRange start="2881" stop="2884" />
+<featureRange start="2887" stop="2890" />
+<featureRange start="2893" stop="2896" />
+<featureRange start="2899" stop="2902" />
+<featureRange start="2905" stop="2908" />
+<featureRange start="2911" stop="2914" />
+<featureRange start="2917" stop="2920" />
+<featureRange start="2923" stop="2926" />
+<featureRange start="2929" stop="2932" />
+<featureRange start="2935" stop="2938" />
+<featureRange start="2941" stop="2944" />
+<featureRange start="2947" stop="2950" />
+<featureRange start="2953" stop="2956" />
+<featureRange start="2959" stop="2961" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="reverse">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="2961">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- genes or analysis on reverse strand in rf 1,2,3 -->
+<featureSlot showShading="false" strand="reverse" featureThickness="409.20">
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="1" stop="100" radiusAdjustment="0.75" proportionOfThickness="0.5" color="rgb(255,0,255)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="1" stop="100" radiusAdjustment="0.75" proportionOfThickness="0.5" color="rgb(255,0,255)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="100" stop="200" radiusAdjustment="0.5" proportionOfThickness="0.02" color="rgb(255,0,255)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="100" stop="200" radiusAdjustment="0.5" proportionOfThickness="0.02" color="rgb(255,0,255)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="200" stop="300" radiusAdjustment="0.25" proportionOfThickness="0.5" color="rgb(0,153,153)" />
+</feature>
+<feature decoration="arc" opacity="1.0" >
+<featureRange start="200" stop="300" radiusAdjustment="0.25" proportionOfThickness="0.5" color="rgb(0,153,153)" />
+</feature>
+<feature radiusAdjustment="0.5" proportionOfThickness="0.00488758553274682" color="rgb(102,102,102)">
+<featureRange start="1" stop="4" />
+<featureRange start="7" stop="10" />
+<featureRange start="13" stop="16" />
+<featureRange start="19" stop="22" />
+<featureRange start="25" stop="28" />
+<featureRange start="31" stop="34" />
+<featureRange start="37" stop="40" />
+<featureRange start="43" stop="46" />
+<featureRange start="49" stop="52" />
+<featureRange start="55" stop="58" />
+<featureRange start="61" stop="64" />
+<featureRange start="67" stop="70" />
+<featureRange start="73" stop="76" />
+<featureRange start="79" stop="82" />
+<featureRange start="85" stop="88" />
+<featureRange start="91" stop="94" />
+<featureRange start="97" stop="100" />
+<featureRange start="103" stop="106" />
+<featureRange start="109" stop="112" />
+<featureRange start="115" stop="118" />
+<featureRange start="121" stop="124" />
+<featureRange start="127" stop="130" />
+<featureRange start="133" stop="136" />
+<featureRange start="139" stop="142" />
+<featureRange start="145" stop="148" />
+<featureRange start="151" stop="154" />
+<featureRange start="157" stop="160" />
+<featureRange start="163" stop="166" />
+<featureRange start="169" stop="172" />
+<featureRange start="175" stop="178" />
+<featureRange start="181" stop="184" />
+<featureRange start="187" stop="190" />
+<featureRange start="193" stop="196" />
+<featureRange start="199" stop="202" />
+<featureRange start="205" stop="208" />
+<featureRange start="211" stop="214" />
+<featureRange start="217" stop="220" />
+<featureRange start="223" stop="226" />
+<featureRange start="229" stop="232" />
+<featureRange start="235" stop="238" />
+<featureRange start="241" stop="244" />
+<featureRange start="247" stop="250" />
+<featureRange start="253" stop="256" />
+<featureRange start="259" stop="262" />
+<featureRange start="265" stop="268" />
+<featureRange start="271" stop="274" />
+<featureRange start="277" stop="280" />
+<featureRange start="283" stop="286" />
+<featureRange start="289" stop="292" />
+<featureRange start="295" stop="298" />
+<featureRange start="301" stop="304" />
+<featureRange start="307" stop="310" />
+<featureRange start="313" stop="316" />
+<featureRange start="319" stop="322" />
+<featureRange start="325" stop="328" />
+<featureRange start="331" stop="334" />
+<featureRange start="337" stop="340" />
+<featureRange start="343" stop="346" />
+<featureRange start="349" stop="352" />
+<featureRange start="355" stop="358" />
+<featureRange start="361" stop="364" />
+<featureRange start="367" stop="370" />
+<featureRange start="373" stop="376" />
+<featureRange start="379" stop="382" />
+<featureRange start="385" stop="388" />
+<featureRange start="391" stop="394" />
+<featureRange start="397" stop="400" />
+<featureRange start="403" stop="406" />
+<featureRange start="409" stop="412" />
+<featureRange start="415" stop="418" />
+<featureRange start="421" stop="424" />
+<featureRange start="427" stop="430" />
+<featureRange start="433" stop="436" />
+<featureRange start="439" stop="442" />
+<featureRange start="445" stop="448" />
+<featureRange start="451" stop="454" />
+<featureRange start="457" stop="460" />
+<featureRange start="463" stop="466" />
+<featureRange start="469" stop="472" />
+<featureRange start="475" stop="478" />
+<featureRange start="481" stop="484" />
+<featureRange start="487" stop="490" />
+<featureRange start="493" stop="496" />
+<featureRange start="499" stop="502" />
+<featureRange start="505" stop="508" />
+<featureRange start="511" stop="514" />
+<featureRange start="517" stop="520" />
+<featureRange start="523" stop="526" />
+<featureRange start="529" stop="532" />
+<featureRange start="535" stop="538" />
+<featureRange start="541" stop="544" />
+<featureRange start="547" stop="550" />
+<featureRange start="553" stop="556" />
+<featureRange start="559" stop="562" />
+<featureRange start="565" stop="568" />
+<featureRange start="571" stop="574" />
+<featureRange start="577" stop="580" />
+<featureRange start="583" stop="586" />
+<featureRange start="589" stop="592" />
+<featureRange start="595" stop="598" />
+<featureRange start="601" stop="604" />
+<featureRange start="607" stop="610" />
+<featureRange start="613" stop="616" />
+<featureRange start="619" stop="622" />
+<featureRange start="625" stop="628" />
+<featureRange start="631" stop="634" />
+<featureRange start="637" stop="640" />
+<featureRange start="643" stop="646" />
+<featureRange start="649" stop="652" />
+<featureRange start="655" stop="658" />
+<featureRange start="661" stop="664" />
+<featureRange start="667" stop="670" />
+<featureRange start="673" stop="676" />
+<featureRange start="679" stop="682" />
+<featureRange start="685" stop="688" />
+<featureRange start="691" stop="694" />
+<featureRange start="697" stop="700" />
+<featureRange start="703" stop="706" />
+<featureRange start="709" stop="712" />
+<featureRange start="715" stop="718" />
+<featureRange start="721" stop="724" />
+<featureRange start="727" stop="730" />
+<featureRange start="733" stop="736" />
+<featureRange start="739" stop="742" />
+<featureRange start="745" stop="748" />
+<featureRange start="751" stop="754" />
+<featureRange start="757" stop="760" />
+<featureRange start="763" stop="766" />
+<featureRange start="769" stop="772" />
+<featureRange start="775" stop="778" />
+<featureRange start="781" stop="784" />
+<featureRange start="787" stop="790" />
+<featureRange start="793" stop="796" />
+<featureRange start="799" stop="802" />
+<featureRange start="805" stop="808" />
+<featureRange start="811" stop="814" />
+<featureRange start="817" stop="820" />
+<featureRange start="823" stop="826" />
+<featureRange start="829" stop="832" />
+<featureRange start="835" stop="838" />
+<featureRange start="841" stop="844" />
+<featureRange start="847" stop="850" />
+<featureRange start="853" stop="856" />
+<featureRange start="859" stop="862" />
+<featureRange start="865" stop="868" />
+<featureRange start="871" stop="874" />
+<featureRange start="877" stop="880" />
+<featureRange start="883" stop="886" />
+<featureRange start="889" stop="892" />
+<featureRange start="895" stop="898" />
+<featureRange start="901" stop="904" />
+<featureRange start="907" stop="910" />
+<featureRange start="913" stop="916" />
+<featureRange start="919" stop="922" />
+<featureRange start="925" stop="928" />
+<featureRange start="931" stop="934" />
+<featureRange start="937" stop="940" />
+<featureRange start="943" stop="946" />
+<featureRange start="949" stop="952" />
+<featureRange start="955" stop="958" />
+<featureRange start="961" stop="964" />
+<featureRange start="967" stop="970" />
+<featureRange start="973" stop="976" />
+<featureRange start="979" stop="982" />
+<featureRange start="985" stop="988" />
+<featureRange start="991" stop="994" />
+<featureRange start="997" stop="1000" />
+<featureRange start="1003" stop="1006" />
+<featureRange start="1009" stop="1012" />
+<featureRange start="1015" stop="1018" />
+<featureRange start="1021" stop="1024" />
+<featureRange start="1027" stop="1030" />
+<featureRange start="1033" stop="1036" />
+<featureRange start="1039" stop="1042" />
+<featureRange start="1045" stop="1048" />
+<featureRange start="1051" stop="1054" />
+<featureRange start="1057" stop="1060" />
+<featureRange start="1063" stop="1066" />
+<featureRange start="1069" stop="1072" />
+<featureRange start="1075" stop="1078" />
+<featureRange start="1081" stop="1084" />
+<featureRange start="1087" stop="1090" />
+<featureRange start="1093" stop="1096" />
+<featureRange start="1099" stop="1102" />
+<featureRange start="1105" stop="1108" />
+<featureRange start="1111" stop="1114" />
+<featureRange start="1117" stop="1120" />
+<featureRange start="1123" stop="1126" />
+<featureRange start="1129" stop="1132" />
+<featureRange start="1135" stop="1138" />
+<featureRange start="1141" stop="1144" />
+<featureRange start="1147" stop="1150" />
+<featureRange start="1153" stop="1156" />
+<featureRange start="1159" stop="1162" />
+<featureRange start="1165" stop="1168" />
+<featureRange start="1171" stop="1174" />
+<featureRange start="1177" stop="1180" />
+<featureRange start="1183" stop="1186" />
+<featureRange start="1189" stop="1192" />
+<featureRange start="1195" stop="1198" />
+<featureRange start="1201" stop="1204" />
+<featureRange start="1207" stop="1210" />
+<featureRange start="1213" stop="1216" />
+<featureRange start="1219" stop="1222" />
+<featureRange start="1225" stop="1228" />
+<featureRange start="1231" stop="1234" />
+<featureRange start="1237" stop="1240" />
+<featureRange start="1243" stop="1246" />
+<featureRange start="1249" stop="1252" />
+<featureRange start="1255" stop="1258" />
+<featureRange start="1261" stop="1264" />
+<featureRange start="1267" stop="1270" />
+<featureRange start="1273" stop="1276" />
+<featureRange start="1279" stop="1282" />
+<featureRange start="1285" stop="1288" />
+<featureRange start="1291" stop="1294" />
+<featureRange start="1297" stop="1300" />
+<featureRange start="1303" stop="1306" />
+<featureRange start="1309" stop="1312" />
+<featureRange start="1315" stop="1318" />
+<featureRange start="1321" stop="1324" />
+<featureRange start="1327" stop="1330" />
+<featureRange start="1333" stop="1336" />
+<featureRange start="1339" stop="1342" />
+<featureRange start="1345" stop="1348" />
+<featureRange start="1351" stop="1354" />
+<featureRange start="1357" stop="1360" />
+<featureRange start="1363" stop="1366" />
+<featureRange start="1369" stop="1372" />
+<featureRange start="1375" stop="1378" />
+<featureRange start="1381" stop="1384" />
+<featureRange start="1387" stop="1390" />
+<featureRange start="1393" stop="1396" />
+<featureRange start="1399" stop="1402" />
+<featureRange start="1405" stop="1408" />
+<featureRange start="1411" stop="1414" />
+<featureRange start="1417" stop="1420" />
+<featureRange start="1423" stop="1426" />
+<featureRange start="1429" stop="1432" />
+<featureRange start="1435" stop="1438" />
+<featureRange start="1441" stop="1444" />
+<featureRange start="1447" stop="1450" />
+<featureRange start="1453" stop="1456" />
+<featureRange start="1459" stop="1462" />
+<featureRange start="1465" stop="1468" />
+<featureRange start="1471" stop="1474" />
+<featureRange start="1477" stop="1480" />
+<featureRange start="1483" stop="1486" />
+<featureRange start="1489" stop="1492" />
+<featureRange start="1495" stop="1498" />
+<featureRange start="1501" stop="1504" />
+<featureRange start="1507" stop="1510" />
+<featureRange start="1513" stop="1516" />
+<featureRange start="1519" stop="1522" />
+<featureRange start="1525" stop="1528" />
+<featureRange start="1531" stop="1534" />
+<featureRange start="1537" stop="1540" />
+<featureRange start="1543" stop="1546" />
+<featureRange start="1549" stop="1552" />
+<featureRange start="1555" stop="1558" />
+<featureRange start="1561" stop="1564" />
+<featureRange start="1567" stop="1570" />
+<featureRange start="1573" stop="1576" />
+<featureRange start="1579" stop="1582" />
+<featureRange start="1585" stop="1588" />
+<featureRange start="1591" stop="1594" />
+<featureRange start="1597" stop="1600" />
+<featureRange start="1603" stop="1606" />
+<featureRange start="1609" stop="1612" />
+<featureRange start="1615" stop="1618" />
+<featureRange start="1621" stop="1624" />
+<featureRange start="1627" stop="1630" />
+<featureRange start="1633" stop="1636" />
+<featureRange start="1639" stop="1642" />
+<featureRange start="1645" stop="1648" />
+<featureRange start="1651" stop="1654" />
+<featureRange start="1657" stop="1660" />
+<featureRange start="1663" stop="1666" />
+<featureRange start="1669" stop="1672" />
+<featureRange start="1675" stop="1678" />
+<featureRange start="1681" stop="1684" />
+<featureRange start="1687" stop="1690" />
+<featureRange start="1693" stop="1696" />
+<featureRange start="1699" stop="1702" />
+<featureRange start="1705" stop="1708" />
+<featureRange start="1711" stop="1714" />
+<featureRange start="1717" stop="1720" />
+<featureRange start="1723" stop="1726" />
+<featureRange start="1729" stop="1732" />
+<featureRange start="1735" stop="1738" />
+<featureRange start="1741" stop="1744" />
+<featureRange start="1747" stop="1750" />
+<featureRange start="1753" stop="1756" />
+<featureRange start="1759" stop="1762" />
+<featureRange start="1765" stop="1768" />
+<featureRange start="1771" stop="1774" />
+<featureRange start="1777" stop="1780" />
+<featureRange start="1783" stop="1786" />
+<featureRange start="1789" stop="1792" />
+<featureRange start="1795" stop="1798" />
+<featureRange start="1801" stop="1804" />
+<featureRange start="1807" stop="1810" />
+<featureRange start="1813" stop="1816" />
+<featureRange start="1819" stop="1822" />
+<featureRange start="1825" stop="1828" />
+<featureRange start="1831" stop="1834" />
+<featureRange start="1837" stop="1840" />
+<featureRange start="1843" stop="1846" />
+<featureRange start="1849" stop="1852" />
+<featureRange start="1855" stop="1858" />
+<featureRange start="1861" stop="1864" />
+<featureRange start="1867" stop="1870" />
+<featureRange start="1873" stop="1876" />
+<featureRange start="1879" stop="1882" />
+<featureRange start="1885" stop="1888" />
+<featureRange start="1891" stop="1894" />
+<featureRange start="1897" stop="1900" />
+<featureRange start="1903" stop="1906" />
+<featureRange start="1909" stop="1912" />
+<featureRange start="1915" stop="1918" />
+<featureRange start="1921" stop="1924" />
+<featureRange start="1927" stop="1930" />
+<featureRange start="1933" stop="1936" />
+<featureRange start="1939" stop="1942" />
+<featureRange start="1945" stop="1948" />
+<featureRange start="1951" stop="1954" />
+<featureRange start="1957" stop="1960" />
+<featureRange start="1963" stop="1966" />
+<featureRange start="1969" stop="1972" />
+<featureRange start="1975" stop="1978" />
+<featureRange start="1981" stop="1984" />
+<featureRange start="1987" stop="1990" />
+<featureRange start="1993" stop="1996" />
+<featureRange start="1999" stop="2002" />
+<featureRange start="2005" stop="2008" />
+<featureRange start="2011" stop="2014" />
+<featureRange start="2017" stop="2020" />
+<featureRange start="2023" stop="2026" />
+<featureRange start="2029" stop="2032" />
+<featureRange start="2035" stop="2038" />
+<featureRange start="2041" stop="2044" />
+<featureRange start="2047" stop="2050" />
+<featureRange start="2053" stop="2056" />
+<featureRange start="2059" stop="2062" />
+<featureRange start="2065" stop="2068" />
+<featureRange start="2071" stop="2074" />
+<featureRange start="2077" stop="2080" />
+<featureRange start="2083" stop="2086" />
+<featureRange start="2089" stop="2092" />
+<featureRange start="2095" stop="2098" />
+<featureRange start="2101" stop="2104" />
+<featureRange start="2107" stop="2110" />
+<featureRange start="2113" stop="2116" />
+<featureRange start="2119" stop="2122" />
+<featureRange start="2125" stop="2128" />
+<featureRange start="2131" stop="2134" />
+<featureRange start="2137" stop="2140" />
+<featureRange start="2143" stop="2146" />
+<featureRange start="2149" stop="2152" />
+<featureRange start="2155" stop="2158" />
+<featureRange start="2161" stop="2164" />
+<featureRange start="2167" stop="2170" />
+<featureRange start="2173" stop="2176" />
+<featureRange start="2179" stop="2182" />
+<featureRange start="2185" stop="2188" />
+<featureRange start="2191" stop="2194" />
+<featureRange start="2197" stop="2200" />
+<featureRange start="2203" stop="2206" />
+<featureRange start="2209" stop="2212" />
+<featureRange start="2215" stop="2218" />
+<featureRange start="2221" stop="2224" />
+<featureRange start="2227" stop="2230" />
+<featureRange start="2233" stop="2236" />
+<featureRange start="2239" stop="2242" />
+<featureRange start="2245" stop="2248" />
+<featureRange start="2251" stop="2254" />
+<featureRange start="2257" stop="2260" />
+<featureRange start="2263" stop="2266" />
+<featureRange start="2269" stop="2272" />
+<featureRange start="2275" stop="2278" />
+<featureRange start="2281" stop="2284" />
+<featureRange start="2287" stop="2290" />
+<featureRange start="2293" stop="2296" />
+<featureRange start="2299" stop="2302" />
+<featureRange start="2305" stop="2308" />
+<featureRange start="2311" stop="2314" />
+<featureRange start="2317" stop="2320" />
+<featureRange start="2323" stop="2326" />
+<featureRange start="2329" stop="2332" />
+<featureRange start="2335" stop="2338" />
+<featureRange start="2341" stop="2344" />
+<featureRange start="2347" stop="2350" />
+<featureRange start="2353" stop="2356" />
+<featureRange start="2359" stop="2362" />
+<featureRange start="2365" stop="2368" />
+<featureRange start="2371" stop="2374" />
+<featureRange start="2377" stop="2380" />
+<featureRange start="2383" stop="2386" />
+<featureRange start="2389" stop="2392" />
+<featureRange start="2395" stop="2398" />
+<featureRange start="2401" stop="2404" />
+<featureRange start="2407" stop="2410" />
+<featureRange start="2413" stop="2416" />
+<featureRange start="2419" stop="2422" />
+<featureRange start="2425" stop="2428" />
+<featureRange start="2431" stop="2434" />
+<featureRange start="2437" stop="2440" />
+<featureRange start="2443" stop="2446" />
+<featureRange start="2449" stop="2452" />
+<featureRange start="2455" stop="2458" />
+<featureRange start="2461" stop="2464" />
+<featureRange start="2467" stop="2470" />
+<featureRange start="2473" stop="2476" />
+<featureRange start="2479" stop="2482" />
+<featureRange start="2485" stop="2488" />
+<featureRange start="2491" stop="2494" />
+<featureRange start="2497" stop="2500" />
+<featureRange start="2503" stop="2506" />
+<featureRange start="2509" stop="2512" />
+<featureRange start="2515" stop="2518" />
+<featureRange start="2521" stop="2524" />
+<featureRange start="2527" stop="2530" />
+<featureRange start="2533" stop="2536" />
+<featureRange start="2539" stop="2542" />
+<featureRange start="2545" stop="2548" />
+<featureRange start="2551" stop="2554" />
+<featureRange start="2557" stop="2560" />
+<featureRange start="2563" stop="2566" />
+<featureRange start="2569" stop="2572" />
+<featureRange start="2575" stop="2578" />
+<featureRange start="2581" stop="2584" />
+<featureRange start="2587" stop="2590" />
+<featureRange start="2593" stop="2596" />
+<featureRange start="2599" stop="2602" />
+<featureRange start="2605" stop="2608" />
+<featureRange start="2611" stop="2614" />
+<featureRange start="2617" stop="2620" />
+<featureRange start="2623" stop="2626" />
+<featureRange start="2629" stop="2632" />
+<featureRange start="2635" stop="2638" />
+<featureRange start="2641" stop="2644" />
+<featureRange start="2647" stop="2650" />
+<featureRange start="2653" stop="2656" />
+<featureRange start="2659" stop="2662" />
+<featureRange start="2665" stop="2668" />
+<featureRange start="2671" stop="2674" />
+<featureRange start="2677" stop="2680" />
+<featureRange start="2683" stop="2686" />
+<featureRange start="2689" stop="2692" />
+<featureRange start="2695" stop="2698" />
+<featureRange start="2701" stop="2704" />
+<featureRange start="2707" stop="2710" />
+<featureRange start="2713" stop="2716" />
+<featureRange start="2719" stop="2722" />
+<featureRange start="2725" stop="2728" />
+<featureRange start="2731" stop="2734" />
+<featureRange start="2737" stop="2740" />
+<featureRange start="2743" stop="2746" />
+<featureRange start="2749" stop="2752" />
+<featureRange start="2755" stop="2758" />
+<featureRange start="2761" stop="2764" />
+<featureRange start="2767" stop="2770" />
+<featureRange start="2773" stop="2776" />
+<featureRange start="2779" stop="2782" />
+<featureRange start="2785" stop="2788" />
+<featureRange start="2791" stop="2794" />
+<featureRange start="2797" stop="2800" />
+<featureRange start="2803" stop="2806" />
+<featureRange start="2809" stop="2812" />
+<featureRange start="2815" stop="2818" />
+<featureRange start="2821" stop="2824" />
+<featureRange start="2827" stop="2830" />
+<featureRange start="2833" stop="2836" />
+<featureRange start="2839" stop="2842" />
+<featureRange start="2845" stop="2848" />
+<featureRange start="2851" stop="2854" />
+<featureRange start="2857" stop="2860" />
+<featureRange start="2863" stop="2866" />
+<featureRange start="2869" stop="2872" />
+<featureRange start="2875" stop="2878" />
+<featureRange start="2881" stop="2884" />
+<featureRange start="2887" stop="2890" />
+<featureRange start="2893" stop="2896" />
+<featureRange start="2899" stop="2902" />
+<featureRange start="2905" stop="2908" />
+<featureRange start="2911" stop="2914" />
+<featureRange start="2917" stop="2920" />
+<featureRange start="2923" stop="2926" />
+<featureRange start="2929" stop="2932" />
+<featureRange start="2935" stop="2938" />
+<featureRange start="2941" stop="2944" />
+<featureRange start="2947" stop="2950" />
+<featureRange start="2953" stop="2956" />
+<featureRange start="2959" stop="2961" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="reverse">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="2961">
+</featureRange>
+</feature>
+</featureSlot>
+
+</cgview>

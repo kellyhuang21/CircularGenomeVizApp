@@ -1,0 +1,235 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Sunday June 19 14:26:37 2011.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#ENTREZ_DB=protein
+#DATABASE=./sample_projects/sample_project_6/blast/blast_db/fem.fas_orfs
+#QUERY_GENETIC_CODE=11
+#ALIGN_TYPE=translated
+#WORD_SIZE=3
+#XML=F
+#ENTREZ_URL=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#ERROR_RETRY=5
+#FILTER=F
+#DATABASE_GENETIC_CODE=1
+#MIN_SCORE=0
+#MIN_HSP_PROP=0.0
+#MAX_BYTES_RESPONSE=5000000
+#PROGRAM=blastx
+#INPUTTYPE=DNA
+#EXPECT=0.1
+#FETCH_DESC=F
+#HITLIST_SIZE=100000
+#BLAST_PATH=/usr/bin/blastall
+#HSP_LABEL=F
+#OUTPUTFILE=./sample_projects/sample_project_6/blast/blast_results_local/ref_DNA_vs_fem.fas_orfs_ORFS_blastx
+#INPUTFILE=./sample_projects/sample_project_6/reference_genome/split/ref.fas_split
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+split_start=1;end=1000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	333	0	0	1	999	1	333	0.0	 693
+split_start=1;end=1000;length=1000;source_length=28715	orf_26_start=554;end=844;strand=-1;rf=3	-	100.00	96	0	0	844	557	1	96	3e-56	 202
+split_start=1;end=1000;length=1000;source_length=28715	orf_27_start=203;end=487;strand=-1;rf=3	-	100.00	94	0	0	487	206	1	94	1e-54	 197
+split_start=1;end=1000;length=1000;source_length=28715	orf_23_start=18;end=257;strand=-1;rf=2	-	100.00	79	0	0	257	21	1	79	2e-44	 162
+split_start=1;end=1000;length=1000;source_length=28715	orf_18_start=142;end=318;strand=-1;rf=1	-	100.00	58	0	0	318	145	1	58	5e-34	 128
+split_start=1;end=1000;length=1000;source_length=28715	orf_16_start=505;end=669;strand=-1;rf=1	-	100.00	54	0	0	669	508	1	54	8e-29	 111
+split_start=1;end=1000;length=1000;source_length=28715	orf_5_start=659;end=790;strand=1;rf=2	-	100.00	43	0	0	659	787	1	43	2e-22	89.7
+split_start=1;end=1000;length=1000;source_length=28715	orf_14_start=817;end=942;strand=-1;rf=1	-	100.00	41	0	0	942	820	1	41	4e-22	89.0
+split_start=1;end=1000;length=1000;source_length=28715	orf_21_start=774;end=911;strand=-1;rf=2	-	100.00	45	0	0	911	777	1	45	1e-21	87.4
+split_start=1;end=1000;length=1000;source_length=28715	orf_3_start=209;end=337;strand=1;rf=2	-	100.00	42	0	0	209	334	1	42	1e-21	87.4
+split_start=1;end=1000;length=1000;source_length=28715	orf_22_start=450;end=575;strand=-1;rf=2	-	100.00	41	0	0	575	453	1	41	7e-20	81.6
+split_start=1;end=1000;length=1000;source_length=28715	orf_4_start=491;end=598;strand=1;rf=2	-	100.00	35	0	0	491	595	1	35	5e-17	72.0
+split_start=1;end=1000;length=1000;source_length=28715	orf_15_start=679;end=777;strand=-1;rf=1	-	100.00	32	0	0	777	682	1	32	6e-16	68.6
+split_start=1;end=1000;length=1000;source_length=28715	orf_8_start=369;end=461;strand=1;rf=3	-	100.00	30	0	0	369	458	1	30	1e-14	64.3
+split_start=1;end=1000;length=1000;source_length=28715	orf_6_start=914;end=1057;strand=1;rf=2	-	100.00	29	0	0	914	1000	1	29	1e-14	64.3
+split_start=1;end=1000;length=1000;source_length=28715	orf_10_start=825;end=902;strand=1;rf=3	-	100.00	25	0	0	825	899	1	25	3e-14	62.8
+split_start=1;end=1000;length=1000;source_length=28715	orf_2_start=17;end=103;strand=1;rf=2	-	100.00	28	0	0	17	100	1	28	9e-14	61.2
+split_start=1;end=1000;length=1000;source_length=28715	orf_9_start=717;end=797;strand=1;rf=3	-	100.00	26	0	0	717	794	1	26	2e-12	56.6
+split_start=1;end=1000;length=1000;source_length=28715	orf_17_start=376;end=453;strand=-1;rf=1	-	100.00	25	0	0	453	379	1	25	4e-12	55.8
+split_start=1;end=1000;length=1000;source_length=28715	orf_20_start=951;end=1166;strand=-1;rf=2	-	100.00	15	0	0	998	954	57	71	9e-06	34.7
+split_start=1;end=1000;length=1000;source_length=28715	orf_13_start=961;end=1080;strand=-1;rf=1	-	100.00	12	0	0	999	964	28	39	0.003	26.6
+split_start=1001;end=2000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	182	0	0	454	999	1	182	3e-109	 378
+split_start=1001;end=2000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	149	0	0	3	449	335	483	1e-86	 303
+split_start=1001;end=2000;length=1000;source_length=28715	orf_27_start=203;end=487;strand=-1;rf=3	-	100.00	94	0	0	940	659	1	94	1e-54	 197
+split_start=1001;end=2000;length=1000;source_length=28715	orf_23_start=18;end=257;strand=-1;rf=2	-	100.00	79	0	0	710	474	1	79	2e-44	 162
+split_start=1001;end=2000;length=1000;source_length=28715	orf_18_start=142;end=318;strand=-1;rf=1	-	100.00	58	0	0	771	598	1	58	5e-34	 128
+split_start=1001;end=2000;length=1000;source_length=28715	orf_20_start=951;end=1166;strand=-1;rf=2	-	100.00	55	0	0	166	2	1	55	3e-29	 112
+split_start=1001;end=2000;length=1000;source_length=28715	orf_12_start=1153;end=1314;strand=-1;rf=1	-	100.00	53	0	0	314	156	1	53	4e-27	 105
+split_start=1001;end=2000;length=1000;source_length=28715	orf_11_start=1321;end=1446;strand=-1;rf=1	-	100.00	41	0	0	446	324	1	41	2e-23	93.2
+split_start=1001;end=2000;length=1000;source_length=28715	orf_3_start=209;end=337;strand=1;rf=2	-	100.00	42	0	0	662	787	1	42	1e-21	87.4
+split_start=1001;end=2000;length=1000;source_length=28715	orf_19_start=1311;end=1445;strand=-1;rf=2	-	100.00	44	0	0	445	314	1	44	5e-20	82.0
+split_start=1001;end=2000;length=1000;source_length=28715	orf_7_start=1172;end=1276;strand=1;rf=2	-	100.00	34	0	0	172	273	1	34	8e-18	74.7
+split_start=1001;end=2000;length=1000;source_length=28715	orf_24_start=1352;end=1450;strand=-1;rf=3	-	100.00	32	0	0	450	355	1	32	9e-17	71.2
+split_start=1001;end=2000;length=1000;source_length=28715	orf_25_start=1259;end=1348;strand=-1;rf=3	-	100.00	29	0	0	348	262	1	29	2e-15	67.0
+split_start=1001;end=2000;length=1000;source_length=28715	orf_8_start=369;end=461;strand=1;rf=3	-	100.00	30	0	0	822	911	1	30	1e-14	64.3
+split_start=1001;end=2000;length=1000;source_length=28715	orf_22_start=450;end=575;strand=-1;rf=2	-	100.00	31	0	0	998	906	11	41	4e-14	62.4
+split_start=1001;end=2000;length=1000;source_length=28715	orf_2_start=17;end=103;strand=1;rf=2	-	100.00	28	0	0	470	553	1	28	9e-14	61.2
+split_start=1001;end=2000;length=1000;source_length=28715	orf_13_start=961;end=1080;strand=-1;rf=1	-	100.00	26	0	0	80	3	1	26	2e-12	56.6
+split_start=1001;end=2000;length=1000;source_length=28715	orf_17_start=376;end=453;strand=-1;rf=1	-	100.00	25	0	0	906	832	1	25	4e-12	55.8
+split_start=1001;end=2000;length=1000;source_length=28715	orf_4_start=491;end=598;strand=1;rf=2	-	100.00	19	0	0	944	1000	1	19	5e-07	38.9
+split_start=1001;end=2000;length=1000;source_length=28715	orf_6_start=914;end=1057;strand=1;rf=2	-	100.00	18	0	0	1	54	30	47	1e-06	37.7
+split_start=1001;end=2000;length=1000;source_length=28715	orf_16_start=505;end=669;strand=-1;rf=1	-	100.00	13	0	0	999	961	42	54	1e-04	30.8
+split_start=2001;end=3000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	300	0	0	3	902	184	483	0.0	 618
+split_start=2001;end=3000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	31	0	0	907	999	1	31	3e-16	69.7
+split_start=2001;end=3000;length=1000;source_length=28715	orf_26_start=554;end=844;strand=-1;rf=3	-	100.00	96	0	0	297	10	1	96	3e-56	 202
+split_start=2001;end=3000;length=1000;source_length=28715	orf_20_start=951;end=1166;strand=-1;rf=2	-	100.00	71	0	0	619	407	1	71	5e-39	 145
+split_start=2001;end=3000;length=1000;source_length=28715	orf_12_start=1153;end=1314;strand=-1;rf=1	-	100.00	53	0	0	767	609	1	53	4e-27	 105
+split_start=2001;end=3000;length=1000;source_length=28715	orf_6_start=914;end=1057;strand=1;rf=2	-	100.00	47	0	0	367	507	1	47	1e-24	97.4
+split_start=2001;end=3000;length=1000;source_length=28715	orf_11_start=1321;end=1446;strand=-1;rf=1	-	100.00	41	0	0	899	777	1	41	2e-23	93.2
+split_start=2001;end=3000;length=1000;source_length=28715	orf_5_start=659;end=790;strand=1;rf=2	-	100.00	43	0	0	112	240	1	43	2e-22	89.7
+split_start=2001;end=3000;length=1000;source_length=28715	orf_14_start=817;end=942;strand=-1;rf=1	-	100.00	41	0	0	395	273	1	41	4e-22	89.0
+split_start=2001;end=3000;length=1000;source_length=28715	orf_21_start=774;end=911;strand=-1;rf=2	-	100.00	45	0	0	364	230	1	45	1e-21	87.4
+split_start=2001;end=3000;length=1000;source_length=28715	orf_16_start=505;end=669;strand=-1;rf=1	-	100.00	40	0	0	122	3	1	40	2e-20	83.6
+split_start=2001;end=3000;length=1000;source_length=28715	orf_19_start=1311;end=1445;strand=-1;rf=2	-	100.00	44	0	0	898	767	1	44	5e-20	82.0
+split_start=2001;end=3000;length=1000;source_length=28715	orf_13_start=961;end=1080;strand=-1;rf=1	-	100.00	39	0	0	533	417	1	39	1e-19	80.5
+split_start=2001;end=3000;length=1000;source_length=28715	orf_7_start=1172;end=1276;strand=1;rf=2	-	100.00	34	0	0	625	726	1	34	8e-18	74.7
+split_start=2001;end=3000;length=1000;source_length=28715	orf_24_start=1352;end=1450;strand=-1;rf=3	-	100.00	32	0	0	903	808	1	32	9e-17	71.2
+split_start=2001;end=3000;length=1000;source_length=28715	orf_15_start=679;end=777;strand=-1;rf=1	-	100.00	32	0	0	230	135	1	32	6e-16	68.6
+split_start=2001;end=3000;length=1000;source_length=28715	orf_25_start=1259;end=1348;strand=-1;rf=3	-	100.00	29	0	0	801	715	1	29	2e-15	67.0
+split_start=2001;end=3000;length=1000;source_length=28715	orf_10_start=825;end=902;strand=1;rf=3	-	100.00	25	0	0	278	352	1	25	3e-14	62.8
+split_start=2001;end=3000;length=1000;source_length=28715	orf_2_start=17;end=103;strand=1;rf=2	-	100.00	26	0	0	923	1000	1	26	1e-12	57.8
+split_start=2001;end=3000;length=1000;source_length=28715	orf_9_start=717;end=797;strand=1;rf=3	-	100.00	26	0	0	170	247	1	26	2e-12	56.6
+split_start=2001;end=3000;length=1000;source_length=28715	orf_23_start=18;end=257;strand=-1;rf=2	-	100.00	24	0	0	998	927	56	79	7e-11	51.6
+split_start=2001;end=3000;length=1000;source_length=28715	orf_4_start=491;end=598;strand=1;rf=2	-	100.00	16	0	0	1	48	20	35	1e-06	37.7
+split_start=2001;end=3000;length=1000;source_length=28715	orf_22_start=450;end=575;strand=-1;rf=2	-	100.00	9	0	0	28	2	1	9	0.047	22.3
+split_start=3001;end=4000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	332	0	0	3	998	33	364	0.0	 688
+split_start=3001;end=4000;length=1000;source_length=28715	orf_26_start=554;end=844;strand=-1;rf=3	-	100.00	96	0	0	750	463	1	96	3e-56	 202
+split_start=3001;end=4000;length=1000;source_length=28715	orf_27_start=203;end=487;strand=-1;rf=3	-	100.00	94	0	0	393	112	1	94	1e-54	 197
+split_start=3001;end=4000;length=1000;source_length=28715	orf_18_start=142;end=318;strand=-1;rf=1	-	100.00	58	0	0	224	51	1	58	5e-34	 128
+split_start=3001;end=4000;length=1000;source_length=28715	orf_23_start=18;end=257;strand=-1;rf=2	-	100.00	54	0	0	163	2	1	54	2e-29	 113
+split_start=3001;end=4000;length=1000;source_length=28715	orf_16_start=505;end=669;strand=-1;rf=1	-	100.00	54	0	0	575	414	1	54	8e-29	 111
+split_start=3001;end=4000;length=1000;source_length=28715	orf_20_start=951;end=1166;strand=-1;rf=2	-	100.00	47	0	0	1000	860	25	71	1e-25	 100
+split_start=3001;end=4000;length=1000;source_length=28715	orf_6_start=914;end=1057;strand=1;rf=2	-	100.00	47	0	0	820	960	1	47	1e-24	97.4
+split_start=3001;end=4000;length=1000;source_length=28715	orf_5_start=659;end=790;strand=1;rf=2	-	100.00	43	0	0	565	693	1	43	2e-22	89.7
+split_start=3001;end=4000;length=1000;source_length=28715	orf_14_start=817;end=942;strand=-1;rf=1	-	100.00	41	0	0	848	726	1	41	4e-22	89.0
+split_start=3001;end=4000;length=1000;source_length=28715	orf_21_start=774;end=911;strand=-1;rf=2	-	100.00	45	0	0	817	683	1	45	1e-21	87.4
+split_start=3001;end=4000;length=1000;source_length=28715	orf_3_start=209;end=337;strand=1;rf=2	-	100.00	42	0	0	115	240	1	42	1e-21	87.4
+split_start=3001;end=4000;length=1000;source_length=28715	orf_22_start=450;end=575;strand=-1;rf=2	-	100.00	41	0	0	481	359	1	41	7e-20	81.6
+split_start=3001;end=4000;length=1000;source_length=28715	orf_13_start=961;end=1080;strand=-1;rf=1	-	100.00	39	0	0	986	870	1	39	1e-19	80.5
+split_start=3001;end=4000;length=1000;source_length=28715	orf_4_start=491;end=598;strand=1;rf=2	-	100.00	35	0	0	397	501	1	35	5e-17	72.0
+split_start=3001;end=4000;length=1000;source_length=28715	orf_15_start=679;end=777;strand=-1;rf=1	-	100.00	32	0	0	683	588	1	32	6e-16	68.6
+split_start=3001;end=4000;length=1000;source_length=28715	orf_8_start=369;end=461;strand=1;rf=3	-	100.00	30	0	0	275	364	1	30	1e-14	64.3
+split_start=3001;end=4000;length=1000;source_length=28715	orf_10_start=825;end=902;strand=1;rf=3	-	100.00	25	0	0	731	805	1	25	3e-14	62.8
+split_start=3001;end=4000;length=1000;source_length=28715	orf_9_start=717;end=797;strand=1;rf=3	-	100.00	26	0	0	623	700	1	26	2e-12	56.6
+split_start=3001;end=4000;length=1000;source_length=28715	orf_17_start=376;end=453;strand=-1;rf=1	-	100.00	25	0	0	359	285	1	25	4e-12	55.8
+split_start=4001;end=5000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	118	0	0	2	355	366	483	4e-68	 241
+split_start=4001;end=5000;length=1000;source_length=28715	orf_12_start=1153;end=1314;strand=-1;rf=1	-	100.00	53	0	0	220	62	1	53	4e-27	 105
+split_start=4001;end=5000;length=1000;source_length=28715	orf_11_start=1321;end=1446;strand=-1;rf=1	-	100.00	41	0	0	352	230	1	41	2e-23	93.2
+split_start=4001;end=5000;length=1000;source_length=28715	orf_19_start=1311;end=1445;strand=-1;rf=2	-	100.00	44	0	0	351	220	1	44	5e-20	82.0
+split_start=4001;end=5000;length=1000;source_length=28715	orf_7_start=1172;end=1276;strand=1;rf=2	-	100.00	34	0	0	78	179	1	34	8e-18	74.7
+split_start=4001;end=5000;length=1000;source_length=28715	orf_24_start=1352;end=1450;strand=-1;rf=3	-	100.00	32	0	0	356	261	1	32	9e-17	71.2
+split_start=4001;end=5000;length=1000;source_length=28715	orf_25_start=1259;end=1348;strand=-1;rf=3	-	100.00	29	0	0	254	168	1	29	2e-15	67.0
+split_start=4001;end=5000;length=1000;source_length=28715	orf_20_start=951;end=1166;strand=-1;rf=2	-	100.00	24	0	0	72	1	1	24	5e-10	48.9
+split_start=5001;end=6000;length=1000;source_length=28715	no acceptable hits returned
+split_start=6001;end=7000;length=1000;source_length=28715	no acceptable hits returned
+split_start=7001;end=8000;length=1000;source_length=28715	no acceptable hits returned
+split_start=8001;end=9000;length=1000;source_length=28715	no acceptable hits returned
+split_start=9001;end=10000;length=1000;source_length=28715	no acceptable hits returned
+split_start=10001;end=11000;length=1000;source_length=28715	no acceptable hits returned
+split_start=11001;end=12000;length=1000;source_length=28715	no acceptable hits returned
+split_start=12001;end=13000;length=1000;source_length=28715	no acceptable hits returned
+split_start=13001;end=14000;length=1000;source_length=28715	no acceptable hits returned
+split_start=14001;end=15000;length=1000;source_length=28715	no acceptable hits returned
+split_start=15001;end=16000;length=1000;source_length=28715	no acceptable hits returned
+split_start=16001;end=17000;length=1000;source_length=28715	no acceptable hits returned
+split_start=17001;end=18000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	63.64	11	4	0	808	840	289	299	0.047	22.3
+split_start=18001;end=19000;length=1000;source_length=28715	no acceptable hits returned
+split_start=19001;end=20000;length=1000;source_length=28715	no acceptable hits returned
+split_start=20001;end=21000;length=1000;source_length=28715	no acceptable hits returned
+split_start=21001;end=22000;length=1000;source_length=28715	no acceptable hits returned
+split_start=22001;end=23000;length=1000;source_length=28715	no acceptable hits returned
+split_start=23001;end=24000;length=1000;source_length=28715	no acceptable hits returned
+split_start=24001;end=25000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	213	0	0	999	361	271	483	4e-126	 434
+split_start=24001;end=25000;length=1000;source_length=28715	orf_20_start=951;end=1166;strand=-1;rf=2	-	100.00	71	0	0	644	856	1	71	5e-39	 145
+split_start=24001;end=25000;length=1000;source_length=28715	orf_12_start=1153;end=1314;strand=-1;rf=1	-	100.00	53	0	0	496	654	1	53	4e-27	 105
+split_start=24001;end=25000;length=1000;source_length=28715	orf_6_start=914;end=1057;strand=1;rf=2	-	100.00	47	0	0	896	756	1	47	1e-24	97.4
+split_start=24001;end=25000;length=1000;source_length=28715	orf_11_start=1321;end=1446;strand=-1;rf=1	-	100.00	41	0	0	364	486	1	41	2e-23	93.2
+split_start=24001;end=25000;length=1000;source_length=28715	orf_14_start=817;end=942;strand=-1;rf=1	-	100.00	41	0	0	868	990	1	41	4e-22	89.0
+split_start=24001;end=25000;length=1000;source_length=28715	orf_19_start=1311;end=1445;strand=-1;rf=2	-	100.00	44	0	0	365	496	1	44	5e-20	82.0
+split_start=24001;end=25000;length=1000;source_length=28715	orf_13_start=961;end=1080;strand=-1;rf=1	-	100.00	39	0	0	730	846	1	39	1e-19	80.5
+split_start=24001;end=25000;length=1000;source_length=28715	orf_7_start=1172;end=1276;strand=1;rf=2	-	100.00	34	0	0	638	537	1	34	8e-18	74.7
+split_start=24001;end=25000;length=1000;source_length=28715	orf_24_start=1352;end=1450;strand=-1;rf=3	-	100.00	32	0	0	360	455	1	32	9e-17	71.2
+split_start=24001;end=25000;length=1000;source_length=28715	orf_25_start=1259;end=1348;strand=-1;rf=3	-	100.00	29	0	0	462	548	1	29	2e-15	67.0
+split_start=24001;end=25000;length=1000;source_length=28715	orf_21_start=774;end=911;strand=-1;rf=2	-	100.00	34	0	0	899	1000	1	34	2e-15	67.0
+split_start=24001;end=25000;length=1000;source_length=28715	orf_10_start=825;end=902;strand=1;rf=3	-	100.00	25	0	0	985	911	1	25	3e-14	62.8
+split_start=24001;end=25000;length=1000;source_length=28715	orf_26_start=554;end=844;strand=-1;rf=3	-	100.00	11	0	0	966	998	1	11	0.001	27.3
+split_start=25001;end=26000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	269	0	0	809	3	1	269	7e-165	 563
+split_start=25001;end=26000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	62	0	0	999	814	422	483	9e-35	 130
+split_start=25001;end=26000;length=1000;source_length=28715	orf_27_start=203;end=487;strand=-1;rf=3	-	100.00	94	0	0	323	604	1	94	1e-54	 197
+split_start=25001;end=26000;length=1000;source_length=28715	orf_26_start=554;end=844;strand=-1;rf=3	-	100.00	84	0	0	2	253	13	96	9e-49	 177
+split_start=25001;end=26000;length=1000;source_length=28715	orf_23_start=18;end=257;strand=-1;rf=2	-	100.00	79	0	0	553	789	1	79	2e-44	 162
+split_start=25001;end=26000;length=1000;source_length=28715	orf_18_start=142;end=318;strand=-1;rf=1	-	100.00	58	0	0	492	665	1	58	5e-34	 128
+split_start=25001;end=26000;length=1000;source_length=28715	orf_16_start=505;end=669;strand=-1;rf=1	-	100.00	54	0	0	141	302	1	54	8e-29	 111
+split_start=25001;end=26000;length=1000;source_length=28715	orf_11_start=1321;end=1446;strand=-1;rf=1	-	100.00	41	0	0	817	939	1	41	2e-23	93.2
+split_start=25001;end=26000;length=1000;source_length=28715	orf_5_start=659;end=790;strand=1;rf=2	-	100.00	43	0	0	151	23	1	43	2e-22	89.7
+split_start=25001;end=26000;length=1000;source_length=28715	orf_3_start=209;end=337;strand=1;rf=2	-	100.00	42	0	0	601	476	1	42	1e-21	87.4
+split_start=25001;end=26000;length=1000;source_length=28715	orf_19_start=1311;end=1445;strand=-1;rf=2	-	100.00	44	0	0	818	949	1	44	5e-20	82.0
+split_start=25001;end=26000;length=1000;source_length=28715	orf_22_start=450;end=575;strand=-1;rf=2	-	100.00	41	0	0	235	357	1	41	7e-20	81.6
+split_start=25001;end=26000;length=1000;source_length=28715	orf_4_start=491;end=598;strand=1;rf=2	-	100.00	35	0	0	319	215	1	35	5e-17	72.0
+split_start=25001;end=26000;length=1000;source_length=28715	orf_24_start=1352;end=1450;strand=-1;rf=3	-	100.00	32	0	0	813	908	1	32	9e-17	71.2
+split_start=25001;end=26000;length=1000;source_length=28715	orf_15_start=679;end=777;strand=-1;rf=1	-	100.00	32	0	0	33	128	1	32	6e-16	68.6
+split_start=25001;end=26000;length=1000;source_length=28715	orf_8_start=369;end=461;strand=1;rf=3	-	100.00	30	0	0	441	352	1	30	1e-14	64.3
+split_start=25001;end=26000;length=1000;source_length=28715	orf_25_start=1259;end=1348;strand=-1;rf=3	-	100.00	28	0	0	915	998	1	28	1e-14	63.9
+split_start=25001;end=26000;length=1000;source_length=28715	orf_2_start=17;end=103;strand=1;rf=2	-	100.00	28	0	0	793	710	1	28	9e-14	61.2
+split_start=25001;end=26000;length=1000;source_length=28715	orf_9_start=717;end=797;strand=1;rf=3	-	100.00	26	0	0	93	16	1	26	2e-12	56.6
+split_start=25001;end=26000;length=1000;source_length=28715	orf_17_start=376;end=453;strand=-1;rf=1	-	100.00	25	0	0	357	431	1	25	4e-12	55.8
+split_start=25001;end=26000;length=1000;source_length=28715	orf_12_start=1153;end=1314;strand=-1;rf=1	-	100.00	17	0	0	949	999	1	17	1e-06	37.4
+split_start=25001;end=26000;length=1000;source_length=28715	orf_21_start=774;end=911;strand=-1;rf=2	-	100.00	11	0	0	1	33	35	45	0.007	25.0
+split_start=26001;end=27000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	332	0	0	998	3	89	420	0.0	 690
+split_start=26001;end=27000;length=1000;source_length=28715	orf_26_start=554;end=844;strand=-1;rf=3	-	100.00	96	0	0	419	706	1	96	3e-56	 202
+split_start=26001;end=27000;length=1000;source_length=28715	orf_27_start=203;end=487;strand=-1;rf=3	-	100.00	75	0	0	776	1000	1	75	3e-43	 159
+split_start=26001;end=27000;length=1000;source_length=28715	orf_20_start=951;end=1166;strand=-1;rf=2	-	100.00	71	0	0	97	309	1	71	5e-39	 145
+split_start=26001;end=27000;length=1000;source_length=28715	orf_16_start=505;end=669;strand=-1;rf=1	-	100.00	54	0	0	594	755	1	54	8e-29	 111
+split_start=26001;end=27000;length=1000;source_length=28715	orf_6_start=914;end=1057;strand=1;rf=2	-	100.00	47	0	0	349	209	1	47	1e-24	97.4
+split_start=26001;end=27000;length=1000;source_length=28715	orf_5_start=659;end=790;strand=1;rf=2	-	100.00	43	0	0	604	476	1	43	2e-22	89.7
+split_start=26001;end=27000;length=1000;source_length=28715	orf_14_start=817;end=942;strand=-1;rf=1	-	100.00	41	0	0	321	443	1	41	4e-22	89.0
+split_start=26001;end=27000;length=1000;source_length=28715	orf_21_start=774;end=911;strand=-1;rf=2	-	100.00	45	0	0	352	486	1	45	1e-21	87.4
+split_start=26001;end=27000;length=1000;source_length=28715	orf_22_start=450;end=575;strand=-1;rf=2	-	100.00	41	0	0	688	810	1	41	7e-20	81.6
+split_start=26001;end=27000;length=1000;source_length=28715	orf_13_start=961;end=1080;strand=-1;rf=1	-	100.00	39	0	0	183	299	1	39	1e-19	80.5
+split_start=26001;end=27000;length=1000;source_length=28715	orf_4_start=491;end=598;strand=1;rf=2	-	100.00	35	0	0	772	668	1	35	5e-17	72.0
+split_start=26001;end=27000;length=1000;source_length=28715	orf_12_start=1153;end=1314;strand=-1;rf=1	-	100.00	35	0	0	3	107	19	53	9e-17	71.2
+split_start=26001;end=27000;length=1000;source_length=28715	orf_15_start=679;end=777;strand=-1;rf=1	-	100.00	32	0	0	486	581	1	32	6e-16	68.6
+split_start=26001;end=27000;length=1000;source_length=28715	orf_7_start=1172;end=1276;strand=1;rf=2	-	100.00	30	0	0	91	2	1	30	2e-15	66.6
+split_start=26001;end=27000;length=1000;source_length=28715	orf_8_start=369;end=461;strand=1;rf=3	-	100.00	30	0	0	894	805	1	30	1e-14	64.3
+split_start=26001;end=27000;length=1000;source_length=28715	orf_10_start=825;end=902;strand=1;rf=3	-	100.00	25	0	0	438	364	1	25	3e-14	62.8
+split_start=26001;end=27000;length=1000;source_length=28715	orf_9_start=717;end=797;strand=1;rf=3	-	100.00	26	0	0	546	469	1	26	2e-12	56.6
+split_start=26001;end=27000;length=1000;source_length=28715	orf_17_start=376;end=453;strand=-1;rf=1	-	100.00	25	0	0	810	884	1	25	4e-12	55.8
+split_start=26001;end=27000;length=1000;source_length=28715	orf_3_start=209;end=337;strand=1;rf=2	-	100.00	24	0	0	1000	929	19	42	1e-10	50.8
+split_start=26001;end=27000;length=1000;source_length=28715	orf_18_start=142;end=318;strand=-1;rf=1	-	100.00	18	0	0	945	998	1	18	1e-07	40.8
+split_start=27001;end=28000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	244	0	0	998	267	240	483	9e-147	 503
+split_start=27001;end=28000;length=1000;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	87	0	0	262	2	1	87	5e-49	 178
+split_start=27001;end=28000;length=1000;source_length=28715	orf_23_start=18;end=257;strand=-1;rf=2	-	100.00	79	0	0	6	242	1	79	2e-44	 162
+split_start=27001;end=28000;length=1000;source_length=28715	orf_20_start=951;end=1166;strand=-1;rf=2	-	100.00	71	0	0	550	762	1	71	5e-39	 145
+split_start=27001;end=28000;length=1000;source_length=28715	orf_12_start=1153;end=1314;strand=-1;rf=1	-	100.00	53	0	0	402	560	1	53	4e-27	 105
+split_start=27001;end=28000;length=1000;source_length=28715	orf_6_start=914;end=1057;strand=1;rf=2	-	100.00	47	0	0	802	662	1	47	1e-24	97.4
+split_start=27001;end=28000;length=1000;source_length=28715	orf_11_start=1321;end=1446;strand=-1;rf=1	-	100.00	41	0	0	270	392	1	41	2e-23	93.2
+split_start=27001;end=28000;length=1000;source_length=28715	orf_26_start=554;end=844;strand=-1;rf=3	-	100.00	43	0	0	872	1000	1	43	1e-22	90.9
+split_start=27001;end=28000;length=1000;source_length=28715	orf_18_start=142;end=318;strand=-1;rf=1	-	100.00	39	0	0	2	118	20	58	1e-22	90.5
+split_start=27001;end=28000;length=1000;source_length=28715	orf_14_start=817;end=942;strand=-1;rf=1	-	100.00	41	0	0	774	896	1	41	4e-22	89.0
+split_start=27001;end=28000;length=1000;source_length=28715	orf_21_start=774;end=911;strand=-1;rf=2	-	100.00	45	0	0	805	939	1	45	1e-21	87.4
+split_start=27001;end=28000;length=1000;source_length=28715	orf_19_start=1311;end=1445;strand=-1;rf=2	-	100.00	44	0	0	271	402	1	44	5e-20	82.0
+split_start=27001;end=28000;length=1000;source_length=28715	orf_13_start=961;end=1080;strand=-1;rf=1	-	100.00	39	0	0	636	752	1	39	1e-19	80.5
+split_start=27001;end=28000;length=1000;source_length=28715	orf_7_start=1172;end=1276;strand=1;rf=2	-	100.00	34	0	0	544	443	1	34	8e-18	74.7
+split_start=27001;end=28000;length=1000;source_length=28715	orf_24_start=1352;end=1450;strand=-1;rf=3	-	100.00	32	0	0	266	361	1	32	9e-17	71.2
+split_start=27001;end=28000;length=1000;source_length=28715	orf_25_start=1259;end=1348;strand=-1;rf=3	-	100.00	29	0	0	368	454	1	29	2e-15	67.0
+split_start=27001;end=28000;length=1000;source_length=28715	orf_10_start=825;end=902;strand=1;rf=3	-	100.00	25	0	0	891	817	1	25	3e-14	62.8
+split_start=27001;end=28000;length=1000;source_length=28715	orf_2_start=17;end=103;strand=1;rf=2	-	100.00	28	0	0	246	163	1	28	9e-14	61.2
+split_start=27001;end=28000;length=1000;source_length=28715	orf_9_start=717;end=797;strand=1;rf=3	-	100.00	26	0	0	999	922	1	26	2e-12	56.6
+split_start=27001;end=28000;length=1000;source_length=28715	orf_5_start=659;end=790;strand=1;rf=2	-	100.00	24	0	0	1000	929	20	43	1e-10	50.8
+split_start=27001;end=28000;length=1000;source_length=28715	orf_15_start=679;end=777;strand=-1;rf=1	-	100.00	20	0	0	939	998	1	20	5e-09	45.4
+split_start=27001;end=28000;length=1000;source_length=28715	orf_27_start=203;end=487;strand=-1;rf=3	-	100.00	19	0	0	1	57	76	94	3e-08	42.7
+split_start=27001;end=28000;length=1000;source_length=28715	orf_3_start=209;end=337;strand=1;rf=2	-	100.00	18	0	0	54	1	1	18	1e-07	41.2
+split_start=28001;end=28715;length=715;source_length=28715	orf_1_start=1;end=1452;strand=1;rf=1	-	100.00	238	0	0	715	2	1	238	2e-144	 494
+split_start=28001;end=28715;length=715;source_length=28715	orf_27_start=203;end=487;strand=-1;rf=3	-	100.00	94	0	0	229	510	1	94	8e-55	 197
+split_start=28001;end=28715;length=715;source_length=28715	orf_23_start=18;end=257;strand=-1;rf=2	-	100.00	79	0	0	459	695	1	79	2e-44	 162
+split_start=28001;end=28715;length=715;source_length=28715	orf_18_start=142;end=318;strand=-1;rf=1	-	100.00	58	0	0	398	571	1	58	3e-34	 128
+split_start=28001;end=28715;length=715;source_length=28715	orf_26_start=554;end=844;strand=-1;rf=3	-	100.00	53	0	0	1	159	44	96	2e-30	 116
+split_start=28001;end=28715;length=715;source_length=28715	orf_16_start=505;end=669;strand=-1;rf=1	-	100.00	54	0	0	47	208	1	54	6e-29	 111
+split_start=28001;end=28715;length=715;source_length=28715	orf_3_start=209;end=337;strand=1;rf=2	-	100.00	42	0	0	507	382	1	42	9e-22	87.4
+split_start=28001;end=28715;length=715;source_length=28715	orf_22_start=450;end=575;strand=-1;rf=2	-	100.00	41	0	0	141	263	1	41	5e-20	81.6
+split_start=28001;end=28715;length=715;source_length=28715	orf_4_start=491;end=598;strand=1;rf=2	-	100.00	35	0	0	225	121	1	35	4e-17	72.0
+split_start=28001;end=28715;length=715;source_length=28715	orf_8_start=369;end=461;strand=1;rf=3	-	100.00	30	0	0	347	258	1	30	8e-15	64.3
+split_start=28001;end=28715;length=715;source_length=28715	orf_2_start=17;end=103;strand=1;rf=2	-	100.00	28	0	0	699	616	1	28	7e-14	61.2
+split_start=28001;end=28715;length=715;source_length=28715	orf_17_start=376;end=453;strand=-1;rf=1	-	100.00	25	0	0	263	337	1	25	3e-12	55.8
+split_start=28001;end=28715;length=715;source_length=28715	orf_5_start=659;end=790;strand=1;rf=2	-	100.00	19	0	0	57	1	1	19	1e-08	43.5
+split_start=28001;end=28715;length=715;source_length=28715	orf_15_start=679;end=777;strand=-1;rf=1	-	100.00	11	0	0	2	34	22	32	0.002	26.2

@@ -1,0 +1,81 @@
+[Friday November 25 22:44:50 2011] [Notice] Using the settings file ./sample_projects/test_blastp/project_settings.conf.
+[Friday November 25 22:44:50 2011] [Notice] Extracting ORF translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome for BLAST searches.
+[Friday November 25 22:44:51 2011] [Notice] Reference genome ORF translations have been written to ./sample_projects/test_blastp/reference_genome/orfs.
+[Friday November 25 22:44:51 2011] [Notice] Copying protein sequences in ./sample_projects/test_blastp/comparison_genomes for BLAST searches.
+[Friday November 25 22:44:51 2011] [Notice] Protein sequences have been copied to ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Friday November 25 22:44:51 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Friday November 25 22:44:51 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastp/blast/blast_db.
+[Friday November 25 22:44:51 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastp/reference_genome/orfs and databases in ./sample_projects/test_blastp/blast/blast_db.
+[Friday November 25 22:44:59 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastp/blast/blast_results_local.
+[Friday November 25 22:44:59 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome.
+[Friday November 25 22:44:59 2011] [Notice] COG categories have been written to ./sample_projects/test_blastp/features.
+[Friday November 25 22:44:59 2011] [Notice] Creating CGView XML files.
+[Friday November 25 22:44:59 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Friday November 25 22:44:59 2011] [Notice] two_copies_of_long_ORF_opposite_directions_ORFS_vs_match_end_of_orf.fasta_proteins_PROTEINS_blastp
+[Friday November 25 22:44:59 2011] [Notice] two_copies_of_long_ORF_opposite_directions_ORFS_vs_match_start_of_orf.fasta_proteins_PROTEINS_blastp
+[Friday November 25 22:45:00 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastp/maps/cgview_xml.
+[Friday November 25 22:45:00 2011] [Notice] Creating CGView maps.
+[Friday November 25 22:45:07 2011] [Notice] CGView maps have been created in ./sample_projects/test_blastp/maps.
+[Friday November 25 22:50:54 2011] [Notice] Using the settings file ./sample_projects/test_blastp/project_settings.conf.
+[Friday November 25 22:50:54 2011] [Notice] Extracting ORF translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome for BLAST searches.
+[Friday November 25 22:50:54 2011] [Notice] Reference genome ORF translations have been written to ./sample_projects/test_blastp/reference_genome/orfs.
+[Friday November 25 22:50:54 2011] [Notice] Copying protein sequences in ./sample_projects/test_blastp/comparison_genomes for BLAST searches.
+[Friday November 25 22:50:54 2011] [Notice] Protein sequences have been copied to ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Friday November 25 22:50:54 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Friday November 25 22:50:54 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastp/blast/blast_db.
+[Friday November 25 22:50:54 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastp/reference_genome/orfs and databases in ./sample_projects/test_blastp/blast/blast_db.
+[Friday November 25 22:51:02 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastp/blast/blast_results_local.
+[Friday November 25 22:51:02 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome.
+[Friday November 25 22:51:02 2011] [Notice] COG categories have been written to ./sample_projects/test_blastp/features.
+[Friday November 25 22:51:02 2011] [Notice] Creating CGView XML files.
+[Friday November 25 22:51:02 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Friday November 25 22:51:02 2011] [Notice] two_copies_of_long_ORF_opposite_directions_ORFS_vs_match_end_of_orf.fasta_proteins_PROTEINS_blastp
+[Friday November 25 22:51:02 2011] [Notice] two_copies_of_long_ORF_opposite_directions_ORFS_vs_match_start_of_orf.fasta_proteins_PROTEINS_blastp
+[Friday November 25 22:51:04 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastp/maps/cgview_xml.
+[Friday November 25 22:51:04 2011] [Notice] Creating CGView maps.
+[Friday November 25 22:51:11 2011] [Notice] CGView maps have been created in ./sample_projects/test_blastp/maps.
+[Saturday November 26 13:51:01 2011] [Notice] Using the settings file ./sample_projects/test_blastp/project_settings.conf.
+[Saturday November 26 13:51:01 2011] [Notice] Extracting ORF translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome for BLAST searches.
+[Saturday November 26 13:51:02 2011] [Notice] Reference genome ORF translations have been written to ./sample_projects/test_blastp/reference_genome/orfs.
+[Saturday November 26 13:51:02 2011] [Notice] Copying protein sequences in ./sample_projects/test_blastp/comparison_genomes for BLAST searches.
+[Saturday November 26 13:51:02 2011] [Notice] Protein sequences have been copied to ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Saturday November 26 13:51:02 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Saturday November 26 13:51:02 2011] [Notice] The BLAST databases have been created in ./sample_projects/test_blastp/blast/blast_db.
+[Saturday November 26 13:51:02 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastp/reference_genome/orfs and databases in ./sample_projects/test_blastp/blast/blast_db.
+[Saturday November 26 13:51:02 2011] [Notice] The BLAST results have been written to ./sample_projects/test_blastp/blast/blast_results_local.
+[Saturday November 26 13:51:02 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome.
+[Saturday November 26 13:51:02 2011] [Notice] COG categories have been written to ./sample_projects/test_blastp/features.
+[Saturday November 26 13:51:02 2011] [Notice] Creating CGView XML files.
+[Saturday November 26 13:51:03 2011] [Notice] CGView XML files have been created in ./sample_projects/test_blastp/maps/cgview_xml.
+[Saturday November 26 13:51:03 2011] [Notice] Creating CGView maps.
+[Saturday November 26 13:51:10 2011] [Notice] CGView maps have been created in ./sample_projects/test_blastp/maps.
+[Monday June 17 13:59:09 2019] [Notice] Using the settings file ./sample_projects/test_blastp/project_settings.conf.
+[Monday June 17 13:59:09 2019] [Notice] Extracting ORF translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome for BLAST searches.
+[Monday June 17 13:59:09 2019] [Notice] Reference genome ORF translations have been written to ./sample_projects/test_blastp/reference_genome/orfs.
+[Monday June 17 13:59:09 2019] [Notice] Copying protein sequences in ./sample_projects/test_blastp/comparison_genomes for BLAST searches.
+[Monday June 17 13:59:09 2019] [Notice] Protein sequences have been copied to ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Monday June 17 13:59:09 2019] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Monday June 17 13:59:09 2019] [Notice] The BLAST databases have been created in ./sample_projects/test_blastp/blast/blast_db.
+[Monday June 17 13:59:09 2019] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastp/reference_genome/orfs and databases in ./sample_projects/test_blastp/blast/blast_db.
+[Monday June 17 13:59:09 2019] [Notice] The BLAST results have been written to ./sample_projects/test_blastp/blast/blast_results_local.
+[Monday June 17 13:59:09 2019] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome.
+[Monday June 17 13:59:09 2019] [Notice] COG categories have been written to ./sample_projects/test_blastp/features.
+[Monday June 17 13:59:09 2019] [Notice] Creating CGView XML files.
+[Monday June 17 13:59:09 2019] [Notice] CGView XML files have been created in ./sample_projects/test_blastp/maps/cgview_xml.
+[Monday June 17 13:59:09 2019] [Notice] Creating CGView maps.
+[Monday June 17 13:59:12 2019] [Notice] CGView maps have been created in ./sample_projects/test_blastp/maps.
+[Monday June 17 23:02:16 2019] [Notice] Using the settings file ./sample_projects/test_blastp/project_settings.conf.
+[Monday June 17 23:02:16 2019] [Notice] Extracting ORF translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome for BLAST searches.
+[Monday June 17 23:02:16 2019] [Notice] Reference genome ORF translations have been written to ./sample_projects/test_blastp/reference_genome/orfs.
+[Monday June 17 23:02:16 2019] [Notice] Copying protein sequences in ./sample_projects/test_blastp/comparison_genomes for BLAST searches.
+[Monday June 17 23:02:16 2019] [Notice] Protein sequences have been copied to ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Monday June 17 23:02:16 2019] [Notice] Creating BLAST databases using the files in ./sample_projects/test_blastp/comparison_genomes/proteins.
+[Monday June 17 23:02:16 2019] [Notice] The BLAST databases have been created in ./sample_projects/test_blastp/blast/blast_db.
+[Monday June 17 23:02:16 2019] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/test_blastp/reference_genome/orfs and databases in ./sample_projects/test_blastp/blast/blast_db.
+[Monday June 17 23:02:16 2019] [Notice] The BLAST results have been written to ./sample_projects/test_blastp/blast/blast_results_local.
+[Monday June 17 23:02:16 2019] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/test_blastp/reference_genome.
+[Monday June 17 23:02:16 2019] [Notice] COG categories have been written to ./sample_projects/test_blastp/features.
+[Monday June 17 23:02:16 2019] [Notice] Creating CGView XML files.
+[Monday June 17 23:02:16 2019] [Notice] CGView XML files have been created in ./sample_projects/test_blastp/maps/cgview_xml.
+[Monday June 17 23:02:16 2019] [Notice] Creating CGView maps.
+[Monday June 17 23:02:20 2019] [Notice] CGView maps have been created in ./sample_projects/test_blastp/maps.

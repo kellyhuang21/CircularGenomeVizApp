@@ -1,0 +1,63 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Sunday June 19 14:26:24 2011.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#ENTREZ_DB=nucleotide
+#DATABASE=./sample_projects/sample_project_6/blast/blast_db/fem.fas_split
+#QUERY_GENETIC_CODE=11
+#ALIGN_TYPE=nucleotide
+#WORD_SIZE=11
+#XML=F
+#ENTREZ_URL=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#ERROR_RETRY=5
+#FILTER=F
+#DATABASE_GENETIC_CODE=1
+#MIN_SCORE=0
+#MIN_HSP_PROP=0.0
+#MAX_BYTES_RESPONSE=5000000
+#PROGRAM=blastn
+#INPUTTYPE=DNA
+#EXPECT=0.1
+#FETCH_DESC=F
+#HITLIST_SIZE=100000
+#BLAST_PATH=/usr/bin/blastall
+#HSP_LABEL=F
+#OUTPUTFILE=./sample_projects/sample_project_6/blast/blast_results_local/ref_DNA_vs_fem.fas_split_DNA_blastn
+#INPUTFILE=./sample_projects/sample_project_6/reference_genome/split/ref.fas_split
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+split_start=1;end=1000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	1000	0	0	1	1000	1	1000	0.0	1982
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	547	0	0	454	1000	1	547	0.0	1084
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	452	0	0	1	452	1001	1452	0.0	 896
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	905	0	0	1	905	548	1452	0.0	1794
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	94	0	0	907	1000	1	94	8e-51	 186
+split_start=3001;end=4000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	1000	0	0	1	1000	95	1094	0.0	1982
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	358	0	0	1	358	1095	1452	0.0	 710
+split_start=5001;end=6000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	13	0	0	908	920	467	455	0.018	26.3
+split_start=5001;end=6000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	12	0	0	169	180	979	968	0.070	24.3
+split_start=6001;end=7000;length=1000;source_length=28715	no acceptable hits returned
+split_start=7001;end=8000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	12	0	0	757	768	727	738	0.070	24.3
+split_start=8001;end=9000;length=1000;source_length=28715	no acceptable hits returned
+split_start=9001;end=10000;length=1000;source_length=28715	no acceptable hits returned
+split_start=10001;end=11000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	12	0	0	704	715	713	724	0.070	24.3
+split_start=11001;end=12000;length=1000;source_length=28715	no acceptable hits returned
+split_start=12001;end=13000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	13	0	0	378	390	1143	1155	0.018	26.3
+split_start=13001;end=14000;length=1000;source_length=28715	no acceptable hits returned
+split_start=14001;end=15000;length=1000;source_length=28715	no acceptable hits returned
+split_start=15001;end=16000;length=1000;source_length=28715	no acceptable hits returned
+split_start=16001;end=17000;length=1000;source_length=28715	no acceptable hits returned
+split_start=17001;end=18000;length=1000;source_length=28715	no acceptable hits returned
+split_start=18001;end=19000;length=1000;source_length=28715	no acceptable hits returned
+split_start=19001;end=20000;length=1000;source_length=28715	no acceptable hits returned
+split_start=20001;end=21000;length=1000;source_length=28715	no acceptable hits returned
+split_start=21001;end=22000;length=1000;source_length=28715	no acceptable hits returned
+split_start=22001;end=23000;length=1000;source_length=28715	no acceptable hits returned
+split_start=23001;end=24000;length=1000;source_length=28715	no acceptable hits returned
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	643	0	0	358	1000	1452	810	0.0	1275
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	809	0	0	1	809	809	1	0.0	1604
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	190	0	0	811	1000	1452	1263	4e-108	 377
+split_start=26001;end=27000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	1000	0	0	1	1000	1262	263	0.0	1982
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	737	0	0	264	1000	1452	716	0.0	1461
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	262	0	0	1	262	262	1	5e-151	 519
+split_start=28001;end=28715;length=715;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	715	0	0	1	715	715	1	0.0	1417

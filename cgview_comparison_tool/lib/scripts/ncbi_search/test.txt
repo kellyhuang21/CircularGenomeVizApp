@@ -1,0 +1,147 @@
+
+1. SLC5A3
+solute carrier family 5 member 3 [Bos taurus (cattle)]
+Other Aliases: SMIT, SMIT1
+Other Designations: sodium/myo-inositol cotransporter; Na(+)/myo-inositol cotransporter; osmoregulatory Na+/myo-inositol cotransporter; sodium/myo-inositol transporter 1; solute carrier family 5 (inositol transporters), member 3; solute carrier family 5 (sodium/myo-inositol cotransporter), member 3
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (700697..733456, complement)
+ID: 282362
+
+2. ATP5O
+ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit [Bos taurus (cattle)]
+Other Aliases: OSCP
+Other Designations: ATP synthase subunit O, mitochondrial; ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit (oligomycin sensitivity conferring protein); oligomycin sensitivity conferral protein
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (922635..929993)
+ID: 281640
+
+3. KCNE1
+potassium voltage-gated channel subfamily E regulatory subunit 1 [Bos taurus (cattle)]
+Other Designations: potassium voltage-gated channel subfamily E member 1; potassium voltage-gated channel, Isk-related family, member 1
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (401173..407779)
+ID: 528014
+
+4. MRPS6
+mitochondrial ribosomal protein S6 [Bos taurus (cattle)]
+Other Designations: 28S ribosomal protein S6, mitochondrial; MRP-S6; S6mt
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (669919..733729, complement)
+ID: 615431
+
+5. RCAN1
+regulator of calcineurin 1 [Bos taurus (cattle)]
+Other Aliases: DSCR1
+Other Designations: calcipressin-1; down syndrome critical region protein 1
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (242246..362915)
+ID: 539640
+
+6. KCNE2
+potassium voltage-gated channel subfamily E regulatory subunit 2 [Bos taurus (cattle)]
+Other Designations: potassium voltage-gated channel subfamily E member 2; potassium voltage-gated channel, Isk-related family, member 2
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (484625..492432, complement)
+ID: 768025
+
+7. SMIM11A
+small integral membrane protein 11A [Bos taurus (cattle)]
+Other Aliases: C1H21ORF51, FAM165B, SMIM11
+Other Designations: small integral membrane protein 11A; small integral membrane protein 11; UPF0601 protein C21orf51 homolog; family with sequence similarity 165, member B; protein FAM165B
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (457093..479051, complement)
+ID: 615202
+
+8. ITSN1
+intersectin 1 [Bos taurus (cattle)]
+Other Designations: intersectin-1; LOW QUALITY PROTEIN: intersectin-1; intersectin 1 (SH3 domain protein)
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (943941..1188401, complement)
+ID: 510879
+
+9. CLIC6
+chloride intracellular channel 6 [Bos taurus (cattle)]
+Other Designations: chloride intracellular channel protein 6
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (122904..180159, complement)
+ID: 507243
+
+10. C1H21orf140
+chromosome 1 C21orf140 homolog [Bos taurus (cattle)]
+Other Designations: uncharacterized protein C21orf140 homolog
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (459809..460828, complement)
+ID: 768067
+
+11. LOC101903444
+uncharacterized LOC101903444 [Bos taurus (cattle)]
+Other Designations: uncharacterized protein LOC101903444
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (432108..438036)
+ID: 101903444
+
+12. LOC618840
+chromobox 3 pseudogene [Bos taurus (cattle)]
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (263984..265014, complement)
+ID: 618840
+
+13. LOC107132170
+uncharacterized LOC107132170 [Bos taurus (cattle)]
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (654266..665971, complement)
+ID: 107132170
+
+14. LOC104970776
+uncharacterized LOC104970776 [Bos taurus (cattle)]
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (802933..837739)
+This record was discontinued.
+ID: 104970776
+
+15. LOC104970775
+uncharacterized LOC104970775 [Bos taurus (cattle)]
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (834883..849004, complement)
+This record was discontinued.
+ID: 104970775
+
+16. LOC104970774
+uncharacterized LOC104970774 [Bos taurus (cattle)]
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (535764..649452, complement)
+This record was discontinued.
+ID: 104970774
+
+17. LOC104970773
+olfactory receptor 5I1-like [Bos taurus (cattle)]
+Other Designations: LOW QUALITY PROTEIN: olfactory receptor 5I1-like
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (33293..35627)
+ID: 104970773
+
+18. LOC101904627
+transmembrane protein 230 pseudogene [Bos taurus (cattle)]
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (421948..422280)
+ID: 101904627
+
+19. LOC101903319
+uncharacterized LOC101903319 [Bos taurus (cattle)]
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (342121..343203, complement)
+ID: 101903319
+
+20. LOC787710
+olfactory receptor 5L1-like [Bos taurus (cattle)]
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (69737..71197, complement)
+ID: 787710
+
+21. LOC787691
+olfactory receptor 5D16-like [Bos taurus (cattle)]
+Other Designations: olfactory receptor 73-like
+Chromosome: 1
+Annotation: Chromosome 1 AC_000158.1 (66127..67210, complement)
+ID: 787691
+

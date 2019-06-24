@@ -1,0 +1,57 @@
+[Sunday June 19 09:35:04 2011] [Notice] Using the settings file ./sample_projects/sample_project_2/project_settings_a.conf.
+[Sunday June 19 09:35:04 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/sample_project_2/reference_genome.
+[Sunday June 19 10:21:28 2011] [Notice] COG categories have been written to ./sample_projects/sample_project_2/features.
+[Sunday June 19 10:21:28 2011] [Notice] Creating CGView XML files.
+[Sunday June 19 10:21:49 2011] [Notice] CGView XML files have been created in ./sample_projects/sample_project_2/maps/cgview_xml.
+[Sunday June 19 10:21:49 2011] [Notice] Creating CGView maps.
+[Sunday June 19 10:22:00 2011] [Notice] CGView maps have been created in ./sample_projects/sample_project_2/maps.
+[Sunday June 19 10:22:00 2011] [Notice] Using the settings file ./sample_projects/sample_project_2/project_settings_b.conf.
+[Sunday June 19 10:22:00 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/sample_project_2/reference_genome for BLAST searches.
+[Sunday June 19 10:22:02 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/sample_project_2/reference_genome/split.
+[Sunday June 19 10:22:02 2011] [Notice] Extracting CDS translations from reference genome sequence in ./sample_projects/sample_project_2/reference_genome for BLAST searches.
+[Sunday June 19 10:22:10 2011] [Notice] Reference genome CDS translations have been written to ./sample_projects/sample_project_2/reference_genome/cds.
+[Sunday June 19 10:22:10 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/sample_project_2/comparison_genomes for BLAST searches.
+[Sunday June 19 10:22:17 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/sample_project_2/comparison_genomes/split.
+[Sunday June 19 10:22:17 2011] [Notice] Extracting CDS translations from comparison genome sequences in ./sample_projects/sample_project_2/comparison_genomes for BLAST searches.
+[Sunday June 19 10:23:23 2011] [Notice] Comparison genome CDS translations have been written to ./sample_projects/sample_project_2/comparison_genomes/cds.
+[Sunday June 19 10:23:23 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_2/comparison_genomes/cds.
+[Sunday June 19 10:23:24 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_2/blast/blast_db.
+[Sunday June 19 10:23:24 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_2/reference_genome/cds and databases in ./sample_projects/sample_project_2/blast/blast_db.
+[Sunday June 19 10:27:32 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_2/blast/blast_results_local.
+[Sunday June 19 10:27:32 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_2/comparison_genomes/split.
+[Sunday June 19 10:27:32 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_2/blast/blast_db.
+[Sunday June 19 10:27:32 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_2/reference_genome/split and databases in ./sample_projects/sample_project_2/blast/blast_db.
+[Sunday June 19 10:27:40 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_2/blast/blast_results_local.
+[Sunday June 19 10:27:40 2011] [Notice] Assigning COG categories to CDS translations from reference genome sequence in ./sample_projects/sample_project_2/reference_genome.
+[Sunday June 19 10:27:40 2011] [Notice] Skipping COG assignment for './sample_projects/sample_project_2/reference_genome/Methanobacterium_thermoautotrophicum.gbk' using 'cds' since output already detected.
+[Sunday June 19 10:27:40 2011] [Notice] COG categories have been written to ./sample_projects/sample_project_2/features.
+[Sunday June 19 10:27:40 2011] [Notice] Creating CGView XML files.
+[Sunday June 19 10:27:40 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Sunday June 19 10:27:40 2011] [Notice] Methanobacterium_thermoautotrophicum_CDS_vs_Methanococcus_maripaludis.gbk_cds_CDS_blastp
+[Sunday June 19 10:27:40 2011] [Notice] Methanobacterium_thermoautotrophicum_CDS_vs_Methanosarcina_acetivorans.gbk_cds_CDS_blastp
+[Sunday June 19 10:27:40 2011] [Notice] Methanobacterium_thermoautotrophicum_CDS_vs_Thermococcus_kodakaraensis.gbk_cds_CDS_blastp
+[Sunday June 19 10:27:40 2011] [Notice] Methanobacterium_thermoautotrophicum_DNA_vs_Methanococcus_maripaludis.gbk_split_DNA_blastn
+[Sunday June 19 10:27:40 2011] [Notice] Methanobacterium_thermoautotrophicum_DNA_vs_Methanosarcina_acetivorans.gbk_split_DNA_blastn
+[Sunday June 19 10:27:40 2011] [Notice] Methanobacterium_thermoautotrophicum_DNA_vs_Thermococcus_kodakaraensis.gbk_split_DNA_blastn
+[Sunday June 19 10:28:32 2011] [Notice] CGView XML files have been created in ./sample_projects/sample_project_2/maps/cgview_xml.
+[Sunday June 19 10:28:32 2011] [Notice] Creating CGView maps.
+[Sunday June 19 10:28:52 2011] [Notice] CGView maps have been created in ./sample_projects/sample_project_2/maps.
+[Sunday June 19 10:28:52 2011] [Notice] Using the settings file ./sample_projects/sample_project_2/project_settings_c.conf.
+[Sunday June 19 10:28:52 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/sample_project_2/reference_genome for BLAST searches.
+[Sunday June 19 10:28:53 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/sample_project_2/reference_genome/split.
+[Sunday June 19 10:28:53 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/sample_project_2/comparison_genomes for BLAST searches.
+[Sunday June 19 10:29:00 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/sample_project_2/comparison_genomes/split.
+[Sunday June 19 10:29:00 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_2/comparison_genomes/split.
+[Sunday June 19 10:29:01 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_2/blast/blast_db.
+[Sunday June 19 10:29:01 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_2/reference_genome/split and databases in ./sample_projects/sample_project_2/blast/blast_db.
+[Sunday June 19 10:29:08 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_2/blast/blast_results_local.
+[Sunday June 19 10:29:08 2011] [Notice] Assigning COG categories to ORF translations from reference genome sequence in ./sample_projects/sample_project_2/reference_genome.
+[Sunday June 19 10:29:08 2011] [Notice] COG categories have been written to ./sample_projects/sample_project_2/features.
+[Sunday June 19 10:29:08 2011] [Notice] Creating CGView XML files.
+[Sunday June 19 10:29:08 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Sunday June 19 10:29:08 2011] [Notice] Methanobacterium_thermoautotrophicum_DNA_vs_Methanococcus_maripaludis.gbk_split_DNA_blastn
+[Sunday June 19 10:29:08 2011] [Notice] Methanobacterium_thermoautotrophicum_DNA_vs_Methanosarcina_acetivorans.gbk_split_DNA_blastn
+[Sunday June 19 10:29:08 2011] [Notice] Methanobacterium_thermoautotrophicum_DNA_vs_Thermococcus_kodakaraensis.gbk_split_DNA_blastn
+[Sunday June 19 10:29:29 2011] [Notice] CGView XML files have been created in ./sample_projects/sample_project_2/maps/cgview_xml.
+[Sunday June 19 10:29:29 2011] [Notice] Creating CGView maps.
+[Sunday June 19 10:30:08 2011] [Notice] CGView maps have been created in ./sample_projects/sample_project_2/maps.

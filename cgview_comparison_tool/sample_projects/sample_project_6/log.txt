@@ -1,0 +1,123 @@
+[Sunday June 19 14:25:15 2011] [Notice] Using the settings file ./sample_projects/sample_project_6/project_settings_a.conf.
+[Sunday June 19 14:25:15 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/sample_project_6/reference_genome for BLAST searches.
+[Sunday June 19 14:25:15 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/sample_project_6/reference_genome/split.
+[Sunday June 19 14:25:15 2011] [Notice] Extracting ORF translations from reference genome sequence in ./sample_projects/sample_project_6/reference_genome for BLAST searches.
+[Sunday June 19 14:25:16 2011] [Notice] Reference genome ORF translations have been written to ./sample_projects/sample_project_6/reference_genome/orfs.
+[Sunday June 19 14:25:16 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/sample_project_6/comparison_genomes for BLAST searches.
+[Sunday June 19 14:25:16 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:25:16 2011] [Notice] Extracting ORF translations from comparison genome sequences in ./sample_projects/sample_project_6/comparison_genomes for BLAST searches.
+[Sunday June 19 14:25:17 2011] [Notice] Comparison genome ORF translations have been written to ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:25:17 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:25:17 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:17 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:17 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:25:17 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:25:17 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:17 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/orfs and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:23 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:25:23 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:25:23 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:23 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/orfs and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:30 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:25:30 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:25:30 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:30 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:30 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:25:30 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:25:30 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:30 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:30 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:25:30 2011] [Notice] Assigning COG categories to ORF translations from reference genome sequence in ./sample_projects/sample_project_6/reference_genome.
+[Sunday June 19 14:25:30 2011] [Notice] COG categories have been written to ./sample_projects/sample_project_6/features.
+[Sunday June 19 14:25:30 2011] [Notice] Creating CGView XML files.
+[Sunday June 19 14:25:30 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Sunday June 19 14:25:30 2011] [Notice] ref_DNA_vs_fem.fas_orfs_ORFS_blastx
+[Sunday June 19 14:25:30 2011] [Notice] ref_DNA_vs_fem.fas_split_DNA_blastn
+[Sunday June 19 14:25:30 2011] [Notice] ref_DNA_vs_fem.fas_split_DNA_tblastx
+[Sunday June 19 14:25:30 2011] [Notice] ref_ORFS_vs_fem.fas_orfs_ORFS_blastp
+[Sunday June 19 14:25:30 2011] [Notice] ref_ORFS_vs_fem.fas_split_DNA_tblastn
+[Sunday June 19 14:25:32 2011] [Notice] CGView XML files have been created in ./sample_projects/sample_project_6/maps/cgview_xml.
+[Sunday June 19 14:25:32 2011] [Notice] Creating CGView maps.
+[Sunday June 19 14:25:57 2011] [Notice] CGView maps have been created in ./sample_projects/sample_project_6/maps.
+[Sunday June 19 14:25:57 2011] [Notice] Using the settings file ./sample_projects/sample_project_6/project_settings_b.conf.
+[Sunday June 19 14:25:57 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/sample_project_6/reference_genome for BLAST searches.
+[Sunday June 19 14:25:58 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/sample_project_6/reference_genome/split.
+[Sunday June 19 14:25:58 2011] [Notice] Extracting ORF translations from reference genome sequence in ./sample_projects/sample_project_6/reference_genome for BLAST searches.
+[Sunday June 19 14:25:58 2011] [Notice] Reference genome ORF translations have been written to ./sample_projects/sample_project_6/reference_genome/orfs.
+[Sunday June 19 14:25:58 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/sample_project_6/comparison_genomes for BLAST searches.
+[Sunday June 19 14:25:59 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:25:59 2011] [Notice] Extracting ORF translations from comparison genome sequences in ./sample_projects/sample_project_6/comparison_genomes for BLAST searches.
+[Sunday June 19 14:25:59 2011] [Notice] Comparison genome ORF translations have been written to ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:25:59 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:25:59 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:59 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:59 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:25:59 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:25:59 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:25:59 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/orfs and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:06 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:06 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:26:06 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:06 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/orfs and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:12 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:12 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:26:12 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:12 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:12 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:12 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:26:12 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:12 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:13 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:13 2011] [Notice] Assigning COG categories to ORF translations from reference genome sequence in ./sample_projects/sample_project_6/reference_genome.
+[Sunday June 19 14:26:13 2011] [Notice] COG categories have been written to ./sample_projects/sample_project_6/features.
+[Sunday June 19 14:26:13 2011] [Notice] Creating CGView XML files.
+[Sunday June 19 14:26:13 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Sunday June 19 14:26:13 2011] [Notice] ref_DNA_vs_fem.fas_orfs_ORFS_blastx
+[Sunday June 19 14:26:13 2011] [Notice] ref_DNA_vs_fem.fas_split_DNA_blastn
+[Sunday June 19 14:26:13 2011] [Notice] ref_DNA_vs_fem.fas_split_DNA_tblastx
+[Sunday June 19 14:26:13 2011] [Notice] ref_ORFS_vs_fem.fas_orfs_ORFS_blastp
+[Sunday June 19 14:26:13 2011] [Notice] ref_ORFS_vs_fem.fas_split_DNA_tblastn
+[Sunday June 19 14:26:15 2011] [Notice] CGView XML files have been created in ./sample_projects/sample_project_6/maps/cgview_xml.
+[Sunday June 19 14:26:15 2011] [Notice] Creating CGView maps.
+[Sunday June 19 14:26:22 2011] [Notice] CGView maps have been created in ./sample_projects/sample_project_6/maps.
+[Sunday June 19 14:26:23 2011] [Notice] Using the settings file ./sample_projects/sample_project_6/project_settings_c.conf.
+[Sunday June 19 14:26:23 2011] [Notice] Splitting the reference genome sequence in ./sample_projects/sample_project_6/reference_genome for BLAST searches.
+[Sunday June 19 14:26:23 2011] [Notice] Reference genome sequence has been split and written to ./sample_projects/sample_project_6/reference_genome/split.
+[Sunday June 19 14:26:23 2011] [Notice] Extracting ORF translations from reference genome sequence in ./sample_projects/sample_project_6/reference_genome for BLAST searches.
+[Sunday June 19 14:26:23 2011] [Notice] Reference genome ORF translations have been written to ./sample_projects/sample_project_6/reference_genome/orfs.
+[Sunday June 19 14:26:23 2011] [Notice] Splitting the comparison genome sequences in ./sample_projects/sample_project_6/comparison_genomes for BLAST searches.
+[Sunday June 19 14:26:24 2011] [Notice] Comparison genome sequences have been split and written to ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:26:24 2011] [Notice] Extracting ORF translations from comparison genome sequences in ./sample_projects/sample_project_6/comparison_genomes for BLAST searches.
+[Sunday June 19 14:26:24 2011] [Notice] Comparison genome ORF translations have been written to ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:26:24 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:26:24 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:24 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:24 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:24 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:26:24 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:24 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/orfs and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:31 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:31 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:26:31 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:31 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/orfs and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:37 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:37 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/orfs.
+[Sunday June 19 14:26:37 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:37 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:38 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:38 2011] [Notice] Creating BLAST databases using the files in ./sample_projects/sample_project_6/comparison_genomes/split.
+[Sunday June 19 14:26:38 2011] [Notice] The BLAST databases have been created in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:38 2011] [Notice] Performing BLAST comparisons between sequences in ./sample_projects/sample_project_6/reference_genome/split and databases in ./sample_projects/sample_project_6/blast/blast_db.
+[Sunday June 19 14:26:39 2011] [Notice] The BLAST results have been written to ./sample_projects/sample_project_6/blast/blast_results_local.
+[Sunday June 19 14:26:39 2011] [Notice] Assigning COG categories to ORF translations from reference genome sequence in ./sample_projects/sample_project_6/reference_genome.
+[Sunday June 19 14:26:39 2011] [Notice] COG categories have been written to ./sample_projects/sample_project_6/features.
+[Sunday June 19 14:26:39 2011] [Notice] Creating CGView XML files.
+[Sunday June 19 14:26:39 2011] [Notice] The following BLAST results will be drawn, from outside to center:
+[Sunday June 19 14:26:39 2011] [Notice] ref_DNA_vs_fem.fas_orfs_ORFS_blastx
+[Sunday June 19 14:26:39 2011] [Notice] ref_DNA_vs_fem.fas_split_DNA_blastn
+[Sunday June 19 14:26:39 2011] [Notice] ref_DNA_vs_fem.fas_split_DNA_tblastx
+[Sunday June 19 14:26:39 2011] [Notice] ref_ORFS_vs_fem.fas_orfs_ORFS_blastp
+[Sunday June 19 14:26:39 2011] [Notice] ref_ORFS_vs_fem.fas_split_DNA_tblastn
+[Sunday June 19 14:26:41 2011] [Notice] CGView XML files have been created in ./sample_projects/sample_project_6/maps/cgview_xml.
+[Sunday June 19 14:26:41 2011] [Notice] Creating CGView maps.
+[Sunday June 19 14:27:06 2011] [Notice] CGView maps have been created in ./sample_projects/sample_project_6/maps.

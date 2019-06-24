@@ -1,0 +1,25 @@
+[Friday November 25 22:45:33 2011] [Notice] Using the settings file ./sample_projects/test_plots/project_settings.conf.
+[Friday November 25 22:45:33 2011] [Notice] Creating CGView XML files.
+[Friday November 25 22:45:33 2011] [Notice] CGView XML files have been created in ./sample_projects/test_plots/maps/cgview_xml.
+[Friday November 25 22:45:33 2011] [Notice] Creating CGView maps.
+[Friday November 25 22:45:39 2011] [Notice] CGView maps have been created in ./sample_projects/test_plots/maps.
+[Friday November 25 22:51:36 2011] [Notice] Using the settings file ./sample_projects/test_plots/project_settings.conf.
+[Friday November 25 22:51:36 2011] [Notice] Creating CGView XML files.
+[Friday November 25 22:51:37 2011] [Notice] CGView XML files have been created in ./sample_projects/test_plots/maps/cgview_xml.
+[Friday November 25 22:51:37 2011] [Notice] Creating CGView maps.
+[Friday November 25 22:51:42 2011] [Notice] CGView maps have been created in ./sample_projects/test_plots/maps.
+[Saturday November 26 13:51:36 2011] [Notice] Using the settings file ./sample_projects/test_plots/project_settings.conf.
+[Saturday November 26 13:51:36 2011] [Notice] Creating CGView XML files.
+[Saturday November 26 13:51:36 2011] [Notice] CGView XML files have been created in ./sample_projects/test_plots/maps/cgview_xml.
+[Saturday November 26 13:51:36 2011] [Notice] Creating CGView maps.
+[Saturday November 26 13:51:42 2011] [Notice] CGView maps have been created in ./sample_projects/test_plots/maps.
+[Monday June 17 13:59:38 2019] [Notice] Using the settings file ./sample_projects/test_plots/project_settings.conf.
+[Monday June 17 13:59:38 2019] [Notice] Creating CGView XML files.
+[Monday June 17 13:59:38 2019] [Notice] CGView XML files have been created in ./sample_projects/test_plots/maps/cgview_xml.
+[Monday June 17 13:59:38 2019] [Notice] Creating CGView maps.
+[Monday June 17 13:59:41 2019] [Notice] CGView maps have been created in ./sample_projects/test_plots/maps.
+[Monday June 17 23:02:47 2019] [Notice] Using the settings file ./sample_projects/test_plots/project_settings.conf.
+[Monday June 17 23:02:47 2019] [Notice] Creating CGView XML files.
+[Monday June 17 23:02:47 2019] [Notice] CGView XML files have been created in ./sample_projects/test_plots/maps/cgview_xml.
+[Monday June 17 23:02:47 2019] [Notice] Creating CGView maps.
+[Monday June 17 23:02:50 2019] [Notice] CGView maps have been created in ./sample_projects/test_plots/maps.

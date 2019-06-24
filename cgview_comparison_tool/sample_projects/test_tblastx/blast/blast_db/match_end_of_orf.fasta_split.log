@@ -1,0 +1,6 @@
+
+========================[ Jun 17, 2019 11:02 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "./sample_projects/test_tblastx/comparison_genomes/split/match_end_of_orf.fasta_split"
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database ./sample_projects/test_tblastx/blast/blast_db/match_end_of_orf.fasta_split

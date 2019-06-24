@@ -1,0 +1,144 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Sunday June 19 14:26:38 2011.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#ENTREZ_DB=nucleotide
+#DATABASE=./sample_projects/sample_project_6/blast/blast_db/fem.fas_split
+#QUERY_GENETIC_CODE=11
+#ALIGN_TYPE=translated
+#WORD_SIZE=3
+#XML=F
+#ENTREZ_URL=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#ERROR_RETRY=5
+#FILTER=F
+#DATABASE_GENETIC_CODE=1
+#MIN_SCORE=0
+#MIN_HSP_PROP=0.0
+#MAX_BYTES_RESPONSE=5000000
+#PROGRAM=tblastx
+#INPUTTYPE=DNA
+#EXPECT=0.1
+#FETCH_DESC=F
+#HITLIST_SIZE=100000
+#BLAST_PATH=/usr/bin/blastall
+#HSP_LABEL=F
+#OUTPUTFILE=./sample_projects/sample_project_6/blast/blast_results_local/ref_DNA_vs_fem.fas_split_DNA_tblastx
+#INPUTFILE=./sample_projects/sample_project_6/reference_genome/split/ref.fas_split
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+split_start=1;end=1000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	1	999	1	999	0.0	 819
+split_start=1;end=1000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	999	1	999	1	0.0	 797
+split_start=1;end=1000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	1000	2	1000	2	0.0	 795
+split_start=1;end=1000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	332	0	0	3	998	3	998	0.0	 790
+split_start=1;end=1000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	2	1000	2	1000	0.0	 756
+split_start=1;end=1000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	332	0	0	998	3	998	3	0.0	 749
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	182	0	0	999	454	546	1	2e-130	 448
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	182	0	0	454	999	1	546	5e-130	 447
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	182	0	0	1000	455	547	2	1e-125	 433
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	181	0	0	456	998	3	545	1e-120	 416
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	182	0	0	455	1000	2	547	1e-119	 412
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	181	0	0	998	456	545	3	9e-118	 407
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	150	0	0	450	1	1450	1001	2e-105	 366
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	150	0	0	452	3	1452	1003	4e-104	 361
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	150	0	0	3	452	1003	1452	4e-103	 358
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	150	0	0	2	451	1002	1451	5e-103	 358
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	150	0	0	1	450	1001	1450	3e-94	 328
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	150	0	0	451	2	1451	1002	1e-92	 323
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	439	359	1442	1362	0.045	22.6
+split_start=1001;end=2000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	442	362	1439	1359	0.045	22.6
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	301	0	0	2	904	549	1451	0.0	 734
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	301	0	0	3	905	550	1452	0.0	 733
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	301	0	0	903	1	1450	548	0.0	 728
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	301	0	0	905	3	1452	550	0.0	 711
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	301	0	0	1	903	548	1450	0.0	 671
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	301	0	0	904	2	1451	549	0.0	 666
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	31	0	0	999	907	93	1	1e-20	84.0
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	31	0	0	1000	908	94	2	1e-19	80.8
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	31	0	0	907	999	1	93	2e-19	80.3
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	31	0	0	908	1000	2	94	2e-18	76.7
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	30	0	0	909	998	3	92	1e-16	71.2
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	30	0	0	998	909	92	3	1e-16	70.7
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	892	812	1442	1362	0.045	22.6
+split_start=2001;end=3000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	895	815	1439	1359	0.045	22.6
+split_start=3001;end=4000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	332	0	0	3	998	97	1092	0.0	 816
+split_start=3001;end=4000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	2	1000	96	1094	0.0	 805
+split_start=3001;end=4000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	999	1	1093	95	0.0	 792
+split_start=3001;end=4000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	332	0	0	998	3	1092	97	0.0	 787
+split_start=3001;end=4000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	1000	2	1094	96	0.0	 757
+split_start=3001;end=4000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	1	999	95	1093	0.0	 745
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	118	0	0	356	3	1450	1097	2e-82	 289
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	119	0	0	358	2	1452	1096	5e-82	 288
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	119	0	0	2	358	1096	1452	3e-81	 285
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	119	0	0	1	357	1095	1451	3e-78	 275
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	118	0	0	3	356	1097	1450	5e-75	 264
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	119	0	0	357	1	1451	1095	9e-70	 247
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	345	265	1442	1362	0.045	22.6
+split_start=4001;end=5000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	348	268	1439	1359	0.045	22.6
+split_start=5001;end=6000;length=1000;source_length=28715	no acceptable hits returned
+split_start=6001;end=7000;length=1000;source_length=28715	no acceptable hits returned
+split_start=7001;end=8000;length=1000;source_length=28715	no acceptable hits returned
+split_start=8001;end=9000;length=1000;source_length=28715	no acceptable hits returned
+split_start=9001;end=10000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	63.64	11	4	0	139	107	1061	1029	0.086	21.7
+split_start=10001;end=11000;length=1000;source_length=28715	no acceptable hits returned
+split_start=11001;end=12000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	18	10	0	889	942	419	366	0.062	22.1
+split_start=12001;end=13000;length=1000;source_length=28715	no acceptable hits returned
+split_start=13001;end=14000;length=1000;source_length=28715	no acceptable hits returned
+split_start=14001;end=15000;length=1000;source_length=28715	no acceptable hits returned
+split_start=15001;end=16000;length=1000;source_length=28715	no acceptable hits returned
+split_start=16001;end=17000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	32.14	28	19	0	59	142	735	652	0.024	23.5
+split_start=17001;end=18000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	63.64	11	4	0	808	840	865	897	0.017	24.0
+split_start=18001;end=19000;length=1000;source_length=28715	no acceptable hits returned
+split_start=19001;end=20000;length=1000;source_length=28715	no acceptable hits returned
+split_start=20001;end=21000;length=1000;source_length=28715	no acceptable hits returned
+split_start=21001;end=22000;length=1000;source_length=28715	no acceptable hits returned
+split_start=22001;end=23000;length=1000;source_length=28715	no acceptable hits returned
+split_start=23001;end=24000;length=1000;source_length=28715	no acceptable hits returned
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	214	0	0	1000	359	810	1451	3e-152	 521
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	214	0	0	999	358	811	1452	3e-150	 514
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	213	0	0	360	998	1450	812	6e-150	 513
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	214	0	0	358	999	1452	811	4e-149	 511
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	213	0	0	998	360	812	1450	2e-137	 472
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	214	0	0	359	1000	1451	810	4e-135	 464
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	371	451	1442	1362	0.045	22.6
+split_start=24001;end=25000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	368	448	1439	1359	0.045	22.6
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	269	0	0	809	3	1	807	0.0	 667
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	269	0	0	3	809	807	1	0.0	 648
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	269	0	0	2	808	808	2	0.0	 644
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	269	0	0	807	1	3	809	0.0	 630
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	269	0	0	1	807	809	3	4e-179	 610
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	269	0	0	808	2	2	808	5e-179	 610
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	63	0	0	811	999	1452	1264	4e-43	 159
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	62	0	0	813	998	1450	1265	6e-42	 155
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	63	0	0	999	811	1264	1452	2e-41	 153
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	63	0	0	1000	812	1263	1451	1e-38	 144
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	62	0	0	998	813	1265	1450	7e-35	 131
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	63	0	0	812	1000	1451	1263	5e-34	 128
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	824	904	1442	1362	0.045	22.6
+split_start=25001;end=26000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	821	901	1439	1359	0.045	22.6
+split_start=26001;end=27000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	332	0	0	998	3	265	1260	0.0	 818
+split_start=26001;end=27000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	999	1	264	1262	0.0	 807
+split_start=26001;end=27000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	2	1000	1261	263	0.0	 799
+split_start=26001;end=27000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	332	0	0	3	998	1260	265	0.0	 779
+split_start=26001;end=27000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	1000	2	263	1261	0.0	 754
+split_start=26001;end=27000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	333	0	0	1	999	1262	264	0.0	 741
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	245	0	0	998	264	718	1452	9e-175	 596
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	245	0	0	999	265	717	1451	4e-174	 593
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	245	0	0	266	1000	1450	716	1e-172	 589
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	245	0	0	264	998	1452	718	1e-170	 582
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	245	0	0	1000	266	716	1450	2e-158	 541
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	245	0	0	265	999	1451	717	2e-154	 528
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	87	0	0	2	262	261	1	5e-62	 221
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	87	0	0	262	2	1	261	2e-58	 209
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	87	0	0	1	261	262	2	3e-57	 205
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	86	0	0	3	260	260	3	4e-57	 205
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	86	0	0	260	3	3	260	2e-55	 199
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	87	0	0	261	1	2	262	3e-55	 199
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	277	357	1442	1362	0.045	22.6
+split_start=27001;end=28000;length=1000;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	44.44	27	15	0	274	354	1439	1359	0.045	22.6
+split_start=28001;end=28715;length=715;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	238	0	0	715	2	1	714	1e-170	 582
+split_start=28001;end=28715;length=715;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	238	0	0	2	715	714	1	3e-169	 577
+split_start=28001;end=28715;length=715;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	238	0	0	1	714	715	2	1e-167	 571
+split_start=28001;end=28715;length=715;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	237	0	0	713	3	3	713	1e-162	 555
+split_start=28001;end=28715;length=715;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	237	0	0	3	713	713	3	1e-159	 545
+split_start=28001;end=28715;length=715;source_length=28715	split_start=1;end=1452;length=1452;source_length=1452	-	100.00	238	0	0	714	1	2	715	6e-159	 543

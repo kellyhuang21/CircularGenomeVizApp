@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<cgview backboneRadius="1000" backboneColor="rgb(102,102,102)" backboneThickness="8" featureSlotSpacing="6" labelLineLength="200" labelPlacementQuality="good" labelLineThickness="4" rulerPadding="40" tickThickness="6" arrowheadLength="6" rulerFont="SansSerif, plain, 30" rulerFontColor="rgb(0,0,0)" labelFont="SansSerif, plain, 15" isLinear="false" minimumFeatureLength="0.2" sequenceLength="3300" height="3000" width="3000" globalLabel="true" moveInnerLabelsToOuter="false" featureThickness="30" tickLength="15" useInnerLabels="true" shortTickColor="rgb(0,51,0)" longTickColor="rgb(0,51,0)" zeroTickColor="rgb(0,51,0)" showBorder="true" borderColor="black" backgroundColor="white" tickDensity="0.166666666666667">
+
+
+
+
+<!-- details legend -->
+<legend position="upper-left" font="SansSerif, plain, 80" backgroundOpacity="0.8">
+<legendItem text="Length: 3,300 bp" />
+</legend>
+
+
+
+
+
+<!-- legend -->
+<legend position="upper-right" textAlignment="left" backgroundOpacity="0.8" font="SansSerif, plain, 20">
+<legendItem text="ORF" drawSwatch="true" swatchOpacity="0.5" swatchColor="rgb(204,0,0)" />
+</legend>
+
+
+
+
+
+<!-- ORFs in rf 1 on forward strand -->
+<featureSlot showShading="true" strand="direct">
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_5" mouseover="orf_5; 2938 to 3057; strand=1; rf=1" >
+<featureRange start="2938" stop="3057" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_4" mouseover="orf_4; 1777 to 2037; strand=1; rf=1" >
+<featureRange start="1777" stop="2037" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_3" mouseover="orf_3; 676 to 735; strand=1; rf=1" >
+<featureRange start="676" stop="735" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_2" mouseover="orf_2; 250 to 426; strand=1; rf=1" >
+<featureRange start="250" stop="426" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_1" mouseover="orf_1; 148 to 207; strand=1; rf=1" >
+<featureRange start="148" stop="207" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="direct">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="3300">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- ORFs in rf 2 on forward strand -->
+<featureSlot showShading="true" strand="direct">
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_13" mouseover="orf_13; 2435 to 2581; strand=1; rf=2" >
+<featureRange start="2435" stop="2581" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_12" mouseover="orf_12; 2138 to 2377; strand=1; rf=2" >
+<featureRange start="2138" stop="2377" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_11" mouseover="orf_11; 2027 to 2086; strand=1; rf=2" >
+<featureRange start="2027" stop="2086" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_10" mouseover="orf_10; 1580 to 1741; strand=1; rf=2" >
+<featureRange start="1580" stop="1741" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_9" mouseover="orf_9; 1391 to 1471; strand=1; rf=2" >
+<featureRange start="1391" stop="1471" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_8" mouseover="orf_8; 1304 to 1360; strand=1; rf=2" >
+<featureRange start="1304" stop="1360" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_7" mouseover="orf_7; 413 to 487; strand=1; rf=2" >
+<featureRange start="413" stop="487" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_6" mouseover="orf_6; 68 to 151; strand=1; rf=2" >
+<featureRange start="68" stop="151" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="direct">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="3300">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- ORFs in rf 3 on forward strand -->
+<featureSlot showShading="true" strand="direct">
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_18" mouseover="orf_18; 2043 to 2138; strand=1; rf=3" >
+<featureRange start="2043" stop="2138" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_17" mouseover="orf_17; 1704 to 1775; strand=1; rf=3" >
+<featureRange start="1704" stop="1775" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_16" mouseover="orf_16; 1233 to 1460; strand=1; rf=3" >
+<featureRange start="1233" stop="1460" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_15" mouseover="orf_15; 909 to 968; strand=1; rf=3" >
+<featureRange start="909" stop="968" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="clockwise-arrow" opacity="0.5" label="orf_14" mouseover="orf_14; 387 to 524; strand=1; rf=3" >
+<featureRange start="387" stop="524" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="direct">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="3300">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- ORFs in rf 1 on reverse strand -->
+<featureSlot showShading="true" strand="reverse">
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_23" mouseover="orf_23; 1231 to 1314; strand=-1; rf=1" >
+<featureRange start="1231" stop="1314" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_22" mouseover="orf_22; 1357 to 1506; strand=-1; rf=1" >
+<featureRange start="1357" stop="1506" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_21" mouseover="orf_21; 1570 to 1737; strand=-1; rf=1" >
+<featureRange start="1570" stop="1737" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_20" mouseover="orf_20; 2161 to 2280; strand=-1; rf=1" >
+<featureRange start="2161" stop="2280" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_19" mouseover="orf_19; 2293 to 2436; strand=-1; rf=1" >
+<featureRange start="2293" stop="2436" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="reverse">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="3300">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- ORFs in rf 2 on reverse strand -->
+<featureSlot showShading="true" strand="reverse">
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_33" mouseover="orf_33; 66 to 149; strand=-1; rf=2" >
+<featureRange start="66" stop="149" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_32" mouseover="orf_32; 588 to 674; strand=-1; rf=2" >
+<featureRange start="588" stop="674" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_31" mouseover="orf_31; 732 to 905; strand=-1; rf=2" >
+<featureRange start="732" stop="905" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_30" mouseover="orf_30; 1296 to 1364; strand=-1; rf=2" >
+<featureRange start="1296" stop="1364" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_29" mouseover="orf_29; 1626 to 1697; strand=-1; rf=2" >
+<featureRange start="1626" stop="1697" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_28" mouseover="orf_28; 1815 to 1922; strand=-1; rf=2" >
+<featureRange start="1815" stop="1922" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_27" mouseover="orf_27; 2049 to 2147; strand=-1; rf=2" >
+<featureRange start="2049" stop="2147" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_26" mouseover="orf_26; 2505 to 2570; strand=-1; rf=2" >
+<featureRange start="2505" stop="2570" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_25" mouseover="orf_25; 2652 to 2732; strand=-1; rf=2" >
+<featureRange start="2652" stop="2732" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_24" mouseover="orf_24; 2841 to 2975; strand=-1; rf=2" >
+<featureRange start="2841" stop="2975" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="reverse">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="3300">
+</featureRange>
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- ORFs in rf 3 on reverse strand -->
+<featureSlot showShading="true" strand="reverse">
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_41" mouseover="orf_41; 107 to 190; strand=-1; rf=3" >
+<featureRange start="107" stop="190" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_40" mouseover="orf_40; 671 to 775; strand=-1; rf=3" >
+<featureRange start="671" stop="775" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_39" mouseover="orf_39; 899 to 1024; strand=-1; rf=3" >
+<featureRange start="899" stop="1024" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_38" mouseover="orf_38; 1499 to 1615; strand=-1; rf=3" >
+<featureRange start="1499" stop="1615" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_37" mouseover="orf_37; 2387 to 2446; strand=-1; rf=3" >
+<featureRange start="2387" stop="2446" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_36" mouseover="orf_36; 2729 to 2899; strand=-1; rf=3" >
+<featureRange start="2729" stop="2899" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_35" mouseover="orf_35; 3002 to 3091; strand=-1; rf=3" >
+<featureRange start="3002" stop="3091" />
+</feature>
+<feature color="rgb(204,0,0)" decoration="counterclockwise-arrow" opacity="0.5" label="orf_34" mouseover="orf_34; 3167 to 3241; strand=-1; rf=3" >
+<featureRange start="3167" stop="3241" />
+</feature>
+</featureSlot>
+
+
+
+
+
+<!-- divider -->
+<featureSlot featureThickness="2" showShading="true" strand="reverse">
+<feature color="rgb(102,102,102)" decoration="arc">
+<featureRange start="1" stop="3300">
+</featureRange>
+</feature>
+</featureSlot>
+
+</cgview>

@@ -1,0 +1,34 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Thursday May 20 19:51:36 2010.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#ENTREZ_DB=nucleotide
+#DATABASE=test_input/formatted_databases/test_dna_database.fasta
+#QUERY_GENETIC_CODE=1
+#ALIGN_TYPE=translated
+#WORD_SIZE=3
+#XML=F
+#ENTREZ_URL=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#ERROR_RETRY=5
+#FILTER=T
+#DATABASE_GENETIC_CODE=1
+#MAX_BYTES_RESPONSE=5000000
+#PROGRAM=tblastn
+#INPUTTYPE=protein
+#EXPECT=10
+#FETCH_DESC=T
+#HITLIST_SIZE=5
+#BLAST_PATH=/usr/local/blast/bin/blastall
+#HSP_LABEL=F
+#OUTPUTFILE=test_output/results_tblastn.txt
+#INPUTFILE=test_input/test_input_protein.fasta
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+fem-2_fragment_1	gi|6164828	Caenorhabditis sp. CB5161 putative PP2C protein phosphatase FEM-2 (fem-2) gene, complete cds	97.93	241	4	2	1	240	1	720	5e-141	 483
+fem-2_fragment_1	gi|6164828	Caenorhabditis sp. CB5161 putative PP2C protein phosphatase FEM-2 (fem-2) gene, complete cds	58.33	12	5	0	4	15	1420	1385	0.33	19.2
+fem-2_fragment_1	some_other_gene	No identifier available	93.36	241	15	2	1	240	1	720	1e-134	 462
+fem-2_fragment_2	gi|6164828	Caenorhabditis sp. CB5161 putative PP2C protein phosphatase FEM-2 (fem-2) gene, complete cds	99.05	105	1	0	1	105	1081	1395	2e-60	 214
+fem-2_fragment_2	gi|6164828	Caenorhabditis sp. CB5161 putative PP2C protein phosphatase FEM-2 (fem-2) gene, complete cds	40.00	15	7	1	68	80	1134	1090	2.9	15.0
+fem-2_fragment_2	some_other_gene	No identifier available	95.24	105	5	0	1	105	1081	1395	3e-57	 204
+fem-2_fragment_2	some_other_gene	No identifier available	40.00	15	7	1	68	80	1134	1090	2.9	15.0

@@ -1,0 +1,59 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Sunday June 19 09:34:57 2011.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#ENTREZ_DB=nucleotide
+#DATABASE=./sample_projects/sample_project_1/blast/blast_db/NC_007717.gbk_split
+#QUERY_GENETIC_CODE=11
+#ALIGN_TYPE=nucleotide
+#WORD_SIZE=11
+#XML=F
+#ENTREZ_URL=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#ERROR_RETRY=5
+#FILTER=F
+#DATABASE_GENETIC_CODE=1
+#MIN_SCORE=0
+#MIN_HSP_PROP=0.0
+#MAX_BYTES_RESPONSE=5000000
+#PROGRAM=blastn
+#INPUTTYPE=DNA
+#EXPECT=0.1
+#FETCH_DESC=F
+#HITLIST_SIZE=100000
+#BLAST_PATH=/usr/bin/blastall
+#HSP_LABEL=F
+#OUTPUTFILE=./sample_projects/sample_project_1/blast/blast_results_local/NC_007719_DNA_vs_NC_007717.gbk_split_DNA_blastn
+#INPUTFILE=./sample_projects/sample_project_1/reference_genome/split/NC_007719.gbk_split
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	88.20	805	91	2	299	1101	299	1101	0.0	 831
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	97.52	322	8	0	4662	4983	3592	3913	1e-166	 575
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	90.40	250	23	1	3758	4006	2528	2777	4e-83	 297
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	89.03	237	20	1	4205	4441	2985	3215	2e-73	 266
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	84.42	353	37	9	1953	2289	1363	1713	8e-57	 210
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	86.62	142	19	0	3412	3553	2169	2310	6e-33	 131
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	87.14	70	9	0	2378	2447	1862	1931	7e-14	67.9
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	88.33	60	7	0	1734	1793	1122	1181	1e-12	63.9
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	97.06	34	1	0	5051	5084	3918	3951	2e-11	60.0
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	21	0	0	4533	4553	3457	3477	4e-06	42.1
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	95.83	24	1	0	2314	2337	1794	1817	2e-05	40.1
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	18	0	0	1	18	1	18	3e-04	36.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	95.45	22	1	0	1707	1728	3951	3930	3e-04	36.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	95.24	21	1	0	4481	4501	3402	3422	0.001	34.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	17	0	0	170	186	3789	3773	0.001	34.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	16	0	0	2140	2155	1567	1552	0.004	32.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	15	0	0	2762	2776	2299	2313	0.016	30.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	3397	3410	384	371	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	3119	3132	389	376	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	888	901	1243	1230	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	3938	3951	1605	1592	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	5036	5049	1852	1839	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	1436	1449	1859	1846	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	2869	2882	2286	2299	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	2921	2934	2299	2312	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	2996	3009	2299	2312	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	3511	3524	2506	2519	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	1125	1138	2700	2713	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	3149	3162	2702	2715	0.063	28.2
+Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-III,_complete_sequence._start=1;end=5104;length=5104;source_length=5104	Aster_yellows_witches'-broom_phytoplasma_AYWB_plasmid_pAYWB-I,_complete_sequence._start=1;end=3972;length=3972;source_length=3972	-	100.00	14	0	0	4787	4800	3906	3919	0.063	28.2

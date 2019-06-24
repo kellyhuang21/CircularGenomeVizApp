@@ -1,0 +1,2 @@
+seqname	source	feature	start	end	score	strand	frame
+ssb;AYWB_pIII07;_start=4678;end=5052;strand=1;rf=1	COG0629	L	4678	4989	0.40	+	1

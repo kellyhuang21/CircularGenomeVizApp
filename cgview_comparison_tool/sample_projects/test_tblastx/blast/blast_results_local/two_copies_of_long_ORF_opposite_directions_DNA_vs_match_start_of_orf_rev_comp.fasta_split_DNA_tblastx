@@ -1,0 +1,41 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Monday June 17 23:02:11 2019.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#PROGRAM=tblastx
+#DATABASE=./sample_projects/test_tblastx/blast/blast_db/match_start_of_orf_rev_comp.fasta_split
+#MIN_SCORE=0
+#MIN_HSP_PROP=0.0
+#MAX_BYTES_RESPONSE=5000000
+#ENTREZ_URL=https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#OUTPUTFILE=./sample_projects/test_tblastx/blast/blast_results_local/two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_tblastx
+#DATABASE_GENETIC_CODE=1
+#FETCH_DESC=F
+#WORD_SIZE=3
+#QUERY_GENETIC_CODE=11
+#HITLIST_SIZE=100000
+#ERROR_RETRY=5
+#XML=F
+#ENTREZ_DB=nucleotide
+#FILTER=F
+#INPUTFILE=./sample_projects/test_tblastx/reference_genome/split/two_copies_of_long_ORF_opposite_directions.fasta_split
+#ALIGN_TYPE=translated
+#EXPECT=0.1
+#BLAST_PATH=blastall
+#INPUTTYPE=DNA
+#HSP_LABEL=F
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	100	0	0	541	840	300	1	3e-70	 250
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	100	0	0	9060	8761	300	1	3e-70	 250
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	99	0	0	543	839	298	2	1e-67	 242
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	99	0	0	9058	8762	298	2	1e-67	 242
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	99	0	0	8762	9058	2	298	5e-67	 239
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	99	0	0	839	543	2	298	5e-67	 239
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	100	0	0	8761	9060	1	300	1e-65	 235
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	100	0	0	840	541	1	300	1e-65	 235
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	99	0	0	542	838	299	3	5e-63	 226
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	99	0	0	9059	8763	299	3	5e-63	 226
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	99	0	0	8763	9059	3	299	1e-62	 225
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	99	0	0	838	542	3	299	1e-62	 225

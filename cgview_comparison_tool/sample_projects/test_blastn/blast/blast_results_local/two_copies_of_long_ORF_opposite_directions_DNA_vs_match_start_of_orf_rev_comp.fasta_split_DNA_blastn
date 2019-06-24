@@ -1,0 +1,31 @@
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+#Results of automated BLAST query of performed on Monday June 17 23:02:01 2019.
+#Searches performed using local_blast_client.pl, written by Paul Stothard, stothard@ualberta.ca.
+#The following settings were specified:
+#HITLIST_SIZE=100000
+#OUTPUTFILE=./sample_projects/test_blastn/blast/blast_results_local/two_copies_of_long_ORF_opposite_directions_DNA_vs_match_start_of_orf_rev_comp.fasta_split_DNA_blastn
+#PROGRAM=blastn
+#INPUTFILE=./sample_projects/test_blastn/reference_genome/split/two_copies_of_long_ORF_opposite_directions.fasta_split
+#MIN_HSP_PROP=0.0
+#MIN_SCORE=0
+#XML=F
+#DATABASE_GENETIC_CODE=1
+#INPUTTYPE=DNA
+#ALIGN_TYPE=nucleotide
+#WORD_SIZE=11
+#ENTREZ_DB=nucleotide
+#MAX_BYTES_RESPONSE=5000000
+#DATABASE=./sample_projects/test_blastn/blast/blast_db/match_start_of_orf_rev_comp.fasta_split
+#ERROR_RETRY=5
+#ENTREZ_URL=https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?
+#QUERY_GENETIC_CODE=11
+#FETCH_DESC=F
+#FILTER=F
+#BLAST_PATH=blastall
+#EXPECT=0.1
+#HSP_LABEL=F
+#The following attributes are separated by tabs:
+#-------------------------------------------------------------------------------------------------------------------------------------------------
+query_id	match_id	match_description	%_identity	alignment_length	mismatches	gap_openings	q_start	q_end	s_start	s_end	evalue	bit_score
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	300	0	0	8761	9060	1	300	3e-173	 595
+split_start=1;end=16000;length=16000;source_length=16000	split_start=1;end=300;length=300;source_length=300	-	100.00	300	0	0	541	840	300	1	3e-173	 595

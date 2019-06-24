@@ -1,0 +1,16 @@
+[Thursday June 20 14:42:20 2019] [Notice] A new project has been created in second_proj.
+[Monday June 24 10:43:57 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Monday June 24 10:43:57 2019] [Notice] Creating CGView XML files.
+[Monday June 24 10:43:59 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Monday June 24 10:43:59 2019] [Notice] Creating CGView maps.
+[Monday June 24 10:44:03 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Monday June 24 14:52:33 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Monday June 24 14:52:33 2019] [Notice] Creating CGView XML files.
+[Monday June 24 14:52:34 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Monday June 24 14:52:34 2019] [Notice] Creating CGView maps.
+[Monday June 24 14:52:38 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Monday June 24 14:53:52 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Monday June 24 14:53:52 2019] [Notice] Creating CGView XML files.
+[Monday June 24 14:53:53 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Monday June 24 14:53:53 2019] [Notice] Creating CGView maps.
+[Monday June 24 14:53:57 2019] [Notice] CGView maps have been created in second_proj/maps.
