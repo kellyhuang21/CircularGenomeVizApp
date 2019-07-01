@@ -14,3 +14,61 @@
 [Monday June 24 14:53:53 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
 [Monday June 24 14:53:53 2019] [Notice] Creating CGView maps.
 [Monday June 24 14:53:57 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Monday June 24 15:49:26 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Monday June 24 15:49:26 2019] [Notice] Creating CGView XML files.
+[Monday June 24 15:49:26 2019] [Error] The following command failed: perl second_proj/cgview_xml_builder.pl -size small, -sequence 'second_proj/reference_genome/QGKT01000001.1.gb' -output 'second_proj/maps/cgview_xml/small,.xml' -orf_size 25 -starts 'ttg|ctg|att|atc|ata|atg|gtg' -stops 'taa|tag|tga' -linear F -orfs F -gc_content T -gc_skew T -legend T -details T -feature_labels F -gene_labels F -hit_labels F -orf_labels F -condensed F -draw_divider_rings T -parse_reading_frame F -show_queries F -use_opacity F -gene_decoration arrow -scale_blast T -log 'second_proj/maps/cgview_xml/small,.log'.
+
+[Monday June 24 15:49:26 2019] [Error] The following command failed: perl second_proj/cgview_xml_builder.pl -size small, -sequence 'second_proj/reference_genome/QGKT01000001.1.gb' -output 'second_proj/maps/cgview_xml/small,.xml' -orf_size 25 -starts 'ttg|ctg|att|atc|ata|atg|gtg' -stops 'taa|tag|tga' -linear F -orfs F -gc_content T -gc_skew T -legend T -details T -feature_labels F -gene_labels F -hit_labels F -orf_labels F -condensed F -draw_divider_rings T -parse_reading_frame F -show_queries F -use_opacity F -gene_decoration arrow -scale_blast T -log 'second_proj/maps/cgview_xml/small,.log'. at /Users/summer2019/Documents/kellyhuangCGView/cgview_comparison_tool/scripts/cgview_comparison_tool.pl line 1754.
+	main::_buildCgviewXml('HASH(0x7f96dd1adda8)', 'HASH(0x7f96dc829e90)') called at /Users/summer2019/Documents/kellyhuangCGView/cgview_comparison_tool/scripts/cgview_comparison_tool.pl line 1100
+	main::_xmlCreation('HASH(0x7f96dc829e90)', 'Util::Configurator=HASH(0x7f96dd153a70)', 'Util::LogManager=HASH(0x7f96dd1b2da0)') called at /Users/summer2019/Documents/kellyhuangCGView/cgview_comparison_tool/scripts/cgview_comparison_tool.pl line 104
+
+
+[Monday June 24 15:49:36 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Monday June 24 15:49:36 2019] [Notice] Creating CGView XML files.
+[Monday June 24 15:49:38 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Monday June 24 15:49:38 2019] [Notice] Creating CGView maps.
+[Monday June 24 15:49:41 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Monday June 24 15:49:56 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Monday June 24 15:49:56 2019] [Notice] Creating CGView XML files.
+[Monday June 24 15:49:56 2019] [Error] The following command failed: perl second_proj/cgview_xml_builder.pl -size small,small -sequence 'second_proj/reference_genome/QGKT01000001.1.gb' -output 'second_proj/maps/cgview_xml/small,small.xml' -orf_size 25 -starts 'ttg|ctg|att|atc|ata|atg|gtg' -stops 'taa|tag|tga' -linear F -orfs F -gc_content T -gc_skew T -legend T -details T -feature_labels F -gene_labels F -hit_labels F -orf_labels F -condensed F -draw_divider_rings T -parse_reading_frame F -show_queries F -use_opacity F -gene_decoration arrow -scale_blast T -log 'second_proj/maps/cgview_xml/small,small.log'.
+
+[Monday June 24 15:49:56 2019] [Error] The following command failed: perl second_proj/cgview_xml_builder.pl -size small,small -sequence 'second_proj/reference_genome/QGKT01000001.1.gb' -output 'second_proj/maps/cgview_xml/small,small.xml' -orf_size 25 -starts 'ttg|ctg|att|atc|ata|atg|gtg' -stops 'taa|tag|tga' -linear F -orfs F -gc_content T -gc_skew T -legend T -details T -feature_labels F -gene_labels F -hit_labels F -orf_labels F -condensed F -draw_divider_rings T -parse_reading_frame F -show_queries F -use_opacity F -gene_decoration arrow -scale_blast T -log 'second_proj/maps/cgview_xml/small,small.log'. at /Users/summer2019/Documents/kellyhuangCGView/cgview_comparison_tool/scripts/cgview_comparison_tool.pl line 1754.
+	main::_buildCgviewXml('HASH(0x7f95e12e9cd0)', 'HASH(0x7f95e1034e78)') called at /Users/summer2019/Documents/kellyhuangCGView/cgview_comparison_tool/scripts/cgview_comparison_tool.pl line 1100
+	main::_xmlCreation('HASH(0x7f95e1034e78)', 'Util::Configurator=HASH(0x7f95e128fa58)', 'Util::LogManager=HASH(0x7f95e1032370)') called at /Users/summer2019/Documents/kellyhuangCGView/cgview_comparison_tool/scripts/cgview_comparison_tool.pl line 104
+
+
+[Tuesday June 25 16:57:26 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Tuesday June 25 16:57:26 2019] [Notice] Creating CGView XML files.
+[Tuesday June 25 16:57:27 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Tuesday June 25 16:57:27 2019] [Notice] Creating CGView maps.
+[Tuesday June 25 16:57:31 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Tuesday June 25 16:58:22 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Tuesday June 25 16:58:22 2019] [Notice] Creating CGView XML files.
+[Tuesday June 25 16:58:23 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Tuesday June 25 16:58:23 2019] [Notice] Creating CGView maps.
+[Tuesday June 25 16:58:27 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Tuesday June 25 16:59:08 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Tuesday June 25 16:59:08 2019] [Notice] Creating CGView XML files.
+[Tuesday June 25 16:59:09 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Tuesday June 25 16:59:09 2019] [Notice] Creating CGView maps.
+[Tuesday June 25 16:59:13 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Tuesday June 25 16:59:37 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Tuesday June 25 16:59:37 2019] [Notice] Creating CGView XML files.
+[Tuesday June 25 16:59:38 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Tuesday June 25 16:59:38 2019] [Notice] Creating CGView maps.
+[Tuesday June 25 16:59:42 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Tuesday June 25 17:02:01 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Tuesday June 25 17:02:01 2019] [Notice] Creating CGView XML files.
+[Tuesday June 25 17:02:02 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Tuesday June 25 17:02:02 2019] [Notice] Creating CGView maps.
+[Tuesday June 25 17:02:06 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Tuesday June 25 17:02:44 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Tuesday June 25 17:02:44 2019] [Notice] Creating CGView XML files.
+[Tuesday June 25 17:02:45 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Tuesday June 25 17:02:45 2019] [Notice] Creating CGView maps.
+[Tuesday June 25 17:02:49 2019] [Notice] CGView maps have been created in second_proj/maps.
+[Tuesday June 25 17:06:35 2019] [Notice] Using the settings file second_proj/project_settings.conf.
+[Tuesday June 25 17:06:35 2019] [Notice] Creating CGView XML files.
+[Tuesday June 25 17:06:36 2019] [Notice] CGView XML files have been created in second_proj/maps/cgview_xml.
+[Tuesday June 25 17:06:36 2019] [Notice] Creating CGView maps.
+[Tuesday June 25 17:06:40 2019] [Notice] CGView maps have been created in second_proj/maps.
